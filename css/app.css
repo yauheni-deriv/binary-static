@@ -180,6 +180,21 @@ a.previous-wrapper {
     border: 1px solid #dedede;
     border-radius: 4px;
     margin-bottom: 20px; }
+    #mt_account_management .mt-panel .password--field-wrapper {
+      max-width: unset; }
+      #mt_account_management .mt-panel .password--field-wrapper input {
+        max-width: unset; }
+    #mt_account_management .mt-panel .password--message {
+      white-space: unset; }
+    @media screen and (max-width: 480px) {
+      #mt_account_management .mt-panel .password--field-wrapper {
+        max-width: unset; }
+        #mt_account_management .mt-panel .password--field-wrapper input {
+          width: 100% !important; }
+      #mt_account_management .mt-panel .password--meter {
+        top: 22px; }
+      #mt_account_management .mt-panel .password--toggle {
+        top: 5px; } }
   #mt_account_management .flex {
     display: -webkit-box;
     display: -ms-flexbox;
