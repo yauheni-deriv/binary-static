@@ -531,16 +531,78 @@ button .barspinner.white {
       text-decoration: none;
       background-color: #14602b; }
 
-.days_to_crack {
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  padding: 5px;
-  margin-top: 5px; }
-  .days_to_crack.red {
-    color: #c03; }
-  .days_to_crack.green {
-    color: #2e8836; }
+#virtual-form .select2-container {
+  max-width: 220px; }
+
+.password--field-wrapper {
+  position: relative;
+  max-width: 220px; }
+  .password--field-wrapper input {
+    width: 202px; }
+  @media screen and (max-width: 480px) {
+    .password--field-wrapper {
+      margin: 0 auto; }
+      .password--field-wrapper input {
+        width: 202px !important; }
+      .password--field-wrapper + .error-msg {
+        text-align: center; } }
+
+.password--meter {
+  position: absolute;
+  pointer-events: none;
+  height: 3px;
+  top: 23px;
+  left: 1px;
+  border-radius: 0 0 3px 3px;
+  width: calc(100% - 2px); }
+  .password--meter-bg {
+    background: #f2f2f2;
+    z-index: 1; }
+  .password--meter-fill {
+    -webkit-transition: -webkit-transform 0.25s linear;
+    transition: -webkit-transform 0.25s linear;
+    transition: transform 0.25s linear;
+    transition: transform 0.25s linear, -webkit-transform 0.25s linear;
+    -webkit-transform-origin: left top;
+            transform-origin: left top;
+    z-index: 2;
+    -webkit-transform: scale(0, 1);
+            transform: scale(0, 1); }
+    .password--meter-fill.red {
+      background-color: #c03; }
+    .password--meter-fill.orange {
+      background-color: #e98024; }
+    .password--meter-fill.green {
+      background-color: #2e8836; }
+  @media screen and (max-width: 480px) {
+    .password--meter {
+      top: 28px; } }
+
+.password--hint {
+  margin-top: 16px;
+  max-width: 380px; }
+
+.password--message {
+  color: #e98024;
+  font-size: 13px;
+  font-style: italic;
+  white-space: nowrap;
+  margin-top: 0.4em; }
+  @media screen and (max-width: 480px) {
+    .password--message {
+      white-space: unset; } }
+
+.password--toggle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  cursor: pointer; }
+  @media screen and (max-width: 480px) {
+    .password--toggle {
+      top: 8px; } }
 
 ul.bullet.gr-row > li {
   display: list-item; }
