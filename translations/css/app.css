@@ -591,6 +591,9 @@ tbody#instruments > tr > td {
 #portfolio th {
   padding: 10px;
   text-align: left; }
+  @media (max-width: 600px) {
+    #portfolio th.temp-column {
+      display: none; } }
   #portfolio th.details {
     width: 45%; }
 
@@ -601,6 +604,9 @@ tbody#instruments > tr > td {
   display: none; }
 
 @media screen and (max-width: 768px) {
+  #portfolio .contract {
+    display: none;
+    width: 0 !important; }
   #portfolio .details {
     display: table-column;
     width: 0 !important; }

@@ -1946,7 +1946,7 @@ table {
 .table-container #statement-table tr td, .table-container #statement-table tr div .td, .table-container #profit-table tr td, .table-container #profit-table tr div .td {
   overflow: initial; }
 
-.table-container #statement-table tr td.desc, .table-container #statement-table tr div .desc.td, .table-container #profit-table tr td.desc, .table-container #profit-table tr div .desc.td {
+.table-container #statement-table tr td.desc, .table-container #statement-table tr div .desc.td, .table-container #statement-table tr td.contract, .table-container #statement-table tr div .contract.td, .table-container #profit-table tr td.desc, .table-container #profit-table tr div .desc.td, .table-container #profit-table tr td.contract, .table-container #profit-table tr div .contract.td {
   max-width: 30em;
   overflow-wrap: break-word; }
 
@@ -1955,6 +1955,8 @@ table {
     display: table-cell !important; }
     .table-container #statement-table tr > th.details .button, .table-container #statement-table tr > td.details .button, .table-container #statement-table tr div tr > .details.td .button, .table-container tr div #statement-table tr > .details.td .button, .table-container #profit-table tr > th.details .button, .table-container #profit-table tr > td.details .button, .table-container #profit-table tr div tr > .details.td .button, .table-container tr div #profit-table tr > .details.td .button {
       padding: 8px 15px; }
+  .table-container #statement-table tr > th.contract, .table-container #statement-table tr > td.contract, .table-container #statement-table tr div tr > .contract.td, .table-container tr div #statement-table tr > .contract.td, .table-container #profit-table tr > th.contract, .table-container #profit-table tr > td.contract, .table-container #profit-table tr div tr > .contract.td, .table-container tr div #profit-table tr > .contract.td {
+    display: none !important; }
   .table-container #statement-table tr th, .table-container #statement-table tr td, .table-container #statement-table tr div .td, .table-container #profit-table tr th, .table-container #profit-table tr td, .table-container #profit-table tr div .td {
     font-size: 0.7561436673rem; } }
 
@@ -1963,7 +1965,7 @@ table {
     display: none !important; }
   .table-container #statement-table {
     table-layout: auto; }
-  .table-container #statement-table tr > th.desc, .table-container #statement-table tr > td.desc, .table-container #statement-table tr div tr > .desc.td, .table-container tr div #statement-table tr > .desc.td {
+  .table-container #statement-table tr > th.desc, .table-container #statement-table tr > td.desc, .table-container #statement-table tr div tr > .desc.td, .table-container tr div #statement-table tr > .desc.td, .table-container #statement-table tr > th.contract > td.contract, .table-container #statement-table tr div tr > th.contract > .contract.td, .table-container tr div #statement-table tr > th.contract > .contract.td {
     display: none !important; } }
 
 /**
