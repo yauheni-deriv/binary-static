@@ -365,13 +365,14 @@ a.previous-wrapper {
       #mt_account_management #account_details .acc-info .display_login_tip {
         margin-left: 4px;
         border-bottom: none; }
-    #mt_account_management #account_details .add_more_servers {
+    #mt_account_management #account_details .add_region {
       position: absolute;
-      bottom: 8px;
-      right: 8px; }
-      #mt_account_management #account_details .add_more_servers span {
-        padding: 6px 8px;
-        font-size: 14px; }
+      bottom: 20px;
+      right: 20px; }
+      #mt_account_management #account_details .add_region #btn_add_region {
+        margin-right: 16px; }
+      #mt_account_management #account_details .add_region span {
+        font-size: 18px; }
   #mt_account_management .acc-actions {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -485,6 +486,18 @@ a.previous-wrapper {
     #mt_account_management .fst-container #fst_action .type-group p {
       max-width: 140px;
       margin: 0 auto; }
+    #mt_account_management .fst-container #fst_action .type-group #template_gaming_financial {
+      -webkit-box-ordinal-group: 2;
+          -ms-flex-order: 1;
+              order: 1; }
+    #mt_account_management .fst-container #fst_action .type-group #template_financial_financial {
+      -webkit-box-ordinal-group: 3;
+          -ms-flex-order: 2;
+              order: 2; }
+    #mt_account_management .fst-container #fst_action .type-group #template_financial_financial_stp {
+      -webkit-box-ordinal-group: 4;
+          -ms-flex-order: 3;
+              order: 3; }
     #mt_account_management .fst-container #fst_action #new_account_msg ul.bullet {
       margin-top: 0;
       margin-bottom: 0; }
@@ -523,7 +536,22 @@ a.previous-wrapper {
   #mt_account_management .mobile-balance {
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex; } }
+    display: flex; }
+  #mt_account_management #account_details .add_region {
+    position: unset;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    width: 100%;
+    padding: 0 10px; }
+    #mt_account_management #account_details .add_region a {
+      margin-bottom: 0 !important; }
+    #mt_account_management #account_details .add_region span {
+      padding: 9px;
+      font-size: 14px; } }
 
 .mt-sidebar-button {
   display: -webkit-box;
