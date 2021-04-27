@@ -2281,6 +2281,13 @@ body #not_authenticated_financial ul.checked > li {
 #self_exclusion_dialog #dialog_content {
   max-width: 496px; }
 
+.affiliate-ib-calculation {
+  border: 1px solid #000;
+  padding: 10px; }
+  .affiliate-ib-calculation-minimum {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+
 .signal_provider-container {
   display: -webkit-box;
   display: -ms-flexbox;
