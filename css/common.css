@@ -392,6 +392,16 @@ _:-ms-fullscreen, :root #content-holder {
 .vertical-align-middle {
   vertical-align: middle; }
 
+#email_consent + label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+  #email_consent + label:before {
+    margin-top: 4px; }
+
 input[type=checkbox] {
   margin: 5px 5px 5px 0;
   padding: 7px;
@@ -533,6 +543,9 @@ button .barspinner.white {
 
 #virtual-form .select2-container {
   max-width: 220px; }
+
+#virtual-form .hide-product-checkbox {
+  visibility: hidden !important; }
 
 .password--field-wrapper {
   position: relative;
@@ -1960,9 +1973,12 @@ table {
 
 @media (max-width: 600px) {
   .table-container #statement-table tr > th.details, .table-container #statement-table tr > td.details, .table-container #statement-table tr div tr > .details.td, .table-container tr div #statement-table tr > .details.td, .table-container #profit-table tr > th.details, .table-container #profit-table tr > td.details, .table-container #profit-table tr div tr > .details.td, .table-container tr div #profit-table tr > .details.td {
-    display: table-cell !important; }
+    display: table-cell !important;
+    position: relative; }
     .table-container #statement-table tr > th.details .button, .table-container #statement-table tr > td.details .button, .table-container #statement-table tr div tr > .details.td .button, .table-container tr div #statement-table tr > .details.td .button, .table-container #profit-table tr > th.details .button, .table-container #profit-table tr > td.details .button, .table-container #profit-table tr div tr > .details.td .button, .table-container tr div #profit-table tr > .details.td .button {
-      padding: 8px 15px; }
+      padding: 8px 15px;
+      position: absolute;
+      top: 0.25rem; }
   .table-container #statement-table tr th, .table-container #statement-table tr td, .table-container #statement-table tr div .td, .table-container #profit-table tr th, .table-container #profit-table tr td, .table-container #profit-table tr div .td {
     font-size: 0.7561436673rem; } }
 
