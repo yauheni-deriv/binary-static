@@ -862,7 +862,9 @@ div.kineticjs-content {
   .home-content .center-text-m {
     text-align: center; }
   .home-content .gr-centered-m {
-    margin: 0 auto; } }
+    margin: 0 auto; }
+  .home-content .margin-top-10 {
+    margin-top: 10px; } }
 
 @media screen and (max-width: 480px) {
   .home-content .small-image {
