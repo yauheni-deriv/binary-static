@@ -1699,6 +1699,10 @@ body #not_authenticated_financial ul.checked > li {
 .authentication .center-text .button .barspinner {
   margin: 0 auto; }
 
+@media screen and (max-width: 500px) {
+  .authentication .submit-status table {
+    font-size: 0.7rem; } }
+
 .authentication .submit-status table th:not(:last-child) {
   width: 25%; }
 
