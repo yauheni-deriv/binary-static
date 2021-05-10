@@ -1702,7 +1702,8 @@ label + input {
     margin: 0; }
 
 body #topbar {
-  text-align: right; }
+  text-align: right;
+  z-index: 4; }
   body #topbar .container {
     max-width: 1200px; }
   body #topbar #virtual-text {
@@ -1719,7 +1720,8 @@ body #topbar {
     white-space: nowrap;
     text-decoration: none; }
   body #topbar #select_language {
-    top: -3px; }
+    top: -3px;
+    z-index: 4; }
   body #topbar .nav-caret {
     margin-right: 0; }
   body #topbar #network_status {
