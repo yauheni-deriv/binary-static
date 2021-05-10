@@ -1055,30 +1055,28 @@ div.kineticjs-content {
     margin: 35px 0 0; }
   #payment_methods table thead {
     border-bottom: 1px solid #44484c; }
-  #payment_methods table tr {
-    position: relative; }
-    #payment_methods table tr .data-anchor-link {
-      display: none; }
-    #payment_methods table tr .th-list, #payment_methods table tr .td-list {
-      display: grid;
-      grid-template-columns: 2fr 1.3fr 1.3fr 3fr 1fr;
-      grid-column-gap: 10px; }
-      #payment_methods table tr .th-list .th, #payment_methods table tr .th-list .td, #payment_methods table tr .td-list .th, #payment_methods table tr .td-list .td {
-        -ms-flex-item-align: center;
-            align-self: center; }
-      #payment_methods table tr .th-list > *:nth-child(1), #payment_methods table tr .td-list > *:nth-child(1) {
-        min-width: 180px; }
-      #payment_methods table tr .th-list > *:nth-child(2), #payment_methods table tr .th-list > *:nth-child(3), #payment_methods table tr .td-list > *:nth-child(2), #payment_methods table tr .td-list > *:nth-child(3) {
-        min-width: 110px; }
-      #payment_methods table tr .th-list > *:nth-child(4), #payment_methods table tr .td-list > *:nth-child(4) {
-        min-width: 190px; }
-    #payment_methods table tr .td-description {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-align: center;
-          -ms-flex-align: center;
-              align-items: center; }
+  #payment_methods table tr .data-anchor-link {
+    display: none; }
+  #payment_methods table tr .th-list, #payment_methods table tr .td-list {
+    display: grid;
+    grid-template-columns: 2fr 1.3fr 1.3fr 3fr 1fr;
+    grid-column-gap: 10px; }
+    #payment_methods table tr .th-list .th, #payment_methods table tr .th-list .td, #payment_methods table tr .td-list .th, #payment_methods table tr .td-list .td {
+      -ms-flex-item-align: center;
+          align-self: center; }
+    #payment_methods table tr .th-list > *:nth-child(1), #payment_methods table tr .td-list > *:nth-child(1) {
+      min-width: 180px; }
+    #payment_methods table tr .th-list > *:nth-child(2), #payment_methods table tr .th-list > *:nth-child(3), #payment_methods table tr .td-list > *:nth-child(2), #payment_methods table tr .td-list > *:nth-child(3) {
+      min-width: 110px; }
+    #payment_methods table tr .th-list > *:nth-child(4), #payment_methods table tr .td-list > *:nth-child(4) {
+      min-width: 190px; }
+  #payment_methods table tr .td-description {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
   #payment_methods table thead tr th {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -1700,6 +1698,10 @@ body #not_authenticated_financial ul.checked > li {
 
 .authentication .center-text .button .barspinner {
   margin: 0 auto; }
+
+@media screen and (max-width: 500px) {
+  .authentication .submit-status table {
+    font-size: 0.7rem; } }
 
 .authentication .submit-status table th:not(:last-child) {
   width: 25%; }
