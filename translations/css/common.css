@@ -262,9 +262,6 @@ input[type=date] {
 label {
   line-height: 25px; }
 
-.fieldset_margin_top {
-  margin-top: 2rem; }
-
 /* used for form label in grid structure */
 .form_label {
   text-align: right;
@@ -293,9 +290,6 @@ label {
 
 .no-margin {
   margin: 0 !important; }
-
-.auto-margin {
-  margin: auto !important; }
 
 .full-height {
   height: 100%; }
@@ -886,14 +880,6 @@ label + input {
       max-width: unset; }
       #token_form .scope-list .scope-types:last-child {
         margin-bottom: 16px; } }
-
-#real_account_wrapper input {
-  width: 100%;
-  max-width: 340px; }
-  @media screen and (max-width: 768px) {
-    #real_account_wrapper input {
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; } }
 
 /* TODO: remove when UX research is finished */
 #interview_popup_container {
@@ -2057,110 +2043,6 @@ table {
     .img-lightbox:target > div {
       max-width: 80%;
       max-height: 80%; }
-
-.form-progress {
-  width: 100%; }
-  .form-progress__header {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    margin-bottom: 1rem; }
-    @media (min-width: 768px) {
-      .form-progress__header {
-        -webkit-box-align: center;
-            -ms-flex-align: center;
-                align-items: center;
-        margin-bottom: 1.5rem; } }
-  .form-progress__step {
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    height: 6rem;
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
-    width: var(--step_width); }
-    .form-progress__step .identifier {
-      border-radius: 50%;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-pack: center;
-          -ms-flex-pack: center;
-              justify-content: center;
-      -webkit-box-align: center;
-          -ms-flex-align: center;
-              align-items: center;
-      width: 40px;
-      height: 40px;
-      background-color: #f2f2f2;
-      border: 1px solid #f2f2f2;
-      color: #000;
-      line-height: 40px;
-      z-index: 2; }
-      .form-progress__step .identifier--active {
-        background-color: #e98024 !important;
-        color: #fff;
-        border: 1px solid #e98024 !important;
-        -webkit-transition: all 0.3s ease;
-        transition: all 0.3s ease; }
-    .form-progress__step-title {
-      font-size: 0.8695652174rem; }
-      @media (max-width: 480px) {
-        .form-progress__step-title {
-          margin: 0.5rem 0; } }
-  .form-progress__steps {
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    margin-top: 20px;
-    position: relative; }
-    .form-progress__steps--before {
-      bottom: 0;
-      content: '';
-      left: 0;
-      margin: 0 auto;
-      /* this centers the line to the full width specified */
-      position: absolute;
-      /* positioning must be absolute here, and relative positioning must be applied to the parent */
-      right: 0;
-      top: 1.4rem;
-      border-top: 2px solid #f2f2f2;
-      z-index: 0; }
-    .form-progress__steps--after {
-      border-top: 2px solid #e98024;
-      bottom: 0;
-      content: '';
-      left: 0;
-      margin: 0 auto;
-      /* this centers the line to the full width specified */
-      position: absolute;
-      /* positioning must be absolute here, and relative positioning must be applied to the parent */
-      top: 1.4rem;
-      -webkit-transition: width 0.3s ease;
-      transition: width 0.3s ease;
-      -webkit-transform: translateX(100px);
-              transform: translateX(100px);
-      z-index: 1; }
 
 /* language based rules */
 /* Specific rules for languages */

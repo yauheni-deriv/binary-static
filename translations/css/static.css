@@ -1524,12 +1524,8 @@ body #not_authenticated_financial ul.checked > li {
 .accounts-content #accounts_wrapper #no_new_accounts_wrapper {
   color: #c2c2c2; }
 
-#set_currency #currency_step_form .section-divider {
-  max-width: 600px; }
-
-@media screen and (max-width: 480px) {
-  #set_currency .set_currency_hint {
-    text-align: left; } }
+#set_currency #frm_set_currency .section-divider {
+  max-width: 500px; }
 
 #set_currency .currency_list > div {
   padding: 15px;
@@ -1562,61 +1558,6 @@ body #not_authenticated_financial ul.checked > li {
   .lightbox #set_currency #submit_section {
     margin-top: 20px;
     margin-bottom: 16px; }
-
-#submit_section {
-  margin-top: 30px;
-  padding-top: 20px;
-  border-top: 1px solid #f2f2f2; }
-
-@media screen and (max-width: 480px) {
-  #page_title {
-    font-size: 1.3225rem;
-    margin-bottom: 0; } }
-
-.add-account-tnc {
-  margin-left: 10px; }
-
-.margin-zero {
-  margin: 0; }
-
-.margin-v-10 {
-  margin: 10px 0; }
-
-.inline-block-button {
-  display: inline-block; }
-
-.select-center-mobile {
-  text-align-last: center;
-  -moz-text-align-last: center; }
-
-.select2-container {
-  width: 100% !important; }
-  @media screen and (min-width: 768px) {
-    .select2-container {
-      width: 360px !important; } }
-
-#content.real_account-content {
-  margin-top: 20px; }
-
-.center-select-m {
-  -moz-text-align-last: center;
-       text-align-last: center; }
-
-@media screen and (min-width: 768px) {
-  .currency_list {
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; } }
-
-@media screen and (min-width: 768px) {
-  .padding-h35 {
-    padding-left: 35px;
-    padding-right: 35px; } }
-
-@media screen and (max-width: 480px) {
-  .padding-h35 {
-    padding-left: 0;
-    padding-right: 0; } }
 
 .platforms-content h2 {
   line-height: 36px; }
