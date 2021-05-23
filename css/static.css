@@ -1640,8 +1640,9 @@ body #not_authenticated_financial ul.checked > li {
 .authentication #onfido .onfido-sdk-ui-NavigationBar-back {
   background: transparent; }
 
-.authentication #onfido .onfido-sdk-ui-Button-button-primary:hover {
-  background: #353ff4; }
+.authentication #onfido .onfido-sdk-ui-crossDevice-CrossDeviceLink-numberInputSection .ods-button.-action--primary {
+  height: 100%;
+  font-size: 0.875em; }
 
 .authentication #onfido .onfido-sdk-ui-Button-button-outline:hover {
   background-color: transparent; }
@@ -1651,11 +1652,22 @@ body #not_authenticated_financial ul.checked > li {
   color: #000;
   border-radius: 0; }
 
+.authentication #onfido .onfido-sdk-ui-Theme-textButton:hover {
+  color: #000; }
+
+.authentication #onfido .onfido-sdk-ui-CustomFileInput-container .onfido-sdk-ui-Theme-button-lg {
+  background: #3640f5; }
+
+.authentication #onfido .onfido-sdk-ui-CustomFileInput-container button {
+  background: transparent; }
+  .authentication #onfido .onfido-sdk-ui-CustomFileInput-container button:hover {
+    background: #5c6cff; }
+
 .authentication #onfido input:hover, .authentication #onfido input:focus, .authentication #onfido textarea:hover, .authentication #onfido textarea:focus {
   outline: 0;
   border: none; }
 
-.authentication #onfido button:not(.onfido-sdk-ui-Theme-link):not(.onfido-sdk-ui-Button-button-primary):hover, .authentication #onfido button:not(.onfido-sdk-ui-Theme-link):not(.onfido-sdk-ui-Button-button-primary):focus {
+.authentication #onfido button:not(.onfido-sdk-ui-Theme-link):not(.ods-button):hover, .authentication #onfido button:not(.onfido-sdk-ui-Theme-link):not(.ods-button):focus {
   background-color: inherit; }
 
 .authentication .fields > .gr-row > div > .button {
