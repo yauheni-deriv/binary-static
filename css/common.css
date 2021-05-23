@@ -307,8 +307,9 @@ label {
 
 /* global styles */
 .required_field_asterisk {
-  position: absolute;
-  margin: -3px 3px;
+  position: relative;
+  left: 3px;
+  top: -3px;
   font-size: 0.8695652174rem;
   color: #c03; }
   .required_field_asterisk.no-margin {
