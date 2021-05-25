@@ -307,8 +307,9 @@ label {
 
 /* global styles */
 .required_field_asterisk {
-  position: absolute;
-  margin: -3px 3px;
+  position: relative;
+  left: 3px;
+  top: -3px;
   font-size: 0.8695652174rem;
   color: #c03; }
   .required_field_asterisk.no-margin {
@@ -450,6 +451,11 @@ button .barspinner.white {
   display: none;
   background: url("../images/common/scrollup_icon.svg") no-repeat;
   z-index: 999; }
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
 
 .inline-flex {
   display: -webkit-inline-box;
@@ -619,6 +625,10 @@ button .barspinner.white {
 
 input[style*='background'] ~ .password--toggle {
   right: 32px; }
+
+.required_asterisk:after {
+  content: '*';
+  color: #c03; }
 
 ul.bullet.gr-row > li {
   display: list-item; }
