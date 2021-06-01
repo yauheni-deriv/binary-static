@@ -2044,6 +2044,9 @@ tbody#instruments > tr > td {
     .detailsws-content #address_form div.select select.select-hidden {
       min-width: unset; } }
 
+.detailsws-content #tax_information_form #tax_information_info {
+  display: none; }
+
 @media all and (max-width: 480px) {
   .detailsws-content #frmPersonalDetails div.select {
     width: 280px !important; }
