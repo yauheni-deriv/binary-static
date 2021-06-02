@@ -2201,6 +2201,29 @@ body #not_authenticated_financial ul.checked > li {
       .why-us-content .awards-section .horizontal-margin {
         margin: 15px 15px 20px; } }
 
+.deactivated-account-content {
+  text-align: center; }
+  .deactivated-account-content .close-user-account {
+    height: 25vh; }
+    .deactivated-account-content .close-user-account .msg_main_modal .notice-msg {
+      background-color: transparent;
+      height: auto;
+      margin: auto; }
+      .deactivated-account-content .close-user-account .msg_main_modal .notice-msg img {
+        width: 4rem;
+        margin-bottom: 1rem; }
+      .deactivated-account-content .close-user-account .msg_main_modal .notice-msg p {
+        font-weight: 500; }
+      @media (max-width: 500px) {
+        .deactivated-account-content .close-user-account .msg_main_modal .notice-msg h1 {
+          font-size: 30px; } }
+      @media (max-width: 500px) {
+        .deactivated-account-content .close-user-account .msg_main_modal .notice-msg {
+          width: 90%; } }
+    @media (max-width: 500px) {
+      .deactivated-account-content .close-user-account {
+        margin-bottom: 5rem; } }
+
 .account-closure .notice-msg-wrapper {
   background-color: #fef1cf;
   margin-top: 65px; }
