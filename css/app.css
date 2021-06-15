@@ -2067,9 +2067,42 @@ tbody#instruments > tr > td {
     text-align: left;
     margin-bottom: 0.5rem; } }
 
+#financial-form #lbl_residence, .realws-content #lbl_residence {
+  text-align: left;
+  margin-left: 0.5rem; }
+
+#financial-form #date_of_birth, .realws-content #date_of_birth {
+  margin: 0;
+  text-indent: 0; }
+
+#financial-form input:not([type=checkbox]), #financial-form .select-dropdown, #financial-form #citizen, .realws-content input:not([type=checkbox]), .realws-content .select-dropdown, .realws-content #citizen {
+  width: 260px; }
+
+#financial-form #citizen, #financial-form #address_postcode, .realws-content #citizen, .realws-content #address_postcode {
+  box-sizing: unset;
+  -webkit-box-sizing: unset; }
+
 @media screen and (max-width: 480px) {
-  #financial-form div.select {
-    width: calc(100% - 3rem); } }
+  #financial-form select, #financial-form div.select, .realws-content select, .realws-content div.select {
+    width: 100%;
+    height: 2rem; }
+  #financial-form .place_of_birth_container .gr-8, .realws-content .place_of_birth_container .gr-8 {
+    text-align: left; }
+  #financial-form div.select:after, .realws-content div.select:after {
+    top: 12px; }
+  #financial-form input:not([type=checkbox]), #financial-form #citizen, .realws-content input:not([type=checkbox]), .realws-content #citizen {
+    width: calc(100% - 1.2rem);
+    height: 1.5rem;
+    text-align: left; }
+  #financial-form #source_of_wealth, .realws-content #source_of_wealth {
+    min-width: 0; }
+  #financial-form .select2-container, .realws-content .select2-container {
+    width: 100% !important; }
+  #financial-form .select2-selection, .realws-content .select2-selection {
+    text-align: left; }
+  #financial-form div.select + span, .realws-content div.select + span {
+    width: 100%;
+    height: 1.9rem; } }
 
 #frm_account_transfer div.select select.select-hidden {
   min-width: 200px; }
@@ -2267,12 +2300,23 @@ tbody#instruments > tr > td {
           -ms-flex-pack: center;
               justify-content: center; } }
 
-.realws-content div.select-dropdown {
-  width: 100%; }
+.realws-content #lbl_residence {
+  margin-left: 0.5rem;
+  text-align: left; }
+
+.realws-content #date_of_birth {
+  margin: 0;
+  text-indent: 0; }
 
 @media screen and (max-width: 480px) {
-  .realws-content {
-    width: 280px !important; } }
+  .realws-content #lbl_residence {
+    text-align: center;
+    margin-left: -0.5rem; }
+  .realws-content #address_form #address_postcode {
+    width: calc(100% - 1.2rem);
+    height: 1.5rem; }
+  .realws-content #secret_answer, .realws-content .select2-selection, .realws-content input:not([type=checkbox]) {
+    text-align: center; } }
 
 #paymentagent_withdrawal .wrapper-row-agent label {
   padding-bottom: 10px; }
