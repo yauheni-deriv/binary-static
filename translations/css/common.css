@@ -554,7 +554,7 @@ button .barspinner.white {
   display: none; }
 
 #virtual-form .email-consent-container {
-  visibility: hidden !important; }
+  display: none; }
 
 .password--field-wrapper {
   position: relative;
