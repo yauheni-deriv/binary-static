@@ -550,8 +550,11 @@ button .barspinner.white {
 #virtual-form .select2-container {
   max-width: 220px; }
 
+#virtual-form .hide-product-checkbox {
+  display: none; }
+
 #virtual-form .email-consent-container {
-  visibility: hidden !important; }
+  display: none; }
 
 .password--field-wrapper {
   position: relative;
@@ -1998,6 +2001,10 @@ table {
       top: 0.25rem; }
   .table-container #statement-table tr th, .table-container #statement-table tr td, .table-container #statement-table tr div .td, .table-container #profit-table tr th, .table-container #profit-table tr td, .table-container #profit-table tr div .td {
     font-size: 0.7561436673rem; } }
+
+@media (max-width: 480px) {
+  .table-container #statement-table tr > th.details .button, .table-container #statement-table tr > td.details .button, .table-container #statement-table tr div tr > .details.td .button, .table-container tr div #statement-table tr > .details.td .button, .table-container #profit-table tr > th.details .button, .table-container #profit-table tr > td.details .button, .table-container #profit-table tr div tr > .details.td .button, .table-container tr div #profit-table tr > .details.td .button {
+    padding: 8px; } }
 
 @media (max-width: 600px) {
   .table-container #profit-table tr > th.contract, .table-container #profit-table tr > td.contract, .table-container #profit-table tr div tr > .contract.td, .table-container tr div #profit-table tr > .contract.td {
