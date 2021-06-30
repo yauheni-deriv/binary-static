@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-06-27 05:33\n"
+"PO-Revision-Date: 2021-06-30 07:55\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -2084,7 +2084,7 @@ msgid "Before using the trading robots or Expert Advisors and forward trade, the
 msgstr "Перед тем, как использовать торговых роботов или Expert Advisors и форвардную торговлю, клиент должен протестировать их на демо-счете."
 
 msgid "Before you deactivate your account, you need to do the following:"
-msgstr ""
+msgstr "Прежде чем деактивировать свой счет, вам необходимо сделать следующее:"
 
 msgid "Beginner"
 msgstr "Для начинающих"
@@ -2852,7 +2852,7 @@ msgid "Close identity verification screen"
 msgstr "Закройте экран подтверждения личности"
 
 msgid "Close open positions"
-msgstr ""
+msgstr "Закройте открытые позиции"
 
 msgid "Close your %1 account."
 msgstr "Закрыть ваш счет %1."
@@ -6045,16 +6045,16 @@ msgid "If you find any vulnerabilities in our %1open-source code%2, feel free to
 msgstr "Если вы обнаружите какие-либо уязвимости в нашем %1проекте с открытым кодом%2, пожалуйста, отправьте pull-запрос на GitHub."
 
 msgid "If you have a Binary real account, go to %1Cashier%2 to withdraw your funds"
-msgstr ""
+msgstr "Если у вас есть реальный счет Binary, перейдите в %1Кассу%2, чтобы вывести средства"
 
 msgid "If you have a Binary real account, go to %1Portfolio%2 to close any open positions."
-msgstr ""
+msgstr "Если у вас есть реальный счет Binary, перейдите в %1Портфель%2, чтобы закрыть открытые позиции."
 
 msgid "If you have a MT5 real account, go to %1MT5 dashboard%2 to withdraw your funds."
-msgstr ""
+msgstr "Если у вас есть реальный счет MT5, перейдите на %1панель MT5%2, чтобы вывести средства."
 
 msgid "If you have a MT5 real account, log into it to close any open positions."
-msgstr ""
+msgstr "Если у вас есть реальный счет MT5, войдите на него, чтобы закрыть открытые позиции."
 
 msgid "If you have a payment reference (for example 122), you can enter it here."
 msgstr "Если у вас есть номер перевода (например, 122), укажите его здесь."
@@ -12603,7 +12603,7 @@ msgid "This feature is available to demo accounts only."
 msgstr "Эта опция доступна только для демо-счетов."
 
 msgid "This feature is not relevant to demo accounts."
-msgstr ""
+msgstr "Эта функция недоступна на демо-счетах."
 
 msgid "This feature is only relevant to payment agent accounts."
 msgstr "Эта функция доступна только на счетах платёжных агентов."
@@ -14337,7 +14337,7 @@ msgid "Withdraw funds from your MT5 account"
 msgstr "Вывод средств со счёта MT5"
 
 msgid "Withdraw your funds"
-msgstr ""
+msgstr "Выведите средства"
 
 msgid "Withdrawal"
 msgstr "Вывод"
