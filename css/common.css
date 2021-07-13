@@ -778,6 +778,8 @@ li strong.margin-right {
     color: #000;
     font-weight: 400;
     padding-left: 1rem; }
+  .button-social .text-capitalize {
+    text-transform: capitalize !important; }
   @media screen and (max-width: 650px) {
     .button-social {
       width: 150px; } }
