@@ -1558,6 +1558,8 @@ body #not_authenticated_financial ul.checked > li {
   .lightbox #set_currency #submit_section {
     margin-top: 20px;
     margin-bottom: 16px; }
+  .lightbox #set_currency #deposit_btn {
+    margin-bottom: 16px; }
 
 .platforms-content h2 {
   line-height: 36px; }
