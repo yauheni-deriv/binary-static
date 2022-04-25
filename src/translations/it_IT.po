@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-04-08 06:56\n"
+"PO-Revision-Date: 2022-04-25 03:51\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
@@ -2350,6 +2350,9 @@ msgstr "Acquista"
 msgid "Buy = go long"
 msgstr "Acquistare = aprire una posizione long"
 
+msgid "Buy and sell contracts, renew expired purchases, and top up demo accounts."
+msgstr "Acquistare e vendere contratti, rinnovare acquisti scaduti e versare fondi su conti di prova."
+
 msgid "Buy or Sell"
 msgstr "Acquista o vendi"
 
@@ -2484,21 +2487,6 @@ msgstr "La fotocamera non funziona?"
 
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
 msgstr "Posso incentivare i clienti da me segnalati a iscriversi attraverso il mio link associativo unico, invece che iscriversi direttamente?"
-
-msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up demo accounts."
-msgstr "Può essere utilizzato per acquistare e vendere contratti, rinnovare acquisti scaduti e aggiungere fondi a conti di prova."
-
-msgid "Can be used to open accounts, set settings, manage token usage, and more."
-msgstr "Può essere utilizzato per aprire account, configurare le impostazioni, gestire l'uso dei token e altro."
-
-msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
-msgstr "Può essere utilizzato per visualizzare l'attività dell'account, incluse le impostazioni, limiti, bilanci, storico dei trade e altro."
-
-msgid "Can be used to view the trading history of an account."
-msgstr "Permette di visualizzare la cronologia di trading di un conto."
-
-msgid "Can be used to withdraw to payment agents and transfer funds between accounts."
-msgstr "Utilizzabile per effettuare prelievi a favore di agenti di pagamento e trasferire fondi tra conti."
 
 msgid "Can you spare 15 minutes?"
 msgstr "Hai 15 minuti per noi?"
@@ -5942,7 +5930,7 @@ msgid "If the <strong>last tick</strong> is equal to the average of the ticks, y
 msgstr "Se <strong>l'ultimo tick</strong> corrisponde alla media dei tick, non ottieni il payout."
 
 msgid "If the Agent has not been asked to meet a minimum account balance requirement upon application, the Agent will receive a 30-day notice to ensure the Agent’s Binary.com account balance meets the minimum balance requirement for the Agent’s country of residence. The Agent may not use credit or debit cards or Deriv P2P to top up the Agent’s Binary.com account for the purpose of meeting the minimum balance requirement. The Company reserves the right to withdraw the Agent’s payment agent status if the Agent does not meet this requirement within 30 days."
-msgstr "Se l'agente non è stato chiesto di soddisfare un requisito di saldo minimo del conto al momento della domanda, l'agente riceverà un avviso di 30 giorni per garantire che il saldo del conto Binary.com dell'agente soddisfi il requisito di saldo minimo per il paese di residenza dell'agente. L'agente non può utilizzare carte di credito o di debito o Deriv P2P per ricaricare il conto Binary.com dell'agente al fine di soddisfare il requisito di saldo minimo. La Società si riserva il diritto di ritirare lo status di agente di pagamento dell'Agente se l'Agente non soddisfa questo requisito entro 30 giorni."
+msgstr "Se al momento della domanda, l'agente non ha ricevuto la richiesta di soddisfare un requisito di saldo minimo del conto, quest'ultimo riceverà un preavviso di 30 giorni per garantire che il saldo del conto Binary.com soddisfi il requisito di saldo minimo per il paese di residenza dell'agente. L'agente non può utilizzare carte di credito o di debito o Deriv P2P per ricaricare il conto Binary.com al fine di soddisfare il requisito di saldo minimo. La Società si riserva il diritto di ritirare lo status di agente di pagamento dell'Agente se quest'ultimo non soddisfa tale requisito entro 30 giorni."
 
 msgid "If the Company (in its sole discretion) is not satisfied that a client is complying with these terms, or if a client does not comply with a reasonable request for information made by the Company, the Company may cancel the client's account and withhold any funds accumulated therein."
 msgstr "Qualora la Società (a sua esclusiva discrezione) non ritenesse che il cliente stia rispettando i suddetti termini, o qualora un cliente non adempisse ad una ragionevole richiesta di informazioni avanzata dalla Società, quest'ultima potrebbe cancellare il conto del cliente e trattenere tutti i fondi in esso accumulati."
@@ -8289,6 +8277,9 @@ msgstr "Apri un conto gratuito"
 
 msgid "Open account"
 msgstr "Apri un conto"
+
+msgid "Open accounts, manage settings, manage token usage, and more."
+msgstr "Apri conti, gestisci impostazioni, gestisci uso dei token e molto altro ancora."
 
 msgid "Open an account and start trading in minutes."
 msgstr "Apri un conto e inizia a fare trading in pochi minuti."
@@ -10748,7 +10739,7 @@ msgid "Such a withdrawal would result in the client's Account Equity being less 
 msgstr "tale prelievo porterebbe a un calo dell'equity del conto del cliente al di sotto dello zero;"
 
 msgid "Such materials may be copied and distributed on a limited basis for noncommercial purposes only, provided that any material copied remains intact and that all copies include the following notice in a clearly visible position: &ldquo;Copyright <span class='currentYear'></span> Deriv Ltd. All rights reserved.&rdquo;"
-msgstr "Tali materiali possono essere copiati e distribuiti su base limitata solo per scopi non commerciali, a condizione che qualsiasi materiale copiato rimanga intatto e che tutte le copie includano il seguente avviso in una posizione chiaramente visibile: &ldquo;Copyright <span class='currentYear'></span> Deriv Ltd. Tutti i diritti riservati.&rdquo;"
+msgstr "Tali materiali possono essere copiati e distribuiti limitatamente solo per scopi non commerciali, a condizione che qualsiasi materiale copiato rimanga intatto e che tutte le copie includano il seguente avviso in una posizione chiaramente visibile: &ldquo;Copyright <span class='currentYear'></span> Deriv Ltd. Tutti i diritti riservati.&rdquo;"
 
 msgid "Summarise audit findings and work with department heads on the proposed solutions"
 msgstr "Riassumere i risultati degli audit e lavorare con i capi dipartimento sulle soluzioni proposte"
@@ -13003,9 +12994,6 @@ msgstr "Oggi Labuan è conosciuta come fiorente centro finanziario e meta turist
 msgid "Token"
 msgstr "Token"
 
-msgid "Token name"
-msgstr "Nome del token"
-
 msgid "Too many failed attempts"
 msgstr "Troppi tentativi falliti"
 
@@ -13799,13 +13787,16 @@ msgid "Verify your identity"
 msgstr "Verifica l'identità"
 
 msgid "Version 53. Last modified 01-03-2022."
-msgstr "Versione 53. Ultima modifica 2022-03-01."
+msgstr "Versione 53. Ultima modifica 01-03-2022."
 
 msgid "Video Room Facility"
 msgstr "Sala video"
 
 msgid "View"
 msgstr "Visualizza"
+
+msgid "View account activity such as settings, limits, balance sheets, trade purchase history, and more."
+msgstr "Visualizza l'attività del conto con impostazioni, limiti, bilanci, cronologia dei trade e molto altro."
 
 msgid "View available payment methods"
 msgstr "Mostra le modalità di pagamento disponibili"
@@ -13836,6 +13827,9 @@ msgstr "Mostra l'elenco completo degli asset, tipologie di contratto e durate."
 
 msgid "View the operating hours of the markets you can trade."
 msgstr "Mostra l'orario operativo dei mercati in cui puoi fare trading."
+
+msgid "View the trading history."
+msgstr "Visualizza la cronologia dei trade."
 
 msgid "View updated statement"
 msgstr "Visualizza estratto conto aggiornato"
@@ -14514,6 +14508,9 @@ msgstr "Preleva da MT5"
 
 msgid "Withdraw funds from your MT5 account"
 msgstr "Preleva fondi dal conto MT5"
+
+msgid "Withdraw to payment agents, and transfer funds between accounts."
+msgstr "Puoi trasferire fondi tra conti o a favore degli agenti di pagamento."
 
 msgid "Withdrawal"
 msgstr "Prelievo"
