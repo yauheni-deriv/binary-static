@@ -100,15 +100,6 @@ const Page = (() => {
                 if (url_query_strings['data-elevio-article']) {
                     Elevio.injectElevio();
                 }
-
-                // Handle opening livechat via URL
-                const is_livechat_open = url_query_strings.is_livechat_open === 'true';
-
-                if (is_livechat_open && window.LiveChatWidget) {
-                    window.LiveChatWidget.on('ready', () => {
-                        window.LC_API.open_chat_window();
-                    });
-                }
             }
             Header.onLoad();
             Footer.onLoad();
