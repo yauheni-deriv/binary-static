@@ -52,7 +52,7 @@ const Footer = () => (
                                     { text: it.L('Binary.com in Numbers'),  href: it.url_for('binary-in-numbers') },
                                     { text: it.L('Careers'),                href: it.deriv_career_url ,                   target: '_blank' },
                                     { text: it.L('Patents'),                href: it.url_for('legal/us_patents') },
-                                    { text: it.L('Contact Us'),             href: it.url_for('contact') },
+                                    { text: it.L('Contact Us'),             href: 'https://deriv.com/help-centre' },
                                 ]}
                             />
 
@@ -136,7 +136,7 @@ const Footer = () => (
                                     { media: 'youtube',   href: 'https://www.youtube.com/user/BinaryTradingVideos' },
                                     { media: 'facebook',  href: 'https://www.facebook.com/derivdotcom' },
                                     { media: 'twitter',   href: 'https://www.twitter.com/derivdotcom' },
-                                    { media: 'telegram',  href: 'https://t.me/binarydotcom' },
+                                    { media: 'telegram',  href: 'https://t.me/derivdotcomofficial' },
                                     { media: 'reddit',    href: 'https://www.reddit.com/user/Deriv_official/' },
                                 ]}
                             />
@@ -149,7 +149,7 @@ const Footer = () => (
                             {it.L('In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority ([_1]licence no. IS/70156[_2]).', `<a href=${it.url_for('download/WS-Deriv-Investments-Europe-Limited.pdf')} target="_blank">`, '</a>')}
                         </p>
                         <p>
-                            {it.L('Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission; Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission ([_3]licence no. SIBA/L/18/1114[_4]); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business ([_5]licence no. MB/18/0024[_6]).',
+                            {it.L('Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission ([_1]view licence[_2]); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission ([_3]licence no. SIBA/L/18/1114[_4]); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business ([_5]licence no. MB/18/0024[_6]).',
                                 `<a href=${it.url_for('download/regulation/Vanuatu-license.pdf')} target="_blank">`, '</a>',
                                 `<a href=${it.url_for('download/regulation/BVI_license.pdf')} target="_blank">`, '</a>',
                                 `<a href=${it.url_for('download/regulation/Labuan-license.pdf')} target="_blank">`, '</a>')}
@@ -188,7 +188,7 @@ const Footer = () => (
                                     { media: 'facebook', href: 'https://www.facebook.com/derivUK/' },
                                     { media: 'twitter', href: 'https://www.twitter.com/deriv_uk/' },
                                     { media: 'instagram', href: 'https://www.instagram.com/deriv_uk/' },
-                                    { media: 'telegram', href: 'https://t.me/binarydotcom' },
+                                    { media: 'telegram', href: 'https://t.me/derivdotcomofficial' },
                                     { media: 'reddit', href: 'https://www.reddit.com/user/Deriv_official/' },
                                 ]}
                             />
@@ -200,7 +200,7 @@ const Footer = () => (
                                     { media: 'facebook', href: 'https://www.facebook.com/derivEU/' },
                                     { media: 'twitter', href: 'https://www.twitter.com/deriv_eu/' },
                                     { media: 'instagram', href: 'https://www.instagram.com/deriv_eu/' },
-                                    { media: 'telegram', href: 'https://t.me/binarydotcom' },
+                                    { media: 'telegram', href: 'https://t.me/derivdotcomofficial' },
                                     { media: 'reddit', href: 'https://www.reddit.com/user/Deriv_official/' },
                                 ]}
                             />

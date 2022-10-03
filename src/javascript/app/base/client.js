@@ -120,6 +120,9 @@ const Client = (() => {
         if (response.logout !== 1) return;
         removeCookies('login', 'loginid', 'loginid_list', 'email', 'residence', 'settings'); // backward compatibility
         removeCookies('reality_check', 'affiliate_token', 'affiliate_tracking', 'onfido_token', 'hide_guide');
+        // clear local storage
+        localStorage.removeItem('read_scam_message');
+        localStorage.removeItem('new_user_account');
         // clear elev.io session storage
         sessionStorage.removeItem('_elevaddon-6app');
         sessionStorage.removeItem('_elevaddon-6create');
@@ -137,7 +140,8 @@ const Client = (() => {
                 redirection(response);
             });
         } else {
-            redirection(response);
+            // for non-binary domains adding a delay for redirection to prevent NS_BINDING_ABORTED error in firefox.
+            setTimeout(() => {  redirection(response); }, 500);
         }
     };
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-06-30 14:48\n"
+"PO-Revision-Date: 2022-10-03 04:37\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -538,12 +538,6 @@ msgstr "(d) Kemungkinan Penyelesaian"
 msgid "(e) Size and nature"
 msgstr "(e) Ukuran dan sifat"
 
-msgid "*Cryptocurrency pairs are not available for DMT5 Financial accounts registered with Deriv (V) Ltd."
-msgstr "*Pasangan mata uang kripto tidak tersedia untuk akun DMT5 Finansial yang terdaftar di Deriv (V) Ltd."
-
-msgid "+ Add region"
-msgstr "+ Tambah wilayah"
-
 msgid "0 – 19.999%"
 msgstr "0 – 19,999%"
 
@@ -825,6 +819,9 @@ msgstr "Sebuah mata yang tajam untuk mengidentifikasi tren baru dalam marketing,
 
 msgid "A lifelong interest in accounting, and an aptitude for numbers"
 msgstr "Minat seumur hidup dalam bidang akuntansi, dan kecakapan untuk angka"
+
+msgid "A link can contain the word \"Binary\" and still be fake."
+msgstr "Tautan dapat berisi kata “Binary” namun masih dapat dipalsukan."
 
 msgid "A list of accepted payment methods"
 msgstr "Daftar metode pembayaran yang diterima"
@@ -1975,6 +1972,9 @@ msgstr "Platform trading online yang memenangi berbagai penghargaan"
 msgid "Award-winning trading excellence"
 msgstr "Keunggulan trading pemenang award"
 
+msgid "Awards and orders"
+msgstr "Penghargaan dan pesanan"
+
 msgid "B. Commencement"
 msgstr "B. Permulaan"
 
@@ -2151,6 +2151,9 @@ msgstr "BetOnMarkets.com mencapai $1 milyar omset sejak tahun 1999"
 
 msgid "Betting system and method"
 msgstr "Sistem dan metode trading"
+
+msgid "Beware of the fake links."
+msgstr "Waspadalah terhadap tautan palsu."
 
 msgid "Bid"
 msgstr "Bid"
@@ -2809,11 +2812,8 @@ msgstr "Klien setuju untuk mematuhi permintaan wajar dari Perusahaan untuk memen
 msgid "Clients are also advised that their rights may be prejudiced if they provide the wrong information as the Company would not be in a position to act in their best interests."
 msgstr "Klien juga dinasihati bahwa hak-hak mereka dapat dianggap buruk jika mereka memberikan informasi yang salah karena Perusahaan tidak akan berada dalam posisi untuk bertindak demi kepentingan terbaik mereka."
 
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) who wish to trade CFDs on financial instruments and cryptocurrencies can have MetaTrader 5 accounts under Deriv (BVI) Ltd. %1 is not available in the British Virgin Islands."
-msgstr "Klien dari seluruh dunia (kecuali negara terbatas seperti AS, Kanada, Hong Kong) yang ingin bertrading CFD pada instrumen keuangan dan mata uang kripto dapat mendaftar akun MetaTrader 5 di bawah Deriv (BVI) Ltd. %1 tidak tersedia di Kepulauan Virgin Britania Raya."
-
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. This company does not offer CFDs on cryptocurrencies. %1 is not available in the Republic of Vanuatu."
-msgstr "Pelanggan dari seluruh dunia (kecuali Amerika Serikat, Kanada, Hong Kong) akan mendaftar akun FX dan CFD Metatrader 5 dibawah Deriv (V) Ltd. Perusahaan ini tidak menawarkan CFD pada mata uang kripto. %1 tidak tersedia untuk warga Republik Vanuatu."
+msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. %1 is not available in the Republic of Vanuatu."
+msgstr "Pelanggan dari seluruh dunia (kecuali Amerika Serikat, Kanada, Hong Kong) akan mendaftar akun FX dan CFD Metatrader 5 dibawah Deriv (V) Ltd. %1 tidak tersedia untuk warga Republik Vanuatu."
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, and Hong Kong) will have their account opened with Deriv (SVG) LLC."
 msgstr "Klien dari seluruh dunia (kecuali Amerika Serikat, Kanada, dan Hong Kong) akan mendaftar akun mereka pada Deriv (SVG) LLC."
@@ -2830,6 +2830,9 @@ msgstr "Klien dengan ini menyatakan bahwa mereka berurusan dengan DIEL di luar r
 msgid "Clients in the European Union who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
 msgstr "Klien di Uni Eropa yang ingin melakukan trading produk gaming akan terdaftar pada Deriv Investments (Europe) Limited."
 
+msgid "Clients in the rest of the world (except for certain countries such as the USA, Canada, and Hong Kong) who wish to trade CFDs on financial instruments (via DMT5 Financial account or DMT5 Financial STP account) and synthetic indices (via DMT5 Synthetic account) can have MetaTrader 5 accounts under Deriv (BVI) Ltd."
+msgstr "Klien di seluruh dunia (kecuali negara tertentu seperti AS, Kanada, dan Hong Kong) yang ingin bertrading CFD pada instrumen keuangan (melalui akun DMT5 Finansial atau Finansial STP) dan indeks sintetis (melalui akun DMT5 Sintetis) dapat mendaftar akun MetaTrader 5 di bawah Deriv (BVI) Ltd."
+
 msgid "Clients may trade on our platforms only when they are using their own money and are drawing on funds that have been acquired honestly. If you have any suspicion that clients are using money that has been acquired dishonestly, you must inform %1.  In such cases, we may decide to conduct checks on the client’s status and background. %2 management will decide what information needs to be reported to government officials and through what channels."
 msgstr "Klien hanya dapat bertrading pada platform kami menggunakan dana mereka sendiri dan menarik dana yang telah diperoleh secara jujur. Jika Anda memiliki kecurigaan dimana klien menggunakan dana yang diperoleh secara tidak jujur, maka Anda perlu menginformasikan pada %1. Dalam kasus tersebut, kami dapat memutuskan untuk melakukan pemeriksaan pada status dan latar belakang klien. Manajemen %2 akan memutuskan informasi dan cara penyampaian yang akan dilakukan kepada pihak yang berwenang.  "
 
@@ -2844,12 +2847,6 @@ msgstr "Klien harus mendaftar secara pribadi."
 
 msgid "Clients need to satisfy at least two of the following criteria in order to receive Professional Client status:"
 msgstr "Klien perlu memenuhi setidaknya dua kriteria berikut untuk menerima status sebagai Klien Profesional:"
-
-msgid "Clients registered with Deriv (Europe) Limited can refer their complaints to the Malta Gaming Authority via the %1Player Support Unity%3. They can file their unresolved disputes with the European Commission’s %2Online Dispute Resolution (ODR)%3."
-msgstr "Klien yang terdaftar di Deriv (Europe) Limited dapat merujuk keluhan mereka ke Malta Gaming Authority melalui %1Player Support Unity%3. Mereka dapat mengajukan perselisihan yang belum terselesaikan melalui %2Online Dispute Resolution (ODR)%3 Komisi Eropa."
-
-msgid "Clients registered with Deriv Investments (Europe) Limited can raise their unresolved disputes with the Office of the Arbiter for Financial Services. Contact details and guidance on making a complaint with the Arbiter's Office can be found %1here%2."
-msgstr "Klien yang terdaftar pada Deriv Investments (Europe) Limited dapat melaporkan sengketa yang belum terselesaikan dengan Kantor Arbiter mengenai Jasa Keuangan. Rincian kontak dan panduan untuk mengajukan keluhan mengenai Kantor Arbiter dapat ditemukan %1disini%2."
 
 msgid "Clients shall not hold or pool third-party funds into their own account held with the Company."
 msgstr "Klien dilarang keras untuk mengumpulkan dana beberapa pihak kedalam akun yang mereka miliki pada Perusahaan."
@@ -3021,6 +3018,9 @@ msgstr "Kewajiban perusahaan"
 
 msgid "Company's rights"
 msgstr "Hak perusahaan"
+
+msgid "Compare MetaTrader 5 accounts"
+msgstr ""
 
 msgid "Compensation under Investor Compensation Scheme"
 msgstr "Kompensasi berdasarkan Skema Kompensasi Investor"
@@ -3757,14 +3757,14 @@ msgstr "Akun Demo"
 msgid "Demo CFDs"
 msgstr "CFD Demo"
 
+msgid "Demo Derived"
+msgstr ""
+
 msgid "Demo Financial"
 msgstr "Demo Finansial"
 
 msgid "Demo Financial STP"
 msgstr "Demo Finansial STP"
-
-msgid "Demo Synthetic"
-msgstr "Demo Sintetis"
 
 msgid "Demo accounts do not have Payment Agent services."
 msgstr "Akun demo tidak memiliki layanan Agen Pembayaran."
@@ -3826,8 +3826,8 @@ msgstr "Deposit %1 hari"
 msgid "Deposit: Instant"
 msgstr "Deposit: Instan"
 
-msgid "Deposits and withdrawals for your MetaTrader 5 account always pass through your binary options account."
-msgstr "Deposit dan penarikan untuk akun MetaTrader 5 Anda akan selalu melewati akun opsi binary Anda."
+msgid "Deposits and withdrawals for your MT5 account always pass through your binary options account."
+msgstr ""
 
 msgid "Deposits and/or payments due are to be made in the currency chosen by the client from the ones specified by DIEL from time to time."
 msgstr "Deposit dan/atau pembayaran harus dilakukan dalam mata uang yang dipilih oleh klien dan akan ditentukan oleh DIEL dari waktu ke waktu."
@@ -3859,8 +3859,8 @@ msgstr "Deriv (FX) Ltd"
 msgid "Deriv (FX) Ltd,"
 msgstr "Deriv (FX) Ltd,"
 
-msgid "Deriv (FX) Ltd, or"
-msgstr "Deriv (FX) Ltd, atau"
+msgid "Deriv (FX) Ltd, Deriv BVI (Ltd), or"
+msgstr "Deriv (FX) Ltd, Deriv BVI (Ltd), atau"
 
 msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2."
 msgstr "Deriv (FX) Ltd., Lot No. F16, Lantai Satu, Paragon Labuan, Jalan Tun Mustapha, 87000 Wilayah Federal Labuan, Malaysia. Dilisensikan dan diregulasi oleh Otoritas Jasa Keuangan Labuan untuk menjalankan bisnis pialang keuangan %1(lisensi no. MB/18/0024)%2."
@@ -3886,8 +3886,8 @@ msgstr "Deriv (V) Ltd"
 msgid "Deriv (V) Ltd,"
 msgstr "Deriv (V) Ltd,"
 
-msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission."
-msgstr "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republik Vanuatu. Dilisensikan dan diatur oleh Komisi Layanan Keuangan Vanuatu."
+msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission - %1view licence%2."
+msgstr "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republik Vanuatu. Dilisensikan dan diatur oleh Komisi Layanan Keuangan Vanuatu - %1lihat lisensi%2."
 
 msgid "Deriv (V) Ltd: Vanuatu"
 msgstr "Deriv (V) Ltd: Vanuatu"
@@ -3943,6 +3943,12 @@ msgstr "Derivatif"
 msgid "Derivative investment instruments such as binary options and related markets can be highly volatile. The prices of the underlying instrument that a Binary Option refers to may fluctuate rapidly and over wide ranges and may reflect unforeseeable events or changes in conditions, none of which can be controlled by the client or %1."
 msgstr "Instrumen investasi derivatif seperti opsi binary dan pasar terkait memiliki tingkat volatilitas tinggi. Harga dasar pasar instrumen yang digunakan pada Opsi Binary dapat berfluktuasi dengan cepat dan pantas dan dapat dipengaruhi oleh berbagai perubahan kondisi, tidak ada yang bisa mengontrol baik klien atau %1."
 
+msgid "Derived"
+msgstr ""
+
+msgid "Derived Account"
+msgstr ""
+
 msgid "Description"
 msgstr "Deskripsi"
 
@@ -3957,6 +3963,9 @@ msgstr "Rincian"
 
 msgid "Details of the applicant's current level of remuneration, including entitlement to benefits such as pensions or insurance cover, if applicable"
 msgstr "Rincian tingkat remunerasi pelamar saat ini, termasuk hak atas manfaat seperti pensiun atau asuransi, jika tersedia"
+
+msgid "Determination phase"
+msgstr "Fase penentuan"
 
 msgid "DevOps Engineer"
 msgstr "DevOps Engineer"
@@ -4057,8 +4066,14 @@ msgstr "Keanekaragaman"
 msgid "Divorce Settlement"
 msgstr "Penyelesaian Perceraian"
 
+msgid "Do not get lured to fake \"Binary\" pages!"
+msgstr "Jangan tergoda untuk mengakses halaman “Binary” palsu!"
+
 msgid "Do not trade when you are tired or are under the influence of alcohol."
 msgstr "Jangan melakukan trading jika Anda dalam keadaan lelah atau di bawah pengaruh alkohol."
+
+msgid "Do not trust and give away your credentials on fake websites, ads or emails."
+msgstr "Jangan cepat percaya atau memberi informasi data pribadi Anda pada situs web, iklan, atau email palsu."
 
 msgid "Do you manage a social media page that's dedicated to online trading? Partner with us and convert your audience into potential profit."
 msgstr "Apakah Anda mengelola halaman media sosial yang didedikasikan untuk trading online? Bermitralah dengan kami dan rubah pemirsa Anda menjadi potensi dalam meraih keuntungan."
@@ -4627,6 +4642,9 @@ msgstr "Contoh:"
 msgid "Example: XAU/USD (Gold vs US dollar) symbol pair"
 msgstr "Contoh: pasangan simbol XAU/USD (Gold vs Dolar AS)"
 
+msgid "Examples"
+msgstr "Contoh"
+
 msgid "Excellent English language skills, both oral and written"
 msgstr "Mahir berbahasa Inggris (tertulis dan lisan)"
 
@@ -4909,11 +4927,14 @@ msgstr "F. Tempat eksekusi"
 msgid "F. Margin and Leverage"
 msgstr "F. Margin dan Leverage"
 
-msgid "FX-majors (standard/micro lots), FX-minors, Commodities, Cryptocurrencies, Stocks, and Stock Indices"
-msgstr "FX-mayor (standar/lot mikro), FX-minor, Komoditas, Mata Uang Kripto, Saham, dan Indeks Saham"
+msgid "FX-majors (standard/micro lots), FX-minors, basket indices, commodities, cryptocurrencies, stocks, and stock indices"
+msgstr "FX-mayor (lot standar/mikro), FX-minor, indeks basket, komoditas, mata uang kripto, saham, dan indeks saham"
 
-msgid "FX-majors, FX-minors, FX-exotics, Cryptocurrencies"
-msgstr "FX-mayor, FX-minor, FX-eksotik, Mata uang kripto"
+msgid "FX-majors (standard/micro lots),%1FX-minors, Commodities, Cryptocurrencies, Stocks, and Stock Indices"
+msgstr "FX-mayor (lot standar/mikro),%1FX-minor, Komoditas, Mata Uang Kripto, Saham, dan Indeks Saham"
+
+msgid "FX-majors, FX-minors, FX-exotics, cryptocurrencies"
+msgstr "FX-mayor, FX-minor, FX-eksotik, mata uang kripto"
 
 msgid "Face forward and make sure your eyes are clearly visible"
 msgstr "Menghadap ke depan dan pastikan mata Anda terlihat jelas"
@@ -4941,6 +4962,9 @@ msgstr "Uraikan secara adil dan akurat bisnis dan layanan Binary secara transpar
 
 msgid "Fairly and accurately describe the Agent's services to the clients."
 msgstr "Secara wajar dan akurat menggambarkan fasilitas layanan Agen kepada klien."
+
+msgid "Fake links often contain the word that looks like \"Binary\" but look out for these differences."
+msgstr "Tautan palsu sering berisi kata yang terlihat seperti “Binary” tetapi perhatikan perbedaan ini."
 
 msgid "Familiarity with Git"
 msgstr "Familiar dengan Git"
@@ -5026,6 +5050,9 @@ msgstr "Ukuran file terlalu besar."
 msgid "File type not supported"
 msgstr "Jenis file yang tidak tersedia"
 
+msgid "Filing complaints"
+msgstr "Pengajuan keluhan"
+
 msgid "Filtering Controls"
 msgstr " "
 
@@ -5074,9 +5101,6 @@ msgstr "Informasi keuangan"
 msgid "Find a trading platform that suits your experience and preferred strategy – whether you're a new or seasoned trader."
 msgstr "Temukan platform trading yang sesuai dengan pengalaman dan strategi pilihan Anda - baik Anda seorang trader baru atau berpengalaman."
 
-msgid "Find out more"
-msgstr "Info lebih lanjut"
-
 msgid "Find out more about the costs and details of each CFD asset we offer."
 msgstr "Cari tahu lebih lanjut mengenai biaya dan rincian dari setiap aset CFD yang kami tawarkan."
 
@@ -5113,6 +5137,9 @@ msgstr "Pertama, tentukan posisi Anda..."
 msgid "First-class client service."
 msgstr "Pelayanan pelanggan kelas satu."
 
+msgid "Fixed spreads"
+msgstr ""
+
 msgid "Fixing problems and providing feedback for improvement."
 msgstr "Memperbaiki masalah dan memberikan saran untuk perbaikan."
 
@@ -5139,6 +5166,9 @@ msgstr "Menindak lanjuti rekomendasi dan garis waktu untuk tindakan korektif den
 
 msgid "Follow, comply, and implement with all business-related directions, policies, and procedures of the Company as amended or re-enacted or replaced from time to time."
 msgstr "Mengikuti, mematuhi, dan menerapkan semua arahan, kebijakan, dan prosedur yang terkait dengan bisnis Perusahaan sebagaimana telah diubah atau diberlakukan kembali atau diganti dari waktu ke waktu."
+
+msgid "Fondex Limited "
+msgstr "Fondex Limited "
 
 msgid "Food Services"
 msgstr "Layanan Makanan"
@@ -5455,6 +5485,9 @@ msgstr "Penghargaan Global Brands Awards 2018"
 msgid "Global Brands Magazine"
 msgstr "Majalah Global Brands"
 
+msgid "Global Pop Liquidity Solutions Ltd"
+msgstr "Global Pop Liquidity Solutions Ltd"
+
 msgid "Glossary"
 msgstr "Kamus"
 
@@ -5478,6 +5511,12 @@ msgstr "Go short = jual"
 
 msgid "Go to DTrader"
 msgstr "Kunjungi DTrader"
+
+msgid "Go to Deriv"
+msgstr "Kunjungi Deriv"
+
+msgid "Go to Deriv to add an MT5 account"
+msgstr "Kunjungi Deriv untuk menambahkan akun MT5"
 
 msgid "Go to MT5 download page"
 msgstr "Kunjungi halaman unduh MT5"
@@ -5833,6 +5872,9 @@ msgstr "Saya tertarik"
 msgid "I'm no longer interested in trading."
 msgstr "Saya tidak tertarik lagi pada trading."
 
+msgid "I've read the above carefully."
+msgstr "Saya telah membaca informasi di atas dengan seksama."
+
 msgid "I. Trading"
 msgstr "I. Trading"
 
@@ -5932,6 +5974,9 @@ msgstr "Jika peristiwa keadaan memaksa terjadi lebih dari 30 hari bisnis, Pihak 
 msgid "If it doesn’t work, download a QR code scanner from Google Play or the App Store"
 msgstr "Jika tidak berhasil, unduh scanner kode QR dari Google Play atau App Store"
 
+msgid "If no settlement opportunity can be found, the complaint will proceed to the determination phase to be handled by the DRC."
+msgstr "Jika tidak ada kesempatan penyelesaian yang dapat ditemukan, pengaduan akan dilanjutkan ke tahap penetapan yang akan ditangani oleh DRC."
+
 msgid "If such documents expire, the Company reserves the right to request updated documentation."
 msgstr "Jika dokumen tersebut sudah tidak berlaku, Perusahaan berhak untuk meminta dokumentasi yang diperbarui."
 
@@ -5965,6 +6010,9 @@ msgstr "Jika Perusahaan mempertimbangkan, berdasarkan informasi yang diberikan o
 msgid "If the Company determines that a force majeure event exists, the Company shall promptly give notice thereof to the client. Subsequently, the Company may, at its absolute discretion, take one or more steps, including but not limited to the following:"
 msgstr "Jika Perusahaan menentukan bahwa ada kejadian keadaan memaksa, Perusahaan harus segera memberikan pemberitahuan kepada klien. Selanjutnya, Perusahaan dapat, atas kebijakan mutlaknya, mengambil satu atau beberapa langkah, termasuk tetapi tidak terbatas pada:"
 
+msgid "If the Company disagrees with the DRC’s decision, a response must be provided to the DRC and to the Company within 4 weeks, and the client can further escalate the client’s complaint to the British Virgin Islands Financial Services Commission by email to %1commissioner@bvifsc.vg%2."
+msgstr "Jika Perusahaan tidak setuju dengan keputusan DRC, tanggapan harus diberikan kepada DRC dan Perusahaan dalam waktu 4 minggu, dan klien dapat meneruskan keluhan klien lebih lanjut ke Komisi Jasa Keuangan Kepulauan Virgin Britania Raya melalui email di %1commissioner@bvifsc.vg%2."
+
 msgid "If the Company suffers a loss as a result of a chargeback or retrieval request, the client agrees to reimburse the Company the amount before the Company lifts off any limits imposed on any or all of the client’s accounts."
 msgstr "Jika perusahaan mengalami kerugian akibat chargeback atau permintaan pengambilan, klien setuju untuk mengganti jumlah perusahaan sebelum perusahaan mengangkat batas yang dikenakan pada salah satu atau semua akun klien."
 
@@ -5995,6 +6043,12 @@ msgstr "Jika permohonan pelamar berhasil dan tawaran pekerjaan dengan Perusahaan
 msgid "If the bid price is 1.05229, you'll buy 1.05229 USD for every 1 EUR you sell."
 msgstr "Jika harga Bid adalah 1,05229, Anda akan membeli USD 1,05229 untuk setiap EUR 1 yang Anda jual."
 
+msgid "If the client account has been locked or suspended and has not recorded any transactions for a period of twelve months or more, the Company reserves the right to rescind the client account funds."
+msgstr "Jika akun klien tidak dapat diakses atau dibatalkan dan tidak melakukan transaksi selama dua belas bulan atau lebih, Perusahaan berhak untuk mengambil dana yang terdapat pada akun klien."
+
+msgid "If the client agrees with a DRC’s decision, the client will need to accept it within 4 weeks. If the client does not respond to the DRC’s decision within 4 weeks, the complaint is considered closed."
+msgstr "Jika klien setuju dengan keputusan DRC, klien harus menerimanya dalam waktu 4 minggu. Jika klien tidak menanggapi keputusan DRC dalam waktu 4 minggu, keluhan akan dianggap selesai."
+
 msgid "If the client asks to be treated as a professional client, they need to meet certain specified quantitative and qualitative criteria. On the basis of the client's request to be categorised as professional, the Company undertakes an assessment of the client's expertise, knowledge, and experience to determine whether they fall within this category and whether they are able to make their own investment decisions and understand the risks involved. If the relevant criteria are not met, the Company reserves the right to choose whether to provide its services under this requested classification."
 msgstr "Jika klien meminta diperlakukan sebagai klien profesional, mereka harus memenuhi kriteria kuantitatif dan kualitatif tertentu. Atas dasar permintaan klien untuk dikategorikan sebagai profesional, Perusahaan melakukan penilaian terhadap keahlian, pengetahuan, dan pengalaman klien untuk menentukan apakah mereka termasuk dalam kategori ini dan apakah mereka dapat membuat keputusan investasi sendiri dan memahami risiko terlibat. Jika kriteria yang relevan tidak terpenuhi, Perusahaan berhak untuk memilih apakah akan menyediakan layanannya di bawah klasifikasi yang diminta tersebut."
 
@@ -6022,21 +6076,24 @@ msgstr "Jika klien ingin menarik dana dari Akun Riil MT5 dan menutup Akun Riil M
 msgid "If the client wishes to withdraw funds from their MT5 Real Account and/or close their MT5 Real Account, the client may notify the Company via %1live chat%2. The client's MT5 Real Account may be closed if the client does not have any Open Positions and all amounts due to the Company have been settled."
 msgstr "Jika klien ingin menarik dana dari Akun Riil MT5 dan/atau menutup Akun Riil MT5, mereka dapat menghubungi Perusahaan melalui %1obrolan langsung%2. Akun Riil MT5 klien dapat ditutup jika mereka tidak memiliki Open Posisi dan semua jumlah yang dibebankan oleh Perusahaan telah diselesaikan."
 
-msgid "If the client would like to file a complaint with regards to the Company's service, the client can contact the Company at %1, providing any relevant details relating to the client's complaint. %2If you are registered with Deriv (Europe) Limited, you can also place a complaint by calling %3.%4 The Company will investigate each inquiry and provide a final response in the shortest time possible."
-msgstr "Jika klien ingin mengajukan keluhan terkait layanan Perusahaan, klien dapat menghubungi Perusahaan di %1, memberikan detail yang relevan terkait dengan keluhan klien. %2Jika Anda terdaftar di Deriv (Europe) Limited, Anda juga dapat mengajukan keluhan dengan menghubungi %3.%4 Perusahaan akan menyelidiki setiap pertanyaan dan memberikan respons akhir dalam waktu sesingkat mungkin."
+msgid "If the client would like to file a complaint about the Company’s service, the client can send the details related to the client’s complaint to the Company at %1complaints@deriv.com%2. The Company will investigate the client’s enquiry and send the client a final response within 15 days from the date on which the complaint is received."
+msgstr "Jika klien ingin mengajukan keluhan mengenai pelayanan yang diberikan oleh Perusahaan, maka klien dapat mengirimkan rincian mengenai keluhan tersebut ke %1complaints@deriv.com%2. Perusahaan akan menyelidiki lebih lanjut dan akan mengirim tanggapan dalam tempo 15 hari sejak keluhan diterima."
 
 msgid "If the client's %1 account is closed, their MT5 Real Account will be automatically closed as well."
 msgstr "Jika akun %1 klien ditutup, Akun Riil MT5 mereka juga akan ditutup secara otomatis."
 
-msgid "If the client's complaint relates to an outcome of a trade or a transaction and remains unresolved, it will turn into a dispute. Should clients be unsatisfied with the Company's response, they can choose to escalate their complaint to the regulator or to an alternative dispute resolution entity."
-msgstr "Jika keluhan klien terkait dengan hasil trading atau transaksi dan tetap tidak terselesaikan, maka hal tersebut akan menjadi sebuah perselisihan. Jika klien tidak puas dengan tanggapan Perusahaan, mereka dapat memilih untuk melanjutkan keluhan mereka ke pada regulator atau ke entitas penyelesaian sengketa alternatif."
-
-msgid "If the client's complaint relates to the Company's data processing practices, the client may formally submit a complaint to the Information and Data Protection Commissioner (Malta) on the entity's %1website%2. Alternatively, the client can make a complaint to any Supervisory Authority within the European Union."
-msgstr "Jika keluhan klien terkait dengan praktik pengolahan data Perusahaan, klien dapat secara resmi mengajukan keluhan kepada Komisaris Informasi dan Perlindungan Data (Malta) di %1website%2. Atau, klien dapat mengajukan keluhan kepada Otoritas Pengawas di Uni Eropa."
-
 msgid "If the client's usable Margin drops below 100%, a Margin Call mode will be triggered and maintained till the level of 50%. In the event that the client's Margin Level is equal to, or drops below 50%, the Company will initiate the closing of the client's current Open Positions, starting from the most unprofitable, until the required Margin Level is achieved. In such events, the positions will be automatically closed at the current market price at that point in time."
 msgstr "Jika Margin yang dapat digunakan klien turun di bawah 100%, mode Margin Call akan dipicu dan dipertahankan hingga tingkat 50%. Ketika Level Margin klien sama dengan, atau turun di bawah 50%, Perusahaan akan memulai penutupan Open Posisi klien saat ini, mulai dari yang paling tidak menguntungkan, hingga Level Margin yang diperlukan tercapai. \n"
 "Dalam peristiwa semacam itu, posisi akan ditutup secara otomatis pada harga pasar saat itu."
+
+msgid "If the client’s account is registered with Deriv (BVI), and the Company does not resolve the client’s complaint to the client’s satisfaction, the client can escalate the complaint to the Financial Commission. In that case, the client’s complaint will go through the following procedure:"
+msgstr "Ketika akun klien terdaftar di bawah Deriv (BVI), dan Perusahaan tidak dapat menyelesaikan keluhan yang disampaikan, maka klien dapat melanjutkan keluhan tersebut ke Komisi Keuangan. Jika hal ini terjadi, klien akan melalui prosedur berikut:"
+
+msgid "If the client’s complaint relates to the Company’s data processing practices, the client can submit a formal complaint to the Office of the Information Commissioner."
+msgstr "Jika keluhan klien berkaitan dengan praktik pemrosesan data Perusahaan, klien dapat mengajukan keluhan resmi ke Kantor Komisaris Informasi."
+
+msgid "If the decision is made in the Company’s favour, the client must provide a release for the Company within 7 days of the decision, and the complaint will be considered closed."
+msgstr "Jika keputusan dibuat adalah memihak kepada Perusahaan, maka klien perlu memberikan pembebasan kepada Perusahaan dalam waktu 7 hari setelah keputusan, dan pengaduan akan dianggap selesai."
 
 msgid "If the payment agent is not listed, type in the payment agent ID. For example: CR000000."
 msgstr "Jika agen pembayaran tidak di tampilkan, ketik ID agen pembayaran. Contoh: CR000000."
@@ -6127,9 +6184,6 @@ msgstr "Jika Anda membutuhkan bantuan jangan ragu untuk menghubungi %1Customer S
 
 msgid "If you reside in the UK and are considering self-exclusion, you may wish to register with GAMSTOP."
 msgstr "Jika Anda berdomisili di Inggris dan mempertimbangkan pengecualian diri, Anda mungkin ingin mendaftar di GAMESTOP."
-
-msgid "If you reside in the UK and you are unhappy with our response you may escalate your complaint to the %1Financial Ombudsman Service%2."
-msgstr "Jika Anda berdomisili di Inggris dan tidak puas dengan tanggapan yang kami berikan, Anda dapat melannjutkan keluhan Anda ke %1Layanan Finansial Ombudsman%2."
 
 msgid "If you score well in the hackathon or talent test, we'll send you a Self-Assessment Topgrading Interview (SATI) questionnaire. Do well on the SATI and we'll invite you for an interview with a member of our recruitment team."
 msgstr "Jika hasil Anda bagus dalam hackathon atau uji bakat, kami akan mengirimkan quiz Self-Assessment Topgrading Interview (SATI). Lakukan SATI ini dengan baik dan kami akan mengundang Anda untuk wawancara dengan anggota tim rekrutmen kami."
@@ -6602,6 +6656,9 @@ msgstr "Menyelidiki akun klien berdasarkan aturan dan proses yang ada"
 msgid "Investigate, reproduce, identify, document, and resolve issues reported by our clients and the customer support team"
 msgstr "Menyelidiki, mereka ulang, mengidentifikasi, mendokumentasikan, dan menyelesaikan masalah yang dilaporkan oleh klien kami dan tim customer support"
 
+msgid "Investigation phase"
+msgstr "Tahap investigasi"
+
 msgid "Investing in complex products, such as CFDs and FX may incur losses as well as gains. Prices may vary and/or fluctuate due to changes in current market prices and conditions, which may impact the return on your investment. Before making an Investment decision, you should refer to our %1Key Information Documents%2 on our website, in particular, the amount of Margin required for particular instruments that we offer. The Products offered by Deriv Investments (Europe) Limited fall under the category of 'complex products' and may not be suitable for retail clients."
 msgstr "Berinvestasi pada produk kompleks, seperti CFD dan FX dapat menimbulkan kerugian serta keuntungan. Harga dapat bervariasi dan/atau berfluktuasi berdasarkan harga dan kondisi pasar saat ini, yang dapat berdampak pada laba atas investasi Anda. Sebelum membuat keputusan Investasi, Anda harus merujuk pada %1Dokumen Informasi Utama%2 yang tersedia pada situs web kami, khususnya, jumlah Margin yang diperlukan bagi instrumen tertentu yang kami tawarkan. Produk yang ditawarkan oleh Deriv Investments (Eropa) Limited termasuk dalam kategori ‘produk kompleks’ dan mungkin tidak cocok untuk klien ritel."
 
@@ -6667,9 +6724,6 @@ msgstr "Lebih lanjut dicatat bahwa Perusahaan akan menjadi pemilik tunggal atas 
 
 msgid "It is hereby agreed as follows: "
 msgstr "Dengan ini disepakati sebagai berikut: "
-
-msgid "It is important that clients refer their disputes to the appropriate ADR for the claims to be valid."
-msgstr "Merupakan hal penting dimana klien perlu merujuk sengketa mereka ke ADR yang sesuai untuk klaim yang valid."
 
 msgid "It is important that the client monitors all of the client's positions closely. It is the client's responsibility to monitor the client's positions, and during the period that the client has any open contracts, the client should always have the ability to access the client's accounts."
 msgstr "Adalah penting bahwa klien memantau semua posisi klien dengan cermat. Merupakan tanggung jawab klien untuk memantau posisi klien, dan selama periode ketika klien memiliki open posisi, klien harus selalu memiliki kemampuan untuk mengakses akun klien."
@@ -7019,6 +7073,9 @@ msgstr "Leverage memberikan Anda kemampuan untuk trading pada posisi yang lebih 
 msgid "Leverage up to %1"
 msgstr "Leverage hingga %1"
 
+msgid "Leverage up to 1:1000"
+msgstr ""
+
 msgid "Leverage, in the context of margin trading, refers to the use of margin to increase/amplify the value of a trade. Leverage is expressed as a ratio. A 50:1 leverage, for example, means that the client would be able to enter into a trade position that is of 50 times higher than the client's margin. When the client invests in a leveraged product, the client's profit or loss is based on the leveraged position, i.e. the increased/amplified value of the client's trade is determined based on the leverage ratio that the client has set for the client's account."
 msgstr "Leverage, dalam konteks trading margin, mengacu pada penggunaan margin untuk meningkatkan/memperkuat nilai trading. Leverage dinyatakan sebagai rasio. Leverage 50:1, misalnya, berarti bahwa klien akan dapat memasuki posisi trading yang 50 kali lebih tinggi dari margin klien. Ketika klien berinvestasi dalam produk leverage, laba atau rugi klien adalah didasarkan pada posisi leverage, yaitu peningkatan/penguatan nilai trading klien ditentukan berdasarkan rasio leverage yang telah ditetapkan klien pada akun klien."
 
@@ -7220,6 +7277,9 @@ msgstr "MT5 Demo"
 msgid "MT5 Financial"
 msgstr "MT5 Finansial"
 
+msgid "MT5 Financial STP"
+msgstr "MT5 Finansial STP"
+
 msgid "MT5 Login:"
 msgstr "Login MT5:"
 
@@ -7258,6 +7318,9 @@ msgstr "Akun riil MT5 hanya tersedia untuk Indeks Sintetis."
 
 msgid "MT5 real-money account for forex and CFDs."
 msgstr "MT5 akun uang-riil untuk forex dan CFD."
+
+msgid "MT5 real-money account for forex and cryptocurrencies."
+msgstr "Akun uang riil MT5 untuk forex dan mata uang kripto."
 
 msgid "MT5 web platform"
 msgstr "Platform web MT5"
@@ -7994,6 +8057,9 @@ msgstr "Wajah tidak ditemukan"
 msgid "No fiduciary duty"
 msgstr "Tidak ada kewajiban fidusia"
 
+msgid "No further trading is allowed on this contract type for the current trading session. For more info, refer to our %1terms and conditions%2."
+msgstr "Jenis kontrak ini tidak tersedia untuk sesi trading selanjutnya. Untuk informasi lebih lanjut, lihat %1syarat dan ketentuan%2."
+
 msgid "No hidden fees"
 msgstr "Tanpa biaya tersembunyi"
 
@@ -8141,6 +8207,9 @@ msgstr "OAuth App ID"
 msgid "OK"
 msgstr "OK"
 
+msgid "OK, got it"
+msgstr "OK, mengerti"
+
 msgid "OMG/USD"
 msgstr "OMG/USD"
 
@@ -8266,6 +8335,9 @@ msgstr "Hanya huruf, angka, spasi, garis bawah, dan tanda hubung yang diizinkan 
 
 msgid "Only letters, space, hyphen, period, and apostrophe are allowed."
 msgstr "Hanya huruf, spasi, tanda hubung, periode, dan apostrof diperbolehkan."
+
+msgid "Only log in to your account at this secure link, never elsewhere."
+msgstr "Hanya masuk ke akun Anda di tautan aman ini, jangan pernah mengakses di tempat lain."
 
 msgid "Only one account is allowed per person. No withdrawals and/or refunds may be collected on accounts opened in false names or on multiple accounts opened by the same person."
 msgstr "Hanya satu akun riil per orang. Anda tidak dibenarkan untuk melakukan penarikan dana atau pengembalian jika akun didaftar menggunakan nama palsu atau jika Anda memiliki beberapa akun dimiliki oleh orang yang sama."
@@ -8411,6 +8483,9 @@ msgstr "Akun CFD cocok untuk trader baru dan berpengalaman."
 msgid "Our Company"
 msgstr "Perusahaan Kami"
 
+msgid "Our Derived account allows you to trade CFDs on Derived Indices - our proprietary Derived assets that simulate market forces."
+msgstr ""
+
 msgid "Our MT5 servers are temporarily unavailable. We're working to restore them. Please try again in a few minutes."
 msgstr "Server MT5 kami untuk sementara tidak tersedia. Kami sedang melakukan perbaikan. Coba kembali beberapa saat lagi."
 
@@ -8483,8 +8558,8 @@ msgstr "Nilai kami"
 msgid "Our website uses cookies to give you the best user experience. For more information, %1view our policy%2."
 msgstr "Situs web kami menggunakan cookie untuk memberi Anda pengalaman terbaik. Untuk informasi lebih lanjut, %1lihat kebijakan kami%2."
 
-msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission; Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
-msgstr "Di luar Uni Eropa, produk keuangan yang ditawarkan oleh Deriv (SVG) LLC, yang beralamat di Hinds Building, Kingstown, St. Vincent dan Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, diatur oleh Otoritas Jasa Keuangan Vanuatu; Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, diatur oleh Otoritas Jasa Keuangan Kepulauan Virgin Inggris (%3lihat lisensi. SIBA/L/18/1114%4); dan Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, diatur oleh Otoritas Jasa Keuangan Labuan untuk melakukan bisnis money-broking (%5lihat lisensi. MB/18/0024%6)."
+msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission (%1view licence%2); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
+msgstr "Di luar Uni Eropa, produk keuangan yang ditawarkan oleh Deriv (SVG) LLC, yang beralamat di Hinds Building, Kingstown, St. Vincent dan Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, diatur oleh Otoritas Jasa Keuangan Vanuatu (%1lihat lisensi%2); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, diatur oleh Otoritas Jasa Keuangan Kepulauan Virgin Inggris (%3lihat lisensi. SIBA/L/18/1114%4); dan Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, diatur oleh Otoritas Jasa Keuangan Labuan untuk melakukan bisnis money-broking (%5lihat lisensi. MB/18/0024%6)."
 
 msgid "Outstanding written and verbal communication skills and excellent command of English"
 msgstr "Terampil dalam berkomunikasi baik secara lisan dan memberi instruksi dalam bahasa Inggris dengan baik"
@@ -9200,9 +9275,6 @@ msgstr "Harga/Data Penentuan Harga"
 msgid "Primary"
 msgstr "Primer"
 
-msgid "Prime Brokerage Services Limited"
-msgstr "Prime Brokerage Services Limited"
-
 msgid "Prior to placing an Order, which results in opening a position, the client acknowledges that it is their responsibility to ensure that their Account Free Margin is sufficient to cover the Margin required in relation to the opening of the position (the \"Margin Requirement\"), and to continuously meet the Margin Requirement."
 msgstr "Sebelum melakukan Order, yang menghasilkan open posisi, klien mengakui bahwa mereka bertanggung jawab untuk memastikan bahwa Akun Bebas Margin mereka cukup untuk memenuhi Margin yang diperlukan sehubungan dengan open posisi (\"Persyaratan Margin\"), dan untuk terus memenuhi Persyaratan Margin."
 
@@ -9518,6 +9590,9 @@ msgstr "Pendaftaran Akun Riil"
 msgid "Real CFDs"
 msgstr "CFD Riil"
 
+msgid "Real Derived"
+msgstr ""
+
 msgid "Real Estate"
 msgstr "Perumahan"
 
@@ -9529,9 +9604,6 @@ msgstr "Riil Finansial STP"
 
 msgid "Real Money Account Opening"
 msgstr "Pendaftaran Akun Uang Riil"
-
-msgid "Real Synthetic"
-msgstr "Riil Sintetis"
 
 msgid "Real accounts are not available to politically exposed persons (PEPs)."
 msgstr "Akun riil tidak tersedia untuk anggota politik (PEP)."
@@ -11048,6 +11120,18 @@ msgstr "Tether Omni"
 msgid "Tether Omni (USDT) is a version of Tether that's pegged to USD and is built on the Bitcoin blockchain."
 msgstr "Tether Omni (USDT) adalah versi Tether yang dipatok ke USD dan dibangun di blockchain Bitcoin."
 
+msgid "Tether TRC20"
+msgstr "Tether TRC20"
+
+msgid "Tether as a TRC20 token (tUSDT) is a version of Tether that is hosted on Tron."
+msgstr "Tether sebagai token TRC20 (tUSDT) adalah versi Tether yang dihostingkan di Tron."
+
+msgid "Tether as an ERC20 token (eUSDT) is a version of Tether that is hosted on Ethereum."
+msgstr "Tether sebagai token ERC20 (eUSDT) adalah versi Tether yang dihostingkan di Ethereum."
+
+msgid "Tether as an Omni token (USDT) is a version of Tether that is hosted on the Omni layer on the Bitcoin blockchain."
+msgstr "Tether sebagai token Omni (USDT) adalah versi Tether yang dihostingkan di lapisan Omni pada blockchain Bitcoin."
+
 msgid "Tether is a blockchain-based cryptocurrency whose cryptocoins in circulation are backed by an equivalent amount of traditional fiat currencies. For more information, please visit %1."
 msgstr "Tether adalah mata uang kripto berdasarkan blockchain dimana sirkulasi kripto koinnya dididukung oleh jumlah yang setara dengan mata uang fiat. Untuk informasi lebih lanjut, silakan kunjungi %1."
 
@@ -11068,9 +11152,6 @@ msgstr "Terima kasih karena telah mendaftar! Silahkan cek email Anda untuk melen
 
 msgid "Thank you for your interest in partnering with us. We've made it easy for you to apply online. Just fill out the %1online application form%2 with all necessary details. If you are already registered as a %3 affiliate, you can email us at %4 instead. We will contact you directly if your application is successful."
 msgstr "Terima kasih atas minat Anda bermitra dengan kami. Sangatlah mudah untuk mendaftar online. Cukup isi %1formulir aplikasi online%2 dengan semua detail yang diperlukan. Jika Anda sudah terdaftar sebagai afiliasi %3, Anda dapat mengirim email kepada kami di %4. Kami akan menghubungi Anda secara langsung jika aplikasi Anda berhasil."
-
-msgid "Thank you, we'll get back to you within 24 hours"
-msgstr "Terima kasih, kami akan menghubungi Anda dalam tempo 24 jam"
 
 msgid "That contravenes any laws, regulations, instruments, ordinances, or rules that govern the operation of any exchange, financial market, or financial regulatory environment"
 msgstr "Bertentangan dengan hukum, peraturan, instrumen, tata cara atau aturan yang mengatur pengoperasian bursa, pasar keuangan, atau lingkungan peraturan keuangan"
@@ -11474,6 +11555,9 @@ msgstr "Perusahaan dapat, atas kebijakannya sendiri atau sebagaimana sesuai deng
 msgid "The Company may, however, withhold the client's withdrawal request from their MT5 Real Account to their %1 account, in whole or in part, in one or more of the following cases:"
 msgstr "Perusahaan dapat, bagaimanapun, menahan permintaan penarikan klien dari Akun Riil MT5 ke akun %1 mereka, secara keseluruhan atau sebagian, berdasarkan situasi berikut ini:"
 
+msgid "The Company must award the settlement within 28 days of when the decision is reached."
+msgstr "Perusahaan harus memberikan penyelesaian dalam waktu 28 hari sejak keputusan tercapai."
+
 msgid "The Company offers a number of merchant solutions and payment service providers for making online payments. The client will be billed at the time of, or shortly after, making a transaction. The client agrees to pay for all trades that the client purchases via any of the available merchant solutions or payment service providers."
 msgstr "Perusahaan menyediakan beberapa pilihan merchant dan penyedia layanan pembayaran secara online. Klien akan menerima tagihan setelah melakukan transaksi. Klien bersetuju untuk membayar semua kontrak yang telah dibeli melalui pilihan merchant atau penyedia layanan pembayaran yang tersedia. "
 
@@ -11693,14 +11777,29 @@ msgstr "Situs web Perusahaan berisi tautan ke situs web lain dan dapat berisi ik
 msgid "The Country Manager is expected to acquire, service, manage, and expand our network of active affiliates in the countries where Deriv Group targets to be represented. You will also contribute your energy, skills, and knowledge of the local business culture to increase our rapid growth rate worldwide."
 msgstr "Country Manager diharapkan untuk memperoleh, melayani, mengelola, dan memperluas jaringan afiliasi aktif kami di negara-negara tempat Grup Deriv menargetkan untuk diwakili. Anda juga akan berkontribusi energi, keterampilan, dan pengetahuan Anda tentang budaya bisnis lokal untuk meningkatkan tingkat pertumbuhan kami yang cepat di seluruh dunia."
 
+msgid "The DRC may request additional information from the client or the Company, who must then provide the requested information within 7 days."
+msgstr "DRC dapat meminta informasi tambahan dari klien atau Perusahaan, yang kemudian harus memberikan informasi yang diminta dalam waktu 7 hari."
+
+msgid "The DRC will decide on the complaint (it should be noted that the DRC mentions no timeframe for announcing its decision)."
+msgstr "DRC akan memutuskan keluhan (perlu dicatat bahwa DRC menyebutkan bahwa tidak ada jangka waktu untuk mengumumkan keputusannya)."
+
 msgid "The Domain Name System (DNS) allows you to access a website through a user-friendly web address such as %1, instead of a complicated IP address."
 msgstr "Domain Name System (DNS) memungkinkan Anda untuk mengakses suatu situs melalui alamat web yang mudah digunakan seperti %1, daripada alamat IP yang rumit."
 
 msgid "The Financial Commission"
 msgstr "Financial Commission (Komisi Keuangan)"
 
+msgid "The Financial Commission accepts appeals for 45 days following the date of the incident and only after the client has tried to resolve the issue with the Company directly."
+msgstr "Komisi Keuangan menerima pengajuan banding selama 45 hari setelah tanggal kejadian dan hanya setelah klien mencoba menyelesaikan masalah dengan Perusahaan secara langsung."
+
+msgid "The Financial Commission has 5 days to acknowledge that the client’s complaint was received and 14 days to answer the complaint through the Company’s Internal Dispute Resolution (IDR) procedure."
+msgstr "Komisi Keuangan memiliki waktu 5 hari untuk mengetahui bahwa keluhan klien telah diterima dan 14 hari untuk menjawab keluhan melalui prosedur Penyelesaian Sengketa Internal (IDR) Perusahaan."
+
 msgid "The Financial Commission offers compensation up to 20,000 EUR on a case-to-case basis, unbiased assessment of disputes, and fast and effective dispute resolution free of charge."
 msgstr "Financial Commission (Komisi Keuangan) menawarkan kompensasi hingga 20.000 EUR untuk setiap kasus, penilaian sengketa yang tidak memihak, dan menawarkan resolusi sengketa yang cepat dan efektif secara gratis."
+
+msgid "The Financial Commission will investigate the validity of the complaint within 5 business days."
+msgstr "Komisi Keuangan akan menyelidiki validitas pengaduan dalam waktu 5 hari kerja."
 
 msgid "The Financial Products that DIEL offers to deal in are contracts entered into between clients and DIEL. Under these contracts and subject to the specific terms of the relevant contract, in consideration for the premium or price that clients pay DIEL, DIEL promises to pay clients a certain amount if the reference assets or measurements perform in a particular manner. These contracts accordingly are not instruments that DIEL holds on clients' behalf and neither benefits from clients' assets protection in the event of DIEL's insolvency. Similarly, the premium or price that clients pay to take out a trade is not held as clients' money but as consideration for DIEL's undertaking to pay."
 msgstr "Produk Keuangan yang ditawarkan oleh DIEL adalah kontrak antara klien dan DIEL. Dibawah kontrak ini dan tertakluk kepada syarat dan ketentuan kontrak tertentu. Dengan mempertimbangkan premium atau harga kontrak yang klien bayarkan, DIEL berjanji akan membayar jumlah tertentu sesuai dengan referensi aset atau sesuai dengan prestasi kontrak. Kontrak ini bukan merupakan instrumen yang dipegang oleh DIEL atas nama klien termasuk memberi keuntungan dari proteksi aset klien yang dilindungi jika DIEL mengalami kepailitan. Demikian pula premi atau harga yang klien bayar untuk bertrading tidak dikumpulkan sebagai dana klien melainkan sebagai pertimbangan usaha bagi DIEL untuk melakukan pembayaran."
@@ -11711,11 +11810,14 @@ msgstr "Akun Finansial STP (Straight Through Processing) adalah 100% akun buku A
 msgid "The Financial account (available in EUR and GBP) is suitable for a wide range of traders, both new or experienced. Trade major (standard and micro-lots) and minor currency pairs, stocks, stock indices, commodities, and cryptocurrencies."
 msgstr "Akun Finansial (tersedia dalam mata uang EUR dan GBP) cocok untuk semua trader, baik trader pemula maupun trader berpengalaman. Tradingkan pasangan mata uang mayor (standar dan mikro-lot) dan pasangan mata uang minor, saham, indeks saham, komoditas, dan mata uang kripto."
 
-msgid "The Financial account offers new and experienced traders high leverage and variable spreads for maximum flexibility. Trade major (standard and micro-lots) and minor currency pairs, stocks, stock indices, commodities, and cryptocurrencies with high leverage."
-msgstr "Akun Finansial menawarkan trader pemula maupun trader berpengalaman leverage tinggi dan variabel spread dengan fleksibilitas maksimum. Tradingkan pasangan mata uang mayor (standar dan mikro-lot) dan pasangan mata uang minor, saham, indeks saham, komoditas, dan mata uang kripto dengan leverage tinggi."
+msgid "The Financial account offers new and experienced traders high leverage and variable spreads for maximum flexibility. Trade major (standard and micro-lots) and minor currency pairs, stocks, stock indices, basket indices, commodities, and cryptocurrencies with high leverage."
+msgstr "Akun Finansial menawarkan leverage tinggi dan spread variabel kepada trader baru dan berpengalaman untuk fleksibilitas maksimum. Trading pasangan mata uang utama (standar dan mikro) dan minor, saham, indeks saham, indeks basket, komoditas, dan mata uang kripto dengan leverage tinggi."
 
 msgid "The Foreign Exchange Market (forex) is the world's largest and most liquid market – where anyone can buy, sell, and exchange currencies."
 msgstr "Pasar Foreign Exhange (forex) adalah pasar terbesar dan paling likuid di dunia - dimana semua orang dapat menjual, membeli, dan menukar mata uang."
+
+msgid "The Head of the Dispute Resolution Committee (DRC) will contact both the client and the Company within 5 business days to obtain all necessary information and see if there is a chance to settle the complaint during the investigation phase."
+msgstr "Kepala Komite Penyelesaian Sengketa (DRC) akan menghubungi klien dan Perusahaan dalam waktu 5 hari kerja untuk mendapatkan semua informasi yang diperlukan dan melihat apakah ada kesempatan untuk menyelesaikan keluhan selama tahap investigasi."
 
 msgid "The Human Resource Operations team manages essential human resource functions such as managing expats, processing work permits, onboarding, managing payroll, compiling compensation studies, and overseeing performance appraisals."
 msgstr "Tim Human Resource Operation mengelola fungsi sumber daya manusia yang penting seperti mengelola ekspatriat, memproses izin kerja, orientasi, mengelola penggajian, menyusun studi kompensasi, dan mengawasi penilaian kinerja."
@@ -11970,6 +12072,9 @@ msgstr "Klausa di atas tidak berlaku untuk informasi apa pun sejauh"
 msgid "The clauses above shall not apply in its entirety to any Introducing Brokers who are contracted to provide Introducing Broker services with Deriv Investments (Europe) Limited."
 msgstr "Klausul di atas tidak berlaku secara keseluruhan untuk setiap Introducing Broker yang dikontrak untuk menyediakan layanan Introducing Broker pada Deriv Investments (Europe) Limited."
 
+msgid "The client account funds will be rescinded if the client account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
+msgstr "Dana akun klien akan dibatalkan jika akun klien tidak aktif selama 30 hari dengan saldo akun USD/AUD/EUR/GBP1 atau kurang."
+
 msgid "The client acknowledges and accepts that a trade may be subject to market rules laid down in by-laws, rules, provisions, customs, and practices of an exchange, a market, a clearing house, a body, or any other organisation involved in the execution, clearing, and/or settlement of the said trade. Should any such organisation take decisions or measures which affect a trade or an Open Position, the Company shall be entitled to take any action (including closing any Open Position of the client) that it, at its sole discretion, considers reasonable. "
 msgstr "Klien mengetahui dan menerima bahwa trading dapat tunduk pada aturan pasar yang diatur dalam peraturan, aturan, ketentuan, bea cukai, dan praktik pertukaran, pasar, rumah kliring, badan, atau organisasi lain yang terlibat dalam pelaksanaan, kliring, dan/atau penyelesaian trading tersebut. Jika ada organisasi yang mengambil keputusan atau tindakan yang mempengaruhi trading atau Open Posisi, Perusahaan berhak untuk mengambil tindakan apa pun (termasuk menutup Open Posisi klien) yang dianggapnya wajar. "
 
@@ -12114,6 +12219,9 @@ msgstr "Klien dapat menghubungi Perusahaan untuk menutup akun klien pada Perusah
 msgid "The client may communicate with the Company via online chat on the Company’s websites."
 msgstr "Klien dapat berkomunikasi dengan Perusahaan melalui obrolan online di situs web Perusahaan."
 
+msgid "The client may file a complaint with the Financial Commission up to 45 days after the incident."
+msgstr "Klien dapat mengajukan keluhan kepada Komisi Keuangan paling lambat 45 hari setelah kejadian."
+
 msgid "The client may make Margin Payments by transferring funds from their %1 account to their MT5 Real Account. In the event that there are insufficient funds in the client's %1 account to fund their MT5 Real Account, they may make Margin Payments by funding their %1 account and transferring the funds from their %1 account to their MT5 Real Account."
 msgstr "Klien dapat melakukan Pembayaran Margin dengan mentransfer dana dari akun %1 ke Akun Riil MT5 mereka. Jika saldo tidak mencukupi pada akun %1 klien untuk mendanai Akun Riil MT5 mereka, mereka dapat melakukan Pembayaran Margin dengan mendanai akun%1 mereka dan mentransfer dana dari akun %1 ke Akun Riil MT5 mereka."
 
@@ -12155,6 +12263,9 @@ msgstr "Klien paham bahwa produk berdasarkan generator nomor acak (\"Indeks Sint
 
 msgid "The client using e-payments and bank wire transfers may make a deposit to the Agent. The Agent, receiving the deposit, shall thereinafter make a deposit to the Agent's %1 account (hereinafter referred to as the \"%1 Agent Account\")."
 msgstr "Setiap klien yang menggunakan e-payment dan transfer bank lokal dapat melakukan deposit menggunakan Agen. Agen yang menerima deposit tersebut, selanjutnya akan melakukan deposit ke dalam Akun %1 Klien bersangkutan (selanjutnya disebut sebagai \"akun Agen %1\")."
+
+msgid "The client will be able to file a complaint with the Financial Commission only if the client is not satisfied with the Company’s decision or if the decision wasn’t made within 14 days."
+msgstr "Klien akan dapat mengajukan keluhan kepada Komisi Keuangan hanya jika klien tidak puas dengan keputusan Perusahaan atau jika keputusan tersebut tidak dibuat dalam waktu 14 hari."
 
 msgid "The client's Account Balance includes Margin Requirement. The amount of the client's Account Balance in excess of Margin Requirement is available for withdrawal. The amount set aside for Margin Requirement is not available for the client's withdrawal."
 msgstr "Saldo Akun klien termasuk Persyaratan Margin. Jumlah Saldo Akun klien melebihi Persyaratan Margin tersedia untuk penarikan. Jumlah yang disisihkan untuk Persyaratan Margin tidak tersedia untuk penarikan klien."
@@ -12230,6 +12341,9 @@ msgstr "Biaya hidup di Malta relatif terjangkau; makanan dan transportasi umum j
 
 msgid "The cut-off time for performing Roll-overs and any long or short position swap charges"
 msgstr "Pemotongan waktu dalam melakukan Roll-over dan setiap biaya swap pada posisi beli atau jual"
+
+msgid "The decisions made by the DRC are binding on the Company. DRC’s decisions are binding on the client only if the client accepts them."
+msgstr "Keputusan yang dibuat oleh DRC mengikat Perseroan. Keputusan DRC mengikat klien hanya jika klien menerimanya."
 
 msgid "The default DNS services provided by your ISP can be slow and insecure. %1 recommends using Cloudflare's %2 DNS service that gives you a faster and more private way to browse the Internet."
 msgstr "Layanan DNS default yang disediakan oleh ISP Anda bisa lambat dan tidak aman. %1 merekomendasikan layanan DNS %2 Cloudflare yang memberi Anda cara yang lebih cepat dan lebih pribadi untuk menjelajah internet."
@@ -13083,9 +13197,6 @@ msgstr "Isi ulang error"
 msgid "Top-up successful"
 msgstr "Isi ulang sukses"
 
-msgid "TopFX Ltd"
-msgstr "TopFX Ltd"
-
 msgid "Total"
 msgstr "Total"
 
@@ -13353,11 +13464,11 @@ msgstr "Transfer dari"
 msgid "Transfer funds between your real money accounts."
 msgstr "Transfer dana antar akun uang riil Anda."
 
-msgid "Transfer funds from your MetaTrader 5 account into your binary options account."
-msgstr "Transfer dana dari akun MetaTrader 5 kedalam akun opsi binary Anda."
+msgid "Transfer funds from your MT5 account into your binary options account."
+msgstr ""
 
-msgid "Transfer funds from your binary options account into your MetaTrader 5 account."
-msgstr "Transfer dana dari akun opsi binary Anda kedalam akun MetaTrader 5 Anda."
+msgid "Transfer funds from your binary options account into your MT5 account."
+msgstr ""
 
 msgid "Transfer funds to a payment agent"
 msgstr "Transfer dana ke agen pembayaran"
@@ -13415,6 +13526,9 @@ msgstr "True USD"
 
 msgid "Trust"
 msgstr "Kepercayaan"
+
+msgid "Try Again"
+msgstr "Coba Lagi"
 
 msgid "Try Binary Bot"
 msgstr "Coba Bot Binary"
@@ -14883,6 +14997,9 @@ msgstr "Anda hanya dapat mentransfer dana antara akun fiat dan mata uang kripto.
 msgid "You may open one account for each supported cryptocurrency."
 msgstr "Anda dapat mendaftar satu akun pada masing masing mata uang kripto."
 
+msgid "You may see links to websites with a fake Binary login page where you’ll get scammed for your money. "
+msgstr "Anda mungkin melihat tautan ke situs web dengan halaman login Binary palsu di mana Anda mungkin akan terkena penipuan. "
+
 msgid "You must also submit a proof of address."
 msgstr "Anda juga harus mengirimkan bukti alamat."
 
@@ -14973,6 +15090,9 @@ msgstr "Anda akan memperoleh hasil jika harga pasar berakhir pada angka yang And
 msgid "You won’t be able to trade manually with the same %1 MT5 account once you’ve subscribed to a signal."
 msgstr "Anda tidak dapat bertrading secara manual menggunakan akun MT5 %1 yang sama setelah berlangganan sinyal."
 
+msgid "You'll be able to log in to Deriv using your Binary.com credentials."
+msgstr "Anda dapat mengakses Deriv menggunakan kredensial Binary.com."
+
 msgid "You'll need to restart your verification on your computer"
 msgstr "Anda harus memulai ulang verifikasi menggunakan komputer"
 
@@ -15045,12 +15165,6 @@ msgstr "Bagian Kasir akun Anda untuk sementara dibatakan berhubung Anda belum me
 msgid "Your account does not need authentication at this time.%1We will inform you if authentication is required in the future."
 msgstr "Akun Anda tidak perlu melengkapi proses otentikasi untuk saat ini.%1Kami akan menghubungi Anda kembali jika proses otentikasi tersebut diperlukan di masa yang akan datang."
 
-msgid "Your account funds will be rescinded if your account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
-msgstr "Sisa saldo di bawah USD/AUD/EUR/GBP1 akan dibatalkan jika akun Anda tidak aktif dalam tempo 30 hari."
-
-msgid "Your account funds will be rescinded if your account has been locked or has not recorded any transactions for a period of more than twelve months."
-msgstr "Sisa saldo akun Anda akan dibatalkan jika akun Anda tidak aktif dalam tempo dua belas bulan."
-
 msgid "Your account has been verified successfully"
 msgstr "Akun Anda telah berhasil diverifikasi"
 
@@ -15120,6 +15234,9 @@ msgstr "Komisi Anda untuk bulan kalender sebelumnya akan dibayarkan ke dalam aku
 msgid "Your computer may take a few seconds to update"
 msgstr "Komputer Anda mungkin perlu beberapa detik untuk memperbarui"
 
+msgid "Your date of birth in the document doesn't match your Binary profile name. Please update your name in the %1Personal details page%2."
+msgstr "Tanggal lahir Anda pada dokumen tidak sesuai dengan nama profil Binary Anda. Mohon perbarui nama Anda pada halaman %1Data pribadi%2."
+
 msgid "Your demo account balance is currently %1 or less. You may top up your account with an additional %2."
 msgstr "Saldo akun demo Anda saat ini adalah %1 atau kurang. Anda dapat mengisi ulang akun Anda dengan tambahan %2."
 
@@ -15131,6 +15248,9 @@ msgstr "Dokumen Anda sedang ditinjau, periksa kembali dalam tempo 1-3 hari. Anda
 
 msgid "Your document is being reviewed, please check back in 1-3 days. You must also submit a proof of identity."
 msgstr "Dokumen Anda sedang ditinjau, periksa kembali dalam tempo 1-3 hari. Anda juga perlu mengirimkan bukti identitas."
+
+msgid "Your document name doesn't match your Binary profile name. Please update your name in the %1Personal details page%2."
+msgstr "Nama pada dokumen tidak sesuai dengan nama profil Binary Anda. Mohon perbarui nama Anda pada halaman %1Data pribadi%2."
 
 msgid "Your document number has been verified"
 msgstr "Nomor dokumen Anda telah diverifikasi"
@@ -15152,6 +15272,9 @@ msgstr "Tautan Anda akan berakhir dalam tempo satu jam"
 
 msgid "Your mobile link will expire in one hour"
 msgstr "Link seluler Anda akan berakhir dalam tempo satu jam"
+
+msgid "Your name and date of birth in the document doesn't match your Binary profile name. Please update your name in the %1Personal details page%2."
+msgstr "Nama dan tanggal lahir Anda pada dokumen tidak sesuai dengan nama dan tanggal lahir pada profil Binary Anda. Mohon perbarui nama Anda pada halaman %1Data pribadi%2."
 
 msgid "Your name, email address and contact number"
 msgstr "Nama, alamat email dan nomor kontak Anda"

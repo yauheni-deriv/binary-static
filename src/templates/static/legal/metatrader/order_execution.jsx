@@ -8,7 +8,7 @@ const OrderExecution = () => (
         <p>
             {it.L('The terms \'the Company\' and \'[_1]\' shall denote', it.website_name)}&nbsp;
             <span data-show='-eucountry'>{it.L('Deriv (V) Ltd,')}&nbsp;</span>
-            <span data-show='-eucountry'>{it.L('Deriv (FX) Ltd, or')}&nbsp;</span>
+            <span data-show='-eucountry'>{it.L('Deriv (FX) Ltd, Deriv BVI (Ltd), or')}&nbsp;</span>
             <span>{it.L('Deriv Investments (Europe) Limited.')}</span>
         </p>
 
@@ -65,8 +65,8 @@ const OrderExecution = () => (
         <p>{it.L('When executing client orders using the A-book model, the Company directs the client\'s trade to one of its liquidity providers, namely:')}</p>
         <ul className='bullet'>
             <li>{it.L('GBE Brokers Ltd')}</li>
-            <li>{it.L('TopFX Ltd')}</li>
-            <li>{it.L('Prime Brokerage Services Limited')}</li>
+            <li>{it.L('Fondex Limited ')}</li>
+            <li>{it.L('Global Pop Liquidity Solutions Ltd')}</li>
             <li>{it.L('Exclusive Markets Ltd')}</li>
             <li>{it.L('GC Exchange Limited')}</li>
         </ul>

@@ -132,7 +132,7 @@ commands:
           command: |
             cd dist
             npx wrangler pages publish . --project-name=binary-static-pages --branch=staging
-            echo "New staging website - http://staging.cf-pages-binary-static.deriv.com"
+            echo "New staging website - http://staging.cf-pages-binary-static.binary.com"
 
   publish_to_pages_production:
     description: "Publish to cloudflare pages"
@@ -142,18 +142,18 @@ commands:
           command: |
             cd dist
             npx wrangler pages publish . --project-name=binary-static-pages --branch=main
-            echo "New website - http://cf-pages-binary-static.deriv.com"
+            echo "New website - http://cf-pages-binary-static.binary.com"
 jobs:
   test:
     docker:
-      - image: circleci/node:9.8.0-stretch
+      - image: circleci/node:14-stretch
     steps:
       - git_checkout_from_cache
       - npm_install
       - test
   release_staging:
     docker:
-      - image: circleci/node:9.8.0-stretch
+      - image: circleci/node:14-stretch
     steps:
       - git_checkout_from_cache
       - npm_install
@@ -173,7 +173,7 @@ jobs:
       - notify_slack
   release_production:
     docker:
-      - image: circleci/node:9.8.0-stretch
+      - image: circleci/node:14-stretch
     steps:
       - git_checkout_from_cache
       - npm_install
@@ -189,7 +189,7 @@ jobs:
       - notify_slack
   release_aws_production:
     docker:
-      - image: circleci/node:9.8.0-stretch
+      - image: circleci/node:14-stretch
     steps:
       - git_checkout_from_cache
       - npm_install
@@ -254,7 +254,7 @@ workflows:
           context: binary-frontend-artifact-upload
       - publish_cloudflare_production:
           requires:
-            - release_aws_production
+            - release_production
           filters:
             branches:
               ignore: /.*/

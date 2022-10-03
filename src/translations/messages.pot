@@ -523,12 +523,6 @@ msgstr ""
 msgid "(e) Size and nature"
 msgstr ""
 
-msgid "*Cryptocurrency pairs are not available for DMT5 Financial accounts registered with Deriv (V) Ltd."
-msgstr ""
-
-msgid "+ Add region"
-msgstr ""
-
 msgid "0 – 19.999%"
 msgstr ""
 
@@ -809,6 +803,9 @@ msgid "A keen eye to identify new trends in marketing, evaluate new technologies
 msgstr ""
 
 msgid "A lifelong interest in accounting, and an aptitude for numbers"
+msgstr ""
+
+msgid "A link can contain the word \"Binary\" and still be fake."
 msgstr ""
 
 msgid "A list of accepted payment methods"
@@ -1960,6 +1957,9 @@ msgstr ""
 msgid "Award-winning trading excellence"
 msgstr ""
 
+msgid "Awards and orders"
+msgstr ""
+
 msgid "B. Commencement"
 msgstr ""
 
@@ -2135,6 +2135,9 @@ msgid "BetOnMarkets.com reaches $1 billion turnover since starting in 1999"
 msgstr ""
 
 msgid "Betting system and method"
+msgstr ""
+
+msgid "Beware of the fake links."
 msgstr ""
 
 msgid "Bid"
@@ -2794,10 +2797,7 @@ msgstr ""
 msgid "Clients are also advised that their rights may be prejudiced if they provide the wrong information as the Company would not be in a position to act in their best interests."
 msgstr ""
 
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) who wish to trade CFDs on financial instruments and cryptocurrencies can have MetaTrader 5 accounts under Deriv (BVI) Ltd. %1 is not available in the British Virgin Islands."
-msgstr ""
-
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. This company does not offer CFDs on cryptocurrencies. %1 is not available in the Republic of Vanuatu."
+msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. %1 is not available in the Republic of Vanuatu."
 msgstr ""
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, and Hong Kong) will have their account opened with Deriv (SVG) LLC."
@@ -2815,6 +2815,9 @@ msgstr ""
 msgid "Clients in the European Union who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
 msgstr ""
 
+msgid "Clients in the rest of the world (except for certain countries such as the USA, Canada, and Hong Kong) who wish to trade CFDs on financial instruments (via DMT5 Financial account or DMT5 Financial STP account) and synthetic indices (via DMT5 Synthetic account) can have MetaTrader 5 accounts under Deriv (BVI) Ltd."
+msgstr ""
+
 msgid "Clients may trade on our platforms only when they are using their own money and are drawing on funds that have been acquired honestly. If you have any suspicion that clients are using money that has been acquired dishonestly, you must inform %1.  In such cases, we may decide to conduct checks on the client’s status and background. %2 management will decide what information needs to be reported to government officials and through what channels."
 msgstr ""
 
@@ -2828,12 +2831,6 @@ msgid "Clients must register personally."
 msgstr ""
 
 msgid "Clients need to satisfy at least two of the following criteria in order to receive Professional Client status:"
-msgstr ""
-
-msgid "Clients registered with Deriv (Europe) Limited can refer their complaints to the Malta Gaming Authority via the %1Player Support Unity%3. They can file their unresolved disputes with the European Commission’s %2Online Dispute Resolution (ODR)%3."
-msgstr ""
-
-msgid "Clients registered with Deriv Investments (Europe) Limited can raise their unresolved disputes with the Office of the Arbiter for Financial Services. Contact details and guidance on making a complaint with the Arbiter's Office can be found %1here%2."
 msgstr ""
 
 msgid "Clients shall not hold or pool third-party funds into their own account held with the Company."
@@ -3005,6 +3002,9 @@ msgid "Company's obligations"
 msgstr ""
 
 msgid "Company's rights"
+msgstr ""
+
+msgid "Compare MetaTrader 5 accounts"
 msgstr ""
 
 msgid "Compensation under Investor Compensation Scheme"
@@ -3742,13 +3742,13 @@ msgstr ""
 msgid "Demo CFDs"
 msgstr ""
 
+msgid "Demo Derived"
+msgstr ""
+
 msgid "Demo Financial"
 msgstr ""
 
 msgid "Demo Financial STP"
-msgstr ""
-
-msgid "Demo Synthetic"
 msgstr ""
 
 msgid "Demo accounts do not have Payment Agent services."
@@ -3811,7 +3811,7 @@ msgstr ""
 msgid "Deposit: Instant"
 msgstr ""
 
-msgid "Deposits and withdrawals for your MetaTrader 5 account always pass through your binary options account."
+msgid "Deposits and withdrawals for your MT5 account always pass through your binary options account."
 msgstr ""
 
 msgid "Deposits and/or payments due are to be made in the currency chosen by the client from the ones specified by DIEL from time to time."
@@ -3844,7 +3844,7 @@ msgstr ""
 msgid "Deriv (FX) Ltd,"
 msgstr ""
 
-msgid "Deriv (FX) Ltd, or"
+msgid "Deriv (FX) Ltd, Deriv BVI (Ltd), or"
 msgstr ""
 
 msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2."
@@ -3871,7 +3871,7 @@ msgstr ""
 msgid "Deriv (V) Ltd,"
 msgstr ""
 
-msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission."
+msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission - %1view licence%2."
 msgstr ""
 
 msgid "Deriv (V) Ltd: Vanuatu"
@@ -3928,6 +3928,12 @@ msgstr ""
 msgid "Derivative investment instruments such as binary options and related markets can be highly volatile. The prices of the underlying instrument that a Binary Option refers to may fluctuate rapidly and over wide ranges and may reflect unforeseeable events or changes in conditions, none of which can be controlled by the client or %1."
 msgstr ""
 
+msgid "Derived"
+msgstr ""
+
+msgid "Derived Account"
+msgstr ""
+
 msgid "Description"
 msgstr ""
 
@@ -3941,6 +3947,9 @@ msgid "Details"
 msgstr ""
 
 msgid "Details of the applicant's current level of remuneration, including entitlement to benefits such as pensions or insurance cover, if applicable"
+msgstr ""
+
+msgid "Determination phase"
 msgstr ""
 
 msgid "DevOps Engineer"
@@ -4042,7 +4051,13 @@ msgstr ""
 msgid "Divorce Settlement"
 msgstr ""
 
+msgid "Do not get lured to fake \"Binary\" pages!"
+msgstr ""
+
 msgid "Do not trade when you are tired or are under the influence of alcohol."
+msgstr ""
+
+msgid "Do not trust and give away your credentials on fake websites, ads or emails."
 msgstr ""
 
 msgid "Do you manage a social media page that's dedicated to online trading? Partner with us and convert your audience into potential profit."
@@ -4612,6 +4627,9 @@ msgstr ""
 msgid "Example: XAU/USD (Gold vs US dollar) symbol pair"
 msgstr ""
 
+msgid "Examples"
+msgstr ""
+
 msgid "Excellent English language skills, both oral and written"
 msgstr ""
 
@@ -4894,10 +4912,13 @@ msgstr ""
 msgid "F. Margin and Leverage"
 msgstr ""
 
-msgid "FX-majors (standard/micro lots), FX-minors, Commodities, Cryptocurrencies, Stocks, and Stock Indices"
+msgid "FX-majors (standard/micro lots), FX-minors, basket indices, commodities, cryptocurrencies, stocks, and stock indices"
 msgstr ""
 
-msgid "FX-majors, FX-minors, FX-exotics, Cryptocurrencies"
+msgid "FX-majors (standard/micro lots),%1FX-minors, Commodities, Cryptocurrencies, Stocks, and Stock Indices"
+msgstr ""
+
+msgid "FX-majors, FX-minors, FX-exotics, cryptocurrencies"
 msgstr ""
 
 msgid "Face forward and make sure your eyes are clearly visible"
@@ -4925,6 +4946,9 @@ msgid "Fairly and accurately describe Binary's business and services in a transp
 msgstr ""
 
 msgid "Fairly and accurately describe the Agent's services to the clients."
+msgstr ""
+
+msgid "Fake links often contain the word that looks like \"Binary\" but look out for these differences."
 msgstr ""
 
 msgid "Familiarity with Git"
@@ -5011,6 +5035,9 @@ msgstr ""
 msgid "File type not supported"
 msgstr ""
 
+msgid "Filing complaints"
+msgstr ""
+
 msgid "Filtering Controls"
 msgstr ""
 
@@ -5059,9 +5086,6 @@ msgstr ""
 msgid "Find a trading platform that suits your experience and preferred strategy – whether you're a new or seasoned trader."
 msgstr ""
 
-msgid "Find out more"
-msgstr ""
-
 msgid "Find out more about the costs and details of each CFD asset we offer."
 msgstr ""
 
@@ -5098,6 +5122,9 @@ msgstr ""
 msgid "First-class client service."
 msgstr ""
 
+msgid "Fixed spreads"
+msgstr ""
+
 msgid "Fixing problems and providing feedback for improvement."
 msgstr ""
 
@@ -5123,6 +5150,9 @@ msgid "Follow up on the recommendations and timeline for corrective actions with
 msgstr ""
 
 msgid "Follow, comply, and implement with all business-related directions, policies, and procedures of the Company as amended or re-enacted or replaced from time to time."
+msgstr ""
+
+msgid "Fondex Limited "
 msgstr ""
 
 msgid "Food Services"
@@ -5440,6 +5470,9 @@ msgstr ""
 msgid "Global Brands Magazine"
 msgstr ""
 
+msgid "Global Pop Liquidity Solutions Ltd"
+msgstr ""
+
 msgid "Glossary"
 msgstr ""
 
@@ -5462,6 +5495,12 @@ msgid "Go short = sell"
 msgstr ""
 
 msgid "Go to DTrader"
+msgstr ""
+
+msgid "Go to Deriv"
+msgstr ""
+
+msgid "Go to Deriv to add an MT5 account"
 msgstr ""
 
 msgid "Go to MT5 download page"
@@ -5818,6 +5857,9 @@ msgstr ""
 msgid "I'm no longer interested in trading."
 msgstr ""
 
+msgid "I've read the above carefully."
+msgstr ""
+
 msgid "I. Trading"
 msgstr ""
 
@@ -5917,6 +5959,9 @@ msgstr ""
 msgid "If it doesn’t work, download a QR code scanner from Google Play or the App Store"
 msgstr ""
 
+msgid "If no settlement opportunity can be found, the complaint will proceed to the determination phase to be handled by the DRC."
+msgstr ""
+
 msgid "If such documents expire, the Company reserves the right to request updated documentation."
 msgstr ""
 
@@ -5950,6 +5995,9 @@ msgstr ""
 msgid "If the Company determines that a force majeure event exists, the Company shall promptly give notice thereof to the client. Subsequently, the Company may, at its absolute discretion, take one or more steps, including but not limited to the following:"
 msgstr ""
 
+msgid "If the Company disagrees with the DRC’s decision, a response must be provided to the DRC and to the Company within 4 weeks, and the client can further escalate the client’s complaint to the British Virgin Islands Financial Services Commission by email to %1commissioner@bvifsc.vg%2."
+msgstr ""
+
 msgid "If the Company suffers a loss as a result of a chargeback or retrieval request, the client agrees to reimburse the Company the amount before the Company lifts off any limits imposed on any or all of the client’s accounts."
 msgstr ""
 
@@ -5980,6 +6028,12 @@ msgstr ""
 msgid "If the bid price is 1.05229, you'll buy 1.05229 USD for every 1 EUR you sell."
 msgstr ""
 
+msgid "If the client account has been locked or suspended and has not recorded any transactions for a period of twelve months or more, the Company reserves the right to rescind the client account funds."
+msgstr ""
+
+msgid "If the client agrees with a DRC’s decision, the client will need to accept it within 4 weeks. If the client does not respond to the DRC’s decision within 4 weeks, the complaint is considered closed."
+msgstr ""
+
 msgid "If the client asks to be treated as a professional client, they need to meet certain specified quantitative and qualitative criteria. On the basis of the client's request to be categorised as professional, the Company undertakes an assessment of the client's expertise, knowledge, and experience to determine whether they fall within this category and whether they are able to make their own investment decisions and understand the risks involved. If the relevant criteria are not met, the Company reserves the right to choose whether to provide its services under this requested classification."
 msgstr ""
 
@@ -6007,19 +6061,22 @@ msgstr ""
 msgid "If the client wishes to withdraw funds from their MT5 Real Account and/or close their MT5 Real Account, the client may notify the Company via %1live chat%2. The client's MT5 Real Account may be closed if the client does not have any Open Positions and all amounts due to the Company have been settled."
 msgstr ""
 
-msgid "If the client would like to file a complaint with regards to the Company's service, the client can contact the Company at %1, providing any relevant details relating to the client's complaint. %2If you are registered with Deriv (Europe) Limited, you can also place a complaint by calling %3.%4 The Company will investigate each inquiry and provide a final response in the shortest time possible."
+msgid "If the client would like to file a complaint about the Company’s service, the client can send the details related to the client’s complaint to the Company at %1complaints@deriv.com%2. The Company will investigate the client’s enquiry and send the client a final response within 15 days from the date on which the complaint is received."
 msgstr ""
 
 msgid "If the client's %1 account is closed, their MT5 Real Account will be automatically closed as well."
 msgstr ""
 
-msgid "If the client's complaint relates to an outcome of a trade or a transaction and remains unresolved, it will turn into a dispute. Should clients be unsatisfied with the Company's response, they can choose to escalate their complaint to the regulator or to an alternative dispute resolution entity."
-msgstr ""
-
-msgid "If the client's complaint relates to the Company's data processing practices, the client may formally submit a complaint to the Information and Data Protection Commissioner (Malta) on the entity's %1website%2. Alternatively, the client can make a complaint to any Supervisory Authority within the European Union."
-msgstr ""
-
 msgid "If the client's usable Margin drops below 100%, a Margin Call mode will be triggered and maintained till the level of 50%. In the event that the client's Margin Level is equal to, or drops below 50%, the Company will initiate the closing of the client's current Open Positions, starting from the most unprofitable, until the required Margin Level is achieved. In such events, the positions will be automatically closed at the current market price at that point in time."
+msgstr ""
+
+msgid "If the client’s account is registered with Deriv (BVI), and the Company does not resolve the client’s complaint to the client’s satisfaction, the client can escalate the complaint to the Financial Commission. In that case, the client’s complaint will go through the following procedure:"
+msgstr ""
+
+msgid "If the client’s complaint relates to the Company’s data processing practices, the client can submit a formal complaint to the Office of the Information Commissioner."
+msgstr ""
+
+msgid "If the decision is made in the Company’s favour, the client must provide a release for the Company within 7 days of the decision, and the complaint will be considered closed."
 msgstr ""
 
 msgid "If the payment agent is not listed, type in the payment agent ID. For example: CR000000."
@@ -6110,9 +6167,6 @@ msgid "If you need assistance feel free to contact our %1Customer Support%2."
 msgstr ""
 
 msgid "If you reside in the UK and are considering self-exclusion, you may wish to register with GAMSTOP."
-msgstr ""
-
-msgid "If you reside in the UK and you are unhappy with our response you may escalate your complaint to the %1Financial Ombudsman Service%2."
 msgstr ""
 
 msgid "If you score well in the hackathon or talent test, we'll send you a Self-Assessment Topgrading Interview (SATI) questionnaire. Do well on the SATI and we'll invite you for an interview with a member of our recruitment team."
@@ -6586,6 +6640,9 @@ msgstr ""
 msgid "Investigate, reproduce, identify, document, and resolve issues reported by our clients and the customer support team"
 msgstr ""
 
+msgid "Investigation phase"
+msgstr ""
+
 msgid "Investing in complex products, such as CFDs and FX may incur losses as well as gains. Prices may vary and/or fluctuate due to changes in current market prices and conditions, which may impact the return on your investment. Before making an Investment decision, you should refer to our %1Key Information Documents%2 on our website, in particular, the amount of Margin required for particular instruments that we offer. The Products offered by Deriv Investments (Europe) Limited fall under the category of 'complex products' and may not be suitable for retail clients."
 msgstr ""
 
@@ -6650,9 +6707,6 @@ msgid "It is further noted that the Company shall be the sole owner of all right
 msgstr ""
 
 msgid "It is hereby agreed as follows: "
-msgstr ""
-
-msgid "It is important that clients refer their disputes to the appropriate ADR for the claims to be valid."
 msgstr ""
 
 msgid "It is important that the client monitors all of the client's positions closely. It is the client's responsibility to monitor the client's positions, and during the period that the client has any open contracts, the client should always have the ability to access the client's accounts."
@@ -7003,6 +7057,9 @@ msgstr ""
 msgid "Leverage up to %1"
 msgstr ""
 
+msgid "Leverage up to 1:1000"
+msgstr ""
+
 msgid "Leverage, in the context of margin trading, refers to the use of margin to increase/amplify the value of a trade. Leverage is expressed as a ratio. A 50:1 leverage, for example, means that the client would be able to enter into a trade position that is of 50 times higher than the client's margin. When the client invests in a leveraged product, the client's profit or loss is based on the leveraged position, i.e. the increased/amplified value of the client's trade is determined based on the leverage ratio that the client has set for the client's account."
 msgstr ""
 
@@ -7204,6 +7261,9 @@ msgstr ""
 msgid "MT5 Financial"
 msgstr ""
 
+msgid "MT5 Financial STP"
+msgstr ""
+
 msgid "MT5 Login:"
 msgstr ""
 
@@ -7241,6 +7301,9 @@ msgid "MT5 real-money account for Synthetic Indices only."
 msgstr ""
 
 msgid "MT5 real-money account for forex and CFDs."
+msgstr ""
+
+msgid "MT5 real-money account for forex and cryptocurrencies."
 msgstr ""
 
 msgid "MT5 web platform"
@@ -7978,6 +8041,9 @@ msgstr ""
 msgid "No fiduciary duty"
 msgstr ""
 
+msgid "No further trading is allowed on this contract type for the current trading session. For more info, refer to our %1terms and conditions%2."
+msgstr ""
+
 msgid "No hidden fees"
 msgstr ""
 
@@ -8125,6 +8191,9 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
+msgid "OK, got it"
+msgstr ""
+
 msgid "OMG/USD"
 msgstr ""
 
@@ -8249,6 +8318,9 @@ msgid "Only letters, numbers, space, underscore, and hyphen are allowed for ID n
 msgstr ""
 
 msgid "Only letters, space, hyphen, period, and apostrophe are allowed."
+msgstr ""
+
+msgid "Only log in to your account at this secure link, never elsewhere."
 msgstr ""
 
 msgid "Only one account is allowed per person. No withdrawals and/or refunds may be collected on accounts opened in false names or on multiple accounts opened by the same person."
@@ -8395,6 +8467,9 @@ msgstr ""
 msgid "Our Company"
 msgstr ""
 
+msgid "Our Derived account allows you to trade CFDs on Derived Indices - our proprietary Derived assets that simulate market forces."
+msgstr ""
+
 msgid "Our MT5 servers are temporarily unavailable. We're working to restore them. Please try again in a few minutes."
 msgstr ""
 
@@ -8467,7 +8542,7 @@ msgstr ""
 msgid "Our website uses cookies to give you the best user experience. For more information, %1view our policy%2."
 msgstr ""
 
-msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission; Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
+msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission (%1view licence%2); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
 msgstr ""
 
 msgid "Outstanding written and verbal communication skills and excellent command of English"
@@ -9184,9 +9259,6 @@ msgstr ""
 msgid "Primary"
 msgstr ""
 
-msgid "Prime Brokerage Services Limited"
-msgstr ""
-
 msgid "Prior to placing an Order, which results in opening a position, the client acknowledges that it is their responsibility to ensure that their Account Free Margin is sufficient to cover the Margin required in relation to the opening of the position (the \"Margin Requirement\"), and to continuously meet the Margin Requirement."
 msgstr ""
 
@@ -9502,6 +9574,9 @@ msgstr ""
 msgid "Real CFDs"
 msgstr ""
 
+msgid "Real Derived"
+msgstr ""
+
 msgid "Real Estate"
 msgstr ""
 
@@ -9512,9 +9587,6 @@ msgid "Real Financial STP"
 msgstr ""
 
 msgid "Real Money Account Opening"
-msgstr ""
-
-msgid "Real Synthetic"
 msgstr ""
 
 msgid "Real accounts are not available to politically exposed persons (PEPs)."
@@ -11032,6 +11104,18 @@ msgstr ""
 msgid "Tether Omni (USDT) is a version of Tether that's pegged to USD and is built on the Bitcoin blockchain."
 msgstr ""
 
+msgid "Tether TRC20"
+msgstr ""
+
+msgid "Tether as a TRC20 token (tUSDT) is a version of Tether that is hosted on Tron."
+msgstr ""
+
+msgid "Tether as an ERC20 token (eUSDT) is a version of Tether that is hosted on Ethereum."
+msgstr ""
+
+msgid "Tether as an Omni token (USDT) is a version of Tether that is hosted on the Omni layer on the Bitcoin blockchain."
+msgstr ""
+
 msgid "Tether is a blockchain-based cryptocurrency whose cryptocoins in circulation are backed by an equivalent amount of traditional fiat currencies. For more information, please visit %1."
 msgstr ""
 
@@ -11051,9 +11135,6 @@ msgid "Thank you for signing up! Please check your email to complete the registr
 msgstr ""
 
 msgid "Thank you for your interest in partnering with us. We've made it easy for you to apply online. Just fill out the %1online application form%2 with all necessary details. If you are already registered as a %3 affiliate, you can email us at %4 instead. We will contact you directly if your application is successful."
-msgstr ""
-
-msgid "Thank you, we'll get back to you within 24 hours"
 msgstr ""
 
 msgid "That contravenes any laws, regulations, instruments, ordinances, or rules that govern the operation of any exchange, financial market, or financial regulatory environment"
@@ -11458,6 +11539,9 @@ msgstr ""
 msgid "The Company may, however, withhold the client's withdrawal request from their MT5 Real Account to their %1 account, in whole or in part, in one or more of the following cases:"
 msgstr ""
 
+msgid "The Company must award the settlement within 28 days of when the decision is reached."
+msgstr ""
+
 msgid "The Company offers a number of merchant solutions and payment service providers for making online payments. The client will be billed at the time of, or shortly after, making a transaction. The client agrees to pay for all trades that the client purchases via any of the available merchant solutions or payment service providers."
 msgstr ""
 
@@ -11677,13 +11761,28 @@ msgstr ""
 msgid "The Country Manager is expected to acquire, service, manage, and expand our network of active affiliates in the countries where Deriv Group targets to be represented. You will also contribute your energy, skills, and knowledge of the local business culture to increase our rapid growth rate worldwide."
 msgstr ""
 
+msgid "The DRC may request additional information from the client or the Company, who must then provide the requested information within 7 days."
+msgstr ""
+
+msgid "The DRC will decide on the complaint (it should be noted that the DRC mentions no timeframe for announcing its decision)."
+msgstr ""
+
 msgid "The Domain Name System (DNS) allows you to access a website through a user-friendly web address such as %1, instead of a complicated IP address."
 msgstr ""
 
 msgid "The Financial Commission"
 msgstr ""
 
+msgid "The Financial Commission accepts appeals for 45 days following the date of the incident and only after the client has tried to resolve the issue with the Company directly."
+msgstr ""
+
+msgid "The Financial Commission has 5 days to acknowledge that the client’s complaint was received and 14 days to answer the complaint through the Company’s Internal Dispute Resolution (IDR) procedure."
+msgstr ""
+
 msgid "The Financial Commission offers compensation up to 20,000 EUR on a case-to-case basis, unbiased assessment of disputes, and fast and effective dispute resolution free of charge."
+msgstr ""
+
+msgid "The Financial Commission will investigate the validity of the complaint within 5 business days."
 msgstr ""
 
 msgid "The Financial Products that DIEL offers to deal in are contracts entered into between clients and DIEL. Under these contracts and subject to the specific terms of the relevant contract, in consideration for the premium or price that clients pay DIEL, DIEL promises to pay clients a certain amount if the reference assets or measurements perform in a particular manner. These contracts accordingly are not instruments that DIEL holds on clients' behalf and neither benefits from clients' assets protection in the event of DIEL's insolvency. Similarly, the premium or price that clients pay to take out a trade is not held as clients' money but as consideration for DIEL's undertaking to pay."
@@ -11695,10 +11794,13 @@ msgstr ""
 msgid "The Financial account (available in EUR and GBP) is suitable for a wide range of traders, both new or experienced. Trade major (standard and micro-lots) and minor currency pairs, stocks, stock indices, commodities, and cryptocurrencies."
 msgstr ""
 
-msgid "The Financial account offers new and experienced traders high leverage and variable spreads for maximum flexibility. Trade major (standard and micro-lots) and minor currency pairs, stocks, stock indices, commodities, and cryptocurrencies with high leverage."
+msgid "The Financial account offers new and experienced traders high leverage and variable spreads for maximum flexibility. Trade major (standard and micro-lots) and minor currency pairs, stocks, stock indices, basket indices, commodities, and cryptocurrencies with high leverage."
 msgstr ""
 
 msgid "The Foreign Exchange Market (forex) is the world's largest and most liquid market – where anyone can buy, sell, and exchange currencies."
+msgstr ""
+
+msgid "The Head of the Dispute Resolution Committee (DRC) will contact both the client and the Company within 5 business days to obtain all necessary information and see if there is a chance to settle the complaint during the investigation phase."
 msgstr ""
 
 msgid "The Human Resource Operations team manages essential human resource functions such as managing expats, processing work permits, onboarding, managing payroll, compiling compensation studies, and overseeing performance appraisals."
@@ -11953,6 +12055,9 @@ msgstr ""
 msgid "The clauses above shall not apply in its entirety to any Introducing Brokers who are contracted to provide Introducing Broker services with Deriv Investments (Europe) Limited."
 msgstr ""
 
+msgid "The client account funds will be rescinded if the client account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
+msgstr ""
+
 msgid "The client acknowledges and accepts that a trade may be subject to market rules laid down in by-laws, rules, provisions, customs, and practices of an exchange, a market, a clearing house, a body, or any other organisation involved in the execution, clearing, and/or settlement of the said trade. Should any such organisation take decisions or measures which affect a trade or an Open Position, the Company shall be entitled to take any action (including closing any Open Position of the client) that it, at its sole discretion, considers reasonable. "
 msgstr ""
 
@@ -12097,6 +12202,9 @@ msgstr ""
 msgid "The client may communicate with the Company via online chat on the Company’s websites."
 msgstr ""
 
+msgid "The client may file a complaint with the Financial Commission up to 45 days after the incident."
+msgstr ""
+
 msgid "The client may make Margin Payments by transferring funds from their %1 account to their MT5 Real Account. In the event that there are insufficient funds in the client's %1 account to fund their MT5 Real Account, they may make Margin Payments by funding their %1 account and transferring the funds from their %1 account to their MT5 Real Account."
 msgstr ""
 
@@ -12137,6 +12245,9 @@ msgid "The client understands that products based on a random number generator (
 msgstr ""
 
 msgid "The client using e-payments and bank wire transfers may make a deposit to the Agent. The Agent, receiving the deposit, shall thereinafter make a deposit to the Agent's %1 account (hereinafter referred to as the \"%1 Agent Account\")."
+msgstr ""
+
+msgid "The client will be able to file a complaint with the Financial Commission only if the client is not satisfied with the Company’s decision or if the decision wasn’t made within 14 days."
 msgstr ""
 
 msgid "The client's Account Balance includes Margin Requirement. The amount of the client's Account Balance in excess of Margin Requirement is available for withdrawal. The amount set aside for Margin Requirement is not available for the client's withdrawal."
@@ -12212,6 +12323,9 @@ msgid "The cost of living in Malta is relatively affordable; food and public tra
 msgstr ""
 
 msgid "The cut-off time for performing Roll-overs and any long or short position swap charges"
+msgstr ""
+
+msgid "The decisions made by the DRC are binding on the Company. DRC’s decisions are binding on the client only if the client accepts them."
 msgstr ""
 
 msgid "The default DNS services provided by your ISP can be slow and insecure. %1 recommends using Cloudflare's %2 DNS service that gives you a faster and more private way to browse the Internet."
@@ -13066,9 +13180,6 @@ msgstr ""
 msgid "Top-up successful"
 msgstr ""
 
-msgid "TopFX Ltd"
-msgstr ""
-
 msgid "Total"
 msgstr ""
 
@@ -13336,10 +13447,10 @@ msgstr ""
 msgid "Transfer funds between your real money accounts."
 msgstr ""
 
-msgid "Transfer funds from your MetaTrader 5 account into your binary options account."
+msgid "Transfer funds from your MT5 account into your binary options account."
 msgstr ""
 
-msgid "Transfer funds from your binary options account into your MetaTrader 5 account."
+msgid "Transfer funds from your binary options account into your MT5 account."
 msgstr ""
 
 msgid "Transfer funds to a payment agent"
@@ -13397,6 +13508,9 @@ msgid "True USD"
 msgstr ""
 
 msgid "Trust"
+msgstr ""
+
+msgid "Try Again"
 msgstr ""
 
 msgid "Try Binary Bot"
@@ -14866,6 +14980,9 @@ msgstr ""
 msgid "You may open one account for each supported cryptocurrency."
 msgstr ""
 
+msgid "You may see links to websites with a fake Binary login page where you’ll get scammed for your money. "
+msgstr ""
+
 msgid "You must also submit a proof of address."
 msgstr ""
 
@@ -14956,6 +15073,9 @@ msgstr ""
 msgid "You won’t be able to trade manually with the same %1 MT5 account once you’ve subscribed to a signal."
 msgstr ""
 
+msgid "You'll be able to log in to Deriv using your Binary.com credentials."
+msgstr ""
+
 msgid "You'll need to restart your verification on your computer"
 msgstr ""
 
@@ -15028,12 +15148,6 @@ msgstr ""
 msgid "Your account does not need authentication at this time.%1We will inform you if authentication is required in the future."
 msgstr ""
 
-msgid "Your account funds will be rescinded if your account has been inactive for 30 days with an account balance of USD/AUD/EUR/GBP1 or less."
-msgstr ""
-
-msgid "Your account funds will be rescinded if your account has been locked or has not recorded any transactions for a period of more than twelve months."
-msgstr ""
-
 msgid "Your account has been verified successfully"
 msgstr ""
 
@@ -15103,6 +15217,9 @@ msgstr ""
 msgid "Your computer may take a few seconds to update"
 msgstr ""
 
+msgid "Your date of birth in the document doesn't match your Binary profile name. Please update your name in the %1Personal details page%2."
+msgstr ""
+
 msgid "Your demo account balance is currently %1 or less. You may top up your account with an additional %2."
 msgstr ""
 
@@ -15113,6 +15230,9 @@ msgid "Your document is being reviewed, please check back in 1-3 days. You must 
 msgstr ""
 
 msgid "Your document is being reviewed, please check back in 1-3 days. You must also submit a proof of identity."
+msgstr ""
+
+msgid "Your document name doesn't match your Binary profile name. Please update your name in the %1Personal details page%2."
 msgstr ""
 
 msgid "Your document number has been verified"
@@ -15134,6 +15254,9 @@ msgid "Your link will expire in one hour"
 msgstr ""
 
 msgid "Your mobile link will expire in one hour"
+msgstr ""
+
+msgid "Your name and date of birth in the document doesn't match your Binary profile name. Please update your name in the %1Personal details page%2."
 msgstr ""
 
 msgid "Your name, email address and contact number"

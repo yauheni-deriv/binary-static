@@ -136,7 +136,7 @@ const Cashier = (() => {
     };
 
     const setCryptoMinimumWithdrawal = () => {
-        BinarySocket.wait('website_status').then((response) => {
+        BinarySocket.send({ crypto_config: 1 }).then((response) => {
             $('#cryptocurrency tbody tr').each(function () {
                 const $row = $(this);
                 const $columns = $row.find('td:nth-child(2) div:nth-child(2)');
@@ -145,7 +145,7 @@ const Cashier = (() => {
                 const shortname = $crypto_min_withdrawal.attr('data-currency');
 
                 if (shortname && $crypto_min_withdrawal) {
-                    const minimum_withdrawal = getPropertyValue(response, ['website_status', 'crypto_config', shortname, 'minimum_withdrawal']);
+                    const minimum_withdrawal = getPropertyValue(response, ['crypto_config', 'currencies_config',shortname, 'minimum_withdrawal']);
 
                     let to_fixed = 0;
                     // cut long numbers off after two non-zero decimals
@@ -192,14 +192,14 @@ const Cashier = (() => {
             { lock: 'withdrawal_locked', selectors: [withdraw] },
             { lock: 'no_withdrawal_or_trading', selectors: [withdraw] },
             { lock: 'unwelcome', selectors: [deposit] },
-            { lock: 'only_pa_withdrawals_allowed', selectors: [withdraw] },
+            { lock: 'only_pa_p2p_withdrawals_allowed', selectors: [withdraw] },
         ];
         statuses_to_check.forEach(item => {
             if (status.includes(item.lock)) {
                 item.selectors.forEach(selector => setBtnDisable(selector));
             }
         });
-        if (status.includes('only_pa_withdrawals_allowed')){
+        if (status.includes('only_pa_p2p_withdrawals_allowed')){
             $('.pa_withdraw').removeClass('button-disabled').click(false);
         }
     };
@@ -255,7 +255,7 @@ const Cashier = (() => {
                 },
                 onAbort: () => BinaryPjax.load(Url.urlFor('cashier')),
             });
-        
+
         });
     };
 
@@ -375,7 +375,7 @@ const Cashier = (() => {
                         return false;
                     });
                 }
-              
+
                 if (has_fiat_account || has_crypto_account){
                     el_paymentmethod_deposit.on('click', () => {
                         BinarySocket.send({ authorize: 1 }).then(() => {
@@ -389,7 +389,7 @@ const Cashier = (() => {
                         });
                         return false;
                     });
-                    
+
                 } else {
                     el_paymentmethod_deposit.on('click', () => {
                         el_paymentmethod_deposit.attr('href', Url.urlFor('/new_account/real_account'));
