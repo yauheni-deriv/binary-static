@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-03 04:37\n"
+"PO-Revision-Date: 2022-10-07 06:36\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -3020,7 +3020,7 @@ msgid "Company's rights"
 msgstr "公司權利"
 
 msgid "Compare MetaTrader 5 accounts"
-msgstr ""
+msgstr "比較MetaTrader 5 帳戶"
 
 msgid "Compensation under Investor Compensation Scheme"
 msgstr "投資者補償計劃下的補償"
@@ -3758,7 +3758,7 @@ msgid "Demo CFDs"
 msgstr "示範差價合約"
 
 msgid "Demo Derived"
-msgstr ""
+msgstr "示範衍生資產"
 
 msgid "Demo Financial"
 msgstr "示範金融"
@@ -3827,7 +3827,7 @@ msgid "Deposit: Instant"
 msgstr "存款：即時"
 
 msgid "Deposits and withdrawals for your MT5 account always pass through your binary options account."
-msgstr ""
+msgstr "MT5 帳戶總是通過二元期權帳戶存款和提款 。"
 
 msgid "Deposits and/or payments due are to be made in the currency chosen by the client from the ones specified by DIEL from time to time."
 msgstr "到期的存款和/或付款將定時以客戶從DIEL指定幣種中選擇的貨幣進行."
@@ -3862,8 +3862,8 @@ msgstr "Deriv (FX) 有限公司"
 msgid "Deriv (FX) Ltd, Deriv BVI (Ltd), or"
 msgstr "Deriv (FX) 有限公司，Deriv BVI (有限公司)，或"
 
-msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2."
-msgstr "Deriv (FX) 有限公司，地址: Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia。由納閩金融服務管理局授予牌照執行資金經紀商業活動 %1(牌照編號MB/18/0024)%2和監管。"
+msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2. A member of the %3Labuan Fintech Association%4."
+msgstr "Deriv (FX) 有限公司，地址: Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia。由納閩金融服務管理局授予牌照執行資金經紀商業活動 %1(牌照編號MB/18/0024)%2和監管。是納閩Fintech協會的成員。"
 
 msgid "Deriv (FX) Ltd: Labuan, Territory of Malaysia"
 msgstr "Deriv (FX) 有限公司: 納閩，馬來西亞直轄區"
@@ -3944,10 +3944,10 @@ msgid "Derivative investment instruments such as binary options and related mark
 msgstr "衍生投資工具如二元期權和相關市場的波動性很大。二元期權所涉及的基礎工具價格可能會快速起伏，且幅度很大，很可能反映出一些客戶或 %1 皆無法控制的不可預測事件或狀況變遷。"
 
 msgid "Derived"
-msgstr ""
+msgstr "衍生資產"
 
 msgid "Derived Account"
-msgstr ""
+msgstr "衍生帳戶"
 
 msgid "Description"
 msgstr "描述"
@@ -5138,7 +5138,7 @@ msgid "First-class client service."
 msgstr "一流的客戶服務。"
 
 msgid "Fixed spreads"
-msgstr ""
+msgstr "固定利差"
 
 msgid "Fixing problems and providing feedback for improvement."
 msgstr "解決問題並提供改進建議。"
@@ -7073,7 +7073,7 @@ msgid "Leverage up to %1"
 msgstr "槓桿率高達%1"
 
 msgid "Leverage up to 1:1000"
-msgstr ""
+msgstr "槓桿率高達 1: 1000"
 
 msgid "Leverage, in the context of margin trading, refers to the use of margin to increase/amplify the value of a trade. Leverage is expressed as a ratio. A 50:1 leverage, for example, means that the client would be able to enter into a trade position that is of 50 times higher than the client's margin. When the client invests in a leveraged product, the client's profit or loss is based on the leveraged position, i.e. the increased/amplified value of the client's trade is determined based on the leverage ratio that the client has set for the client's account."
 msgstr "融資融券交易中，槓桿指使用保證金增加/擴大交易數值。槓桿的表達方式是比率。舉個例子，如果槓桿是50: 1，客戶將能夠持有比保證金高出 50 倍的交易頭寸。當客戶投資一種槓桿產品時，其盈利或虧損將根據槓桿的頭寸計算，也就是說，客戶為帳戶設定的槓桿比率決定了其交易增加/擴大數值。"
@@ -8483,7 +8483,7 @@ msgid "Our Company"
 msgstr "我們公司"
 
 msgid "Our Derived account allows you to trade CFDs on Derived Indices - our proprietary Derived assets that simulate market forces."
-msgstr ""
+msgstr "我們的衍生帳戶允許您對衍生指數進行差價交易 - 這是我們專有的衍生資產，可模擬市場力量。"
 
 msgid "Our MT5 servers are temporarily unavailable. We're working to restore them. Please try again in a few minutes."
 msgstr "MT5 伺服器暫時不能用。正在修復中。請於數分鐘後重試。"
@@ -8638,8 +8638,8 @@ msgstr "合作夥伴的收入"
 msgid "Partners"
 msgstr "合作夥伴"
 
-msgid "Parts of this clause may not apply to Synthetic Indices."
-msgstr "本條款的一些部份不適用於綜合指數。"
+msgid "Parts of this clause may not apply to Synthetic Indices, basket indices, and derived FX."
+msgstr ""
 
 msgid "Passion for Linux and other open-source platforms"
 msgstr "對使用Linux和其它開源平台充滿熱忱"
@@ -9590,7 +9590,7 @@ msgid "Real CFDs"
 msgstr "真實差價合約"
 
 msgid "Real Derived"
-msgstr ""
+msgstr "真實衍生資產"
 
 msgid "Real Estate"
 msgstr "房地產"
@@ -10954,6 +10954,9 @@ msgstr "綜合"
 msgid "Synthetics Account"
 msgstr "綜合帳戶"
 
+msgid "Synthetics, Basket indices"
+msgstr "綜合、籃子指數"
+
 msgid "System Administrator"
 msgstr "系統管理員"
 
@@ -11356,8 +11359,8 @@ msgstr "平均"
 msgid "The Commencement Date of this agreement shall mean the date on which the Agent's account is approved by the Company."
 msgstr "本協議的生效日期是指公司批准代理帳戶的日期。"
 
-msgid "The Company Prices are determined by reference to the price of the Underlying Instrument which is quoted on external exchanges or dealing facilities that %1 selects at the Company's discretion. The Company's IT infrastructure and price aggregator system facilitate the reception of quotes from shortlisted prime brokers, who act as liquidity providers for the Company and the delivery of the quotes, derived with reference against relevant benchmark and markets, to the client. The client acknowledges that the Company Prices may differ from the Bids and Asks made available by external exchanges or dealing facilities and the Company is not liable for any losses that the client might incur arising from such differences. This clause does not apply to Synthetic Indices."
-msgstr "公司在參考了由公司自主經%1選定的外部交易所或交易設施所報的基礎工具價格之後決定價格。公司擁有信息技術基礎設施和價格聚合器系統，便於向充當公司流動性提供商，經過挑選的主要經紀商收集報價，並將經過參考有關基準和市場得來的價格提供給客戶。客戶確認公司的價格可能與外部交易所或交易設施所提供的買入和賣出價格不相同，以及公司不對所述差異所引起的任何損失承擔賠償責任。本條款不適用於綜合指數。"
+msgid "The Company Prices are determined by reference to the price of the Underlying Instrument which is quoted on external exchanges or dealing facilities that %1 selects at the Company's discretion. The Company's IT infrastructure and price aggregator system facilitate the reception of quotes from shortlisted prime brokers, who act as liquidity providers for the Company and the delivery of the quotes, derived with reference against relevant benchmark and markets, to the client. The client acknowledges that the Company Prices may differ from the Bids and Asks made available by external exchanges or dealing facilities and the Company is not liable for any losses that the client might incur arising from such differences. This clause does not apply to Synthetic Indices, basket indices, and derived FX."
+msgstr ""
 
 msgid "The Company aims to keep a record of the kinds of activity that the Company carries on in which a material conflict could arise or has arisen. The Company also maintains procedures to manage actual or potential conflicts. This includes procedures to maintain appropriate independence among members of the Company's staff who are involved in potentially conflicting activities. Such independence-upholding procedures can be followed, for example, through the operation of information barriers, physical separation of staff, the segregation of duties and responsibilities, and the maintenance of a policy of independence, which requires the Company's staff, when providing services to a client, to act in the best interests of the client and to disregard any conflicts of interest, or in some circumstances, to decline to act for a client or potential client in order to avoid conflicts of interest."
 msgstr "公司希望記錄持續運行並可能發生利益衝突的活動。公司也持續管理實際或潛在衝突，包括讓與潛在衝突活動相關的員工保持適當的獨立性，例如：通過信息障礙、員工隔離、責任分離制度和保持政策獨立性。這需要公司的員工在服務時以客戶的最佳利益為主，忽略利益衝突，並在某些情況下拒絕為客戶或潛在客戶採取行動。"
@@ -11680,8 +11683,8 @@ msgstr "公司通過電子系統提供各種報表，它們詳細列明了由聯
 msgid "The Company shall, in its absolute discretion, determine whether the application of the Introducing Broker has been successful. The Company's decision is final and is not subject to any appeal."
 msgstr "公司將自行確定推介經紀的申請是否成功。公司的決定具有最終性，不能提出申訴。"
 
-msgid "The Company sources market data from prime brokers who act as liquidity providers, thus executing the client's transactions through a pool of aggregated liquidity from top tier banks. The services offered by the Company do not include physical delivery of foreign currency by the Company or the prime brokers to the client. The client acknowledges and agrees that such data is proprietary to the Company and any such provider, and the client will not retransmit, redistribute, publish, disclose, or display in whole or in part such data to third parties. The client represents and warrants that they will only use such data for purposes of facilitating their entry into transactions with the Company on the client's MT5 Real Account in accordance with this agreement and not for any other purpose. This clause does not apply to Synthetic Indices."
-msgstr "公司市場資料源自充當流動性提供商的主要經紀人，因此通過從頂級銀行獲取的聚合流動性池為客戶執行交易。公司提供的服務不包括由公司或主要經紀人向客戶遞送實物外幣。客戶確認並同意，此類資料由公司和任何此類提供商專有，和客戶不會重傳、重新分配、發布、披露、或顯示此類資料的全部或部分給第三方。客戶陳述並保證客戶將僅按照本協議的目的而不是為了任何其他目的使用此類資料，為了便於在MT5真實帳戶進行交易。本條款不適用於綜合指數。"
+msgid "The Company sources market data from prime brokers who act as liquidity providers, thus executing the client's transactions through a pool of aggregated liquidity from top tier banks. The services offered by the Company do not include physical delivery of foreign currency by the Company or the prime brokers to the client. The client acknowledges and agrees that such data is proprietary to the Company and any such provider, and the client will not retransmit, redistribute, publish, disclose, or display in whole or in part such data to third parties. The client represents and warrants that they will only use such data for purposes of facilitating their entry into transactions with the Company on the client's MT5 Real Account in accordance with this agreement and not for any other purpose. This clause does not apply to Synthetic Indices, basket indices, and derived FX."
+msgstr ""
 
 msgid "The Company strives to ensure that all the orders placed are executed; however, this is not always possible due to material difficulty or unusual circumstances. In any instance that the Company is aware of any material difficulty relevant to the proper execution of an order, it promptly informs the client of the issue."
 msgstr "公司努力確保所有訂單都能執行。然而，有時會碰到重大困難或不尋常的情況，因此並不一定每次都能夠辦到。一旦公司意識到與正確執行訂單有關的任何重大困難的任何情況，公司會迅速將問題通知客戶。"
@@ -11781,6 +11784,9 @@ msgstr "DRC 可能會要求客戶或公司提供其他資訊，所需資訊必�
 
 msgid "The DRC will decide on the complaint (it should be noted that the DRC mentions no timeframe for announcing its decision)."
 msgstr "DRC 將對投訴做出決定（請注意，DRC 不會提及其宣布決定的時間表）。"
+
+msgid "The Derived account allows you to trade contracts for difference (CFDs) on synthetics that mimic real-world movements. Available for trading 24/7 and audited for fairness by an independent third party."
+msgstr "衍生帳戶讓您以最低真實市場波動率進行差價合約綜合交易。全年無休，全天候交易，公平審計由第三方獨立機構監控。"
 
 msgid "The Domain Name System (DNS) allows you to access a website through a user-friendly web address such as %1, instead of a complicated IP address."
 msgstr "網域名稱系統 (DNS) 允許通過方便使用的 web 位址 (如 %1) 而不是複雜的 IP 位址存取網站。"
@@ -11985,9 +11991,6 @@ msgstr "價差可由公司全權酌情決定更改。客戶確認，雖然公司
 
 msgid "The Stop Out Level applicable to the client's MT5 Real Account may differ from the default Stop Out Level published on the Company website."
 msgstr "適用於客戶MT5真實帳戶的強制平倉層級可能與公司網站公佈的預設強制平倉層級不一樣。"
-
-msgid "The Synthetic account allows you to trade contracts for difference (CFDs) on synthetic indices that mimic real-world movements. Available for trading 24/7 and audited for fairness by an independent third party."
-msgstr "綜合帳戶讓您以最低真實市場波動率進行差價合約綜合指數交易。全年無休，全天候交易，公平審計由第三方獨立機構監控。"
 
 msgid "The System Administration team is responsible for the upkeep, configuration, and reliable operation of our computer software, hardware, and networks."
 msgstr "系統管理團隊負責維護、配置和可靠運行我們的電腦軟體、硬體和網路。"
@@ -12967,8 +12970,8 @@ msgstr "此要求由《統一報告標準》 (CRS) 和《外國帳戶稅收遵�
 msgid "This risk disclosure statement is not exhaustive and is not intended to constitute a comprehensive statement of all the risks to which the client might be exposed and does not describe all the risks inherent to forex and contracts for differences that exist now or which may arise in the future. Its objective is rather to provide the client with information, so that the client can reasonably understand the risks associated with forex and contracts for differences offered by %1, as it is the Company's intention to provide the client with the best possible trading experience."
 msgstr "此風險披露聲明並非詳盡無遺，也並非包含客戶可能會接觸到的所有風險的全面聲明。此聲明也並不能描述外匯交易和合約現存的固有風險或將來可能發生的所有風險差異。其目的在於為客戶提供及讓客戶合理理解%1在符合公司利益的同時為客戶提供的最佳外匯與差價合約交易經驗相關的風險資訊。"
 
-msgid "This section on force majeure events does not apply to Synthetic Indices."
-msgstr "此不可抗力事件章節不適用於綜合指數。"
+msgid "This section on force majeure events does not apply to Synthetic Indices, basket indices, and derived FX."
+msgstr ""
 
 msgid "This website's services are not made available in certain countries such as the USA, Canada, Hong Kong, or to persons under age 18."
 msgstr "某些國家如美國、加拿大、香港或18歲以下人士無法使用本網站的服務。"
@@ -13463,10 +13466,10 @@ msgid "Transfer funds between your real money accounts."
 msgstr "在真實資金帳戶間轉匯資金。"
 
 msgid "Transfer funds from your MT5 account into your binary options account."
-msgstr ""
+msgstr "把資金從 MT5 帳戶轉移到二元期權帳戶︰"
 
 msgid "Transfer funds from your binary options account into your MT5 account."
-msgstr ""
+msgstr "把資金從二元期權帳戶轉移到 MT5 帳戶︰"
 
 msgid "Transfer funds to a payment agent"
 msgstr "將資金轉予付款代理"
