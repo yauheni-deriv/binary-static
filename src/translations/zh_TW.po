@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-12-21 06:50\n"
+"PO-Revision-Date: 2023-01-16 17:55\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -3812,7 +3812,7 @@ msgid "Deriv (BVI) Ltd,"
 msgstr "Deriv (BVI) 有限公司"
 
 msgid "Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands. Licensed and regulated by the British Virgin Islands Financial Services Commission - %1view licence%2."
-msgstr " Deriv (BVI) 有限公司, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands. 由英屬維爾京群島金融服務委員會授權和管理- %1查看許可證%2。"
+msgstr " Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands. 由British Virgin Islands Financial Services Commission授權和管理- %1查看許可證%2。"
 
 msgid "Deriv (BVI) Ltd: British Virgin Islands"
 msgstr "Deriv (BVI) 有限公司: 英屬維爾京群島"
@@ -3830,7 +3830,7 @@ msgid "Deriv (FX) Ltd, Deriv BVI (Ltd), or"
 msgstr "Deriv (FX) 有限公司，Deriv BVI (有限公司)，或"
 
 msgid "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia. Licensed and regulated by the Labuan Financial Services Authority to carry on a money-broking business %1(licence no. MB/18/0024)%2. A member of the %3Labuan Fintech Association%4."
-msgstr "Deriv (FX) 有限公司，地址: Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia。由納閩金融服務管理局授予牌照執行資金經紀商業活動 %1(牌照編號MB/18/0024)%2和監管。是納閩Fintech協會的成員。"
+msgstr "Deriv (FX) Ltd., Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Federal Territory of Labuan, Malaysia。由Labuan Financial Services Authority授予牌照執行資金經紀商業活動 %1(牌照編號MB/18/0024)%2和監管。是Labuan Fintech Association的成員。"
 
 msgid "Deriv (FX) Ltd: Labuan, Territory of Malaysia"
 msgstr "Deriv (FX) 有限公司: 納閩，馬來西亞直轄區"
@@ -3842,7 +3842,7 @@ msgid "Deriv (SVG) LLC,"
 msgstr "Deriv (SVG) 有限責任公司，"
 
 msgid "Deriv (SVG) LLC, Hinds Buildings, Kingstown, St. Vincent and the Grenadines; company number 25299 BC 2019."
-msgstr "Deriv (SVG) 有限責任公司, Hinds Buildings, Kingstown, 聖文森及格瑞那丁; 公司編號: 25299 BC 2019。"
+msgstr "Deriv (SVG) LLC, Hinds Buildings, Kingstown, St. Vincent and the Grenadines; 公司編號: 25299 BC 2019。"
 
 msgid "Deriv (SVG) LLC: St. Vincent and the Grenadines"
 msgstr "Deriv (SVG) 有限責任公司: 聖文森和格瑞那丁"
@@ -3854,7 +3854,7 @@ msgid "Deriv (V) Ltd,"
 msgstr "Deriv (V) 有限公司"
 
 msgid "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu. Licensed and regulated by the Vanuatu Financial Services Commission - %1view licence%2."
-msgstr "Deriv (V) 有限公司, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu。由瓦努阿圖金融服務委員會授權和管理- %1查看許可證%2。"
+msgstr "Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, Republic of Vanuatu。由Vanuatu Financial Services Commission授權和管理- %1查看許可證%2。"
 
 msgid "Deriv (V) Ltd: Vanuatu"
 msgstr "Deriv (V) 有限公司: 萬那杜"
@@ -3875,7 +3875,7 @@ msgid "Deriv Investments (Europe) Limited has prepared the Financial disclosures
 msgstr "Deriv 投資 (歐洲) 有限公司已根據投資公司規則和指令編寫了財務披露報告。請參閱此報告以瞭解我們作為市場參與者嚴格遵守市場紀律的方式。"
 
 msgid "Deriv Investments (Europe) Limited is a company established in Malta, at W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033. It is licensed in Malta and regulated by the Malta Financial Services Authority, Triq l-Imdina, Zone 1, Central Business District, Birkirkara CBD 1010, Malta, under the Investments Services Act to provide investment services in the European Union."
-msgstr "Deriv 投資 (歐洲) 有限公司在馬爾他設立，地址是 W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033。由位於Triq l-Imdina, Zone 1, Central Business District, Birkirkara CBD 1010, Malta 的馬爾他金融服務機構根據投資服務法令授予執照並受其監管，在歐盟提供投資服務。"
+msgstr "Deriv Investments (Europe) Limited在馬爾他設立，地址是 W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033。由 Malta Financial Services Authority, Triq l-Imdina, Zone 1, Central Business District, Birkirkara CBD 1010, Malta根據投資服務法令授予執照並受其監管，在歐盟提供投資服務。"
 
 msgid "Deriv Investments (Europe) Limited is entitled to provide services in another EU Member State through EU passporting rights. Refer to the map below for the list of EU countries that have access to %1 via EU passporting rights - freedom to provide cross border services."
 msgstr "Deriv 投資 (歐洲) 有限公司有權通過歐盟金融護照權利在另一歐盟成員國提供服務。 請參閱以下地圖查看有權通過歐盟金融護照（自由提供跨國界服務）權利存取%1的歐盟國家清單。"
@@ -3884,10 +3884,10 @@ msgid "Deriv Investments (Europe) Limited is required to collect your tax inform
 msgstr "Deriv 投資 (歐洲) 有限公司需要收集稅務資訊。"
 
 msgid "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed in Malta and authorised by the Malta Financial Services Authority under the Investments Services Act to provide investment services in the European Union."
-msgstr "Deriv 投資 (歐洲) 有限公司，W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta 在馬爾他獲得執照，並由馬爾他金融服務機構授權提供歐盟的投資服務。"
+msgstr "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta 在馬爾他獲得執照，並由Malta Financial Services Authority授權提供歐盟的投資服務。"
 
 msgid "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed in Malta and regulated by the Malta Financial Services Authority under the Investments Services Act to provide investment services in the European Union (%1licence no. IS/70156%2). It is also authorised and subject to limited regulation by the Financial Conduct Authority in the UK. Details about the extent of our authorisation and regulation by the Financial Conduct Authority are available from us on request."
-msgstr "Deriv 投資 (歐洲) 有限公司，W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta 在馬爾他獲得執照，並根據《投資服務法》受馬爾他金融服務管理局監管，可在歐盟提供投資服務（%1執照編號IS/70156%2）。同時也經由英國金融行為監管局授權並受其監管。我們可應要求提供有關金融行為監管局授權和監管範圍的詳細資訊。"
+msgstr "Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta 在馬爾他獲得執照，並根據《投資服務法》受 Malta Financial Services Authority監管，可在歐盟提供投資服務（%1執照編號IS/70156%2）。同時也經由英國Financial Conduct Authority授權並受其監管。我們可應要求提供有關金融行為監管局授權和監管範圍的詳細資訊。"
 
 msgid "Deriv Investments (Europe) Limited."
 msgstr "Deriv 投資 (歐洲) 有限公司"
@@ -3899,7 +3899,7 @@ msgid "Deriv Limited — 13 Castle Street, St. Helier, JE2 3BT, Jersey — is th
 msgstr "Deriv 有限公司 - 13 Castle Street, St. Helier, JE2 3BT, Jersey - 為以上子公司的控股公司。"
 
 msgid "Deriv Limited, with registered office at 13 Castle Street, St. Helier, JE2 3BT, Jersey, is the holding company for the subsidiaries listed below."
-msgstr "Deriv 有限公司的註冊辦事處位於 13 Castle Street, St. Helier, JE2 3BT, Jersey，為下列子公司的控股公司。"
+msgstr "Deriv 有限公司Deriv Limited的註冊辦事處位於 13 Castle Street, St. Helier, JE2 3BT, Jersey，為下列子公司的控股公司。"
 
 msgid "Deriv.com launched"
 msgstr "Deriv.com 已推出"
@@ -6389,10 +6389,10 @@ msgid "In the EU, financial binary options are only available to professional in
 msgstr "歐盟的金融二元期權僅供專業投資者使用。"
 
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, licensed and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
-msgstr "歐盟國家的金融產品交易由 Deriv 投資 (歐洲) 有限公司提供，地址為W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta，由馬爾他金融服務機構授予執照及監管為3級投資服務提供商 (%1執照號碼為IS/70156%2)。"
+msgstr "歐盟國家的金融產品交易由 Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta提供，由Malta Financial Services Authority授予執照及監管為3級投資服務提供商 (%1執照號碼為IS/70156%2)。"
 
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
-msgstr "歐盟國家的金融產品交易由 Deriv 投資 (歐洲) 有限公司提供，地址為W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta，由馬爾他金融服務機構監管為3級投資服務提供商 (執照號碼為%1IS/70156%2)。"
+msgstr "歐盟國家的金融產品交易由 Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta提供，由Malta Financial Services Authority監管為3級投資服務提供商 (執照號碼為%1IS/70156%2)。"
 
 msgid "In the case of a Limit Order, the client acknowledges that the Company will endeavour to fill the Order at a level that is the same or better than the Limit the client has specified, subject to the availability of the Limit Price."
 msgstr "下限價訂單時，客戶確認只要有可用的限價，公司將儘力以與客戶指定的水平相同或更好價格成交訂單。"
@@ -6422,7 +6422,7 @@ msgid "In the event that the Company is aware of an Affiliate who is in breach o
 msgstr "如公司發現聯盟會員違反任何上述規定，除了擁有根據本協議或適用法律的任何其他權利或賠償權利，公司有權立即阻止該聯盟會員對公司的存取。該聯盟會員因此不可撤銷地放棄其權利，而且如果公司撤銷該聯盟會員對公司的存取，聯盟會員須對公司及任何 Deriv 集團公司成員、其董事、職員、股東、僱員或由公司針對%1網站的任何索賠或要求索賠作出賠償。"
 
 msgid "In the rest of the EU, Synthetic indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority (%1licence no. MGA/B2C/102/2000%3)  and (2) the Revenue Commissioners for clients in Ireland (licence no. 1010285). View complete %2Regulatory Information%3."
-msgstr "歐盟其他地區的綜合指數交易由Deriv (歐洲) 有限公司提供，地址為 W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta，由(1) 馬爾他博彩局授予執照和監管 (%1執照號MGA/B2C/102/2000%3)， 及 (2) 愛爾蘭客戶由稅務局授予執照和監管(執照號: 1010285)。查閱完整的%2監管資訊%3。"
+msgstr "歐盟其他地區的綜合指數交易由Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta提供，由(1) Malta Gaming Authority授予執照和監管 (%1執照號MGA/B2C/102/2000%3)， 及 (2) 愛爾蘭客戶由Revenue Commissioners授予執照和監管(執照號: 1010285)。查閱完整的%2監管資訊%3。"
 
 msgid "In this Agreement, unless the context otherwise requires, the following definitions hold:"
 msgstr "本協議中，除非上下文另有解釋，否則以下定義應適用："
@@ -8459,7 +8459,7 @@ msgid "Our website uses cookies to give you the best user experience. For more i
 msgstr "網站使用 cookie 提供最佳的使用者體驗。請%1參閱我們的政策 %2。"
 
 msgid "Outside the EU, financial products are offered by Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines; Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu, regulated by the Vanuatu Financial Services Commission (%1view licence%2); Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands, regulated by the British Virgin Islands Financial Services Commission (%3licence no. SIBA/L/18/1114%4); and Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia, regulated by the Labuan Financial Services Authority to carry on a money-broking business (%5licence no. MB/18/0024%6)."
-msgstr "歐盟以外地區，金融產品由 Deriv (SVG) 有限責任公司, Hinds Building, Kingstown, St. Vincent and the Grenadines 提供服務。Deriv (V) 有限公司, Govant Building, Port Vila, PO Box 1276, Vanuatu提供服務，受瓦努阿圖金融服務委員會監管（%1查看執照%2），或由Deriv (BVI) 有限公司, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands 提供服務，受英屬維爾京群島金融服務委員會監管（%3執照編號SIBA/L/18/1114%4）以及由Deriv (FX) 有限公司, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia提供服務，受納閩金融服務管理局監管，並開展貨幣經紀業務（%5執照編號MB/18/0024%6）。"
+msgstr "歐盟以外地區，金融產品由 Deriv (SVG) LLC, Hinds Building, Kingstown, St. Vincent and the Grenadines提供服務。Deriv (V) Ltd, Govant Building, Port Vila, PO Box 1276, Vanuatu提供服務，受Vanuatu Financial Services Commission監管（%1查看執照%2），或由Deriv (BVI) Ltd, Kingston Chambers, P.O. Box 173, Road Town, Tortola, British Virgin Islands 提供服務，受British Virgin Islands Financial Services Commission監管（%3執照編號SIBA/L/18/1114%4）以及由Deriv (FX) Ltd, Lot No. F16, First Floor, Paragon Labuan, Jalan Tun Mustapha, 87000 Labuan, Malaysia提供服務，受Labuan Financial Services Authority監管，並開展貨幣經紀業務（%5執照編號MB/18/0024%6）。"
 
 msgid "Outstanding written and verbal communication skills and excellent command of English"
 msgstr "出色的書面和口頭交流能力以及傑出的英語水平"
@@ -15452,5 +15452,5 @@ msgid "{SPAIN ONLY}You are about to purchase a product that is not simple and ma
 msgstr "{SPAIN ONLY}You are about to purchase a product that is not simple and may be difficult to understand: Contracts for difference and forex. As a general rule, the CNMV considers that such products are not appropriate for retail clients, due to their complexity."
 
 msgid "“Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed and regulated for digital options on synthetic indices by the Malta Gaming Authority in Malta (%1licence no. MGA/B2C/102/2000%2) and by Revenue Commissioners for clients in Ireland (licence no. 1010285)."
-msgstr "“Deriv  (歐洲) 有限公司，地址為 W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta，綜合指數的數字期權由位於馬爾他的馬爾他博彩局授予執照和監管 (%1執照號MGA/B2C/102/2000%2)，愛爾蘭客戶由稅務局授予執照和監管(執照號: 1010285)。"
+msgstr "“Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta，綜合指數的數字期權由位於馬爾他的 Malta Gaming Authority授予執照和監管 (%1執照號MGA/B2C/102/2000%2)，愛爾蘭客戶由Revenue Commissioners授予執照和監管(執照號: 1010285)。"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-01-03 03:17\n"
+"PO-Revision-Date: 2023-01-16 17:55\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "MIME-Version: 1.0\n"
@@ -9708,7 +9708,7 @@ msgid "Replication,"
 msgstr "Replicação,"
 
 msgid "Represent themselves as a representative of the Company or as an authorised person by the Company in their advertising activities."
-msgstr "Representar-se como representante da Empresa ou como pessoa autorizada pela Empresa nas suas atividades publicitárias."
+msgstr "Representar a si mesmos como representante da Empresa ou como pessoa autorizada pela Empresa em suas atividades de publicidade."
 
 msgid "Representations and warranties"
 msgstr "Representações e garantias"
@@ -9932,7 +9932,7 @@ msgid "Risk acknowledgement"
 msgstr "Reconhecimento do risco"
 
 msgid "Risk disclaimer"
-msgstr "Aviso de Risco"
+msgstr "Declaração de risco"
 
 msgid "Risk disclosure statement"
 msgstr "Declaração de Divulgação de Risco"
@@ -9989,7 +9989,7 @@ msgid "Sale of Property"
 msgstr "Venda de propriedade"
 
 msgid "Sample:"
-msgstr "Amostra:"
+msgstr "Exemplo:"
 
 msgid "Saturday"
 msgstr "Sábado"
@@ -10415,7 +10415,7 @@ msgid "Sorry, mobile version is not available yet."
 msgstr "Desculpe, a versão móvel ainda não está disponível."
 
 msgid "Sorry, no mobile phone bills"
-msgstr "Desculpe, sem contas de celular"
+msgstr "Desculpe, não são aceitas contas de celular"
 
 msgid "Sorry, options trading isn’t available in the United Kingdom and the Isle of Man"
 msgstr "Desculpe, a negociação de opções não está disponível no Reino Unido e na Ilha de Man"
@@ -10547,13 +10547,13 @@ msgid "Step 1"
 msgstr "Etapa 1"
 
 msgid "Step 1: Choose demo or real account"
-msgstr "Etapa 1: Escolha a conta demo ou real"
+msgstr "Etapa 1: escolha uma conta demo ou real"
 
 msgid "Step 1: Define your position"
 msgstr "Passo 1: Defina a sua posição"
 
 msgid "Step 1: Learn to read currency pairs"
-msgstr "Etapa 1: Aprenda como ler pares de moedas"
+msgstr "Etapa 1: Aprenda a ler pares de moedas"
 
 msgid "Step 2"
 msgstr "Etapa 2"
@@ -10562,7 +10562,7 @@ msgid "Step 2: Choose account type"
 msgstr "Etapa 2: Escolha o tipo de conta"
 
 msgid "Step 2: Get your price"
-msgstr "Etapa 2: Obtenha o seu preço"
+msgstr "Etapa 2: Confira o seu preço"
 
 msgid "Step 2: Understand when to buy and when to sell"
 msgstr "Etapa 2: Saiba quando comprar e quando vender"
@@ -10604,16 +10604,16 @@ msgid "Stop Limit Orders are a combination of Stop and Limit Orders. If the pric
 msgstr "Ordens de limite de Stop são uma combinação de ordens de Stop e Limite. Se o preço atingir (ou ultrapassar) o Preço Stop, um Pedido Limite será colocado ao preço especificado, que será preenchido a um preço igual ou melhor que o preço especificado. "
 
 msgid "Stop Loss Orders"
-msgstr "Ordens de limite de perdas"
+msgstr "Ordens de Stop Loss"
 
 msgid "Stop Order/Stop Loss Order"
-msgstr "Ordem de interrupção/Ordem de limite de perdas"
+msgstr "Ordem de Stop/Ordem de Stop Loss"
 
 msgid "Stop Out Level"
 msgstr "Nível do limite de perdas"
 
 msgid "Stop out level"
-msgstr "Nível do limite de perdas"
+msgstr "Nível de parada"
 
 msgid "Storage of content"
 msgstr "Armazenamento de conteúdo"
@@ -10622,10 +10622,10 @@ msgid "Stored Procedures"
 msgstr "Procedimentos armazenados"
 
 msgid "Straight rows of keys are easy to guess"
-msgstr "Teclas com linhas retas são mais fáceis de adivinhar"
+msgstr "Linhas retas de teclas são fáceis de adivinhar"
 
 msgid "Strong analytical capabilities that have been proven in a prior capacity or a keen interest to move into this area"
-msgstr "Fortes capacidades analíticas que foram comprovadas em uma capacidade anterior ou um grande interesse para entrar nesta área"
+msgstr "Fortes habilidades analíticas que foram comprovadas anteriormente ou com um grande interesse em migrar para essa área"
 
 msgid "Strong analytical skills and the ability to communicate your findings in a clear, concise, and effective manner"
 msgstr "Fortes habilidades analíticas e capacidade de comunicar suas descobertas de maneira clara, concisa e eficaz"
@@ -10637,10 +10637,10 @@ msgid "Strong communication skills."
 msgstr "Fortes habilidades de comunicação."
 
 msgid "Strong decision-making skills"
-msgstr "Forte capacidade de tomar decisões"
+msgstr "Fortes habilidades de tomada de decisão"
 
 msgid "Strong oral and written communication skills in both the regional language(s) and English"
-msgstr "Fortes capacidades de comunicação oral e escrita, tanto no idioma regional como em inglês"
+msgstr "Fortes habilidades de comunicação oral e escrita no idioma regional e em inglês"
 
 msgid "Strong passwords contain at least 8 characters, combine uppercase and lowercase letters, numbers, and symbols."
 msgstr "Senhas fortes contêm pelo menos 8 caracteres, combinam letras maiúsculas e minúsculas, números e símbolos."
@@ -10713,7 +10713,7 @@ msgid "Submit one of the documents below"
 msgstr "Envie um dos documentos abaixo"
 
 msgid "Submit passport photo page"
-msgstr "Enviar foto da página do passaporte"
+msgstr "Enviar página de foto do passaporte"
 
 msgid "Submit proof of address"
 msgstr "Enviar comprovante de residência"
@@ -10895,7 +10895,7 @@ msgid "Take a photo of the front of your license"
 msgstr "Tire uma foto da frente da sua carteira nacional de habilitação"
 
 msgid "Take a photo of your passport photo page"
-msgstr "Tire uma foto da página do seu passaporte"
+msgstr "Tire uma foto da página de foto do seu passaporte"
 
 msgid "Take a photo using the <fallback>basic camera mode</fallback> instead"
 msgstr "Tire uma foto usando o <fallback>modo de câmera básico</fallback>"
@@ -11030,7 +11030,7 @@ msgid "Tether TRC20"
 msgstr "Tether TRC20"
 
 msgid "Tether as a TRC20 token (tUSDT) is a version of Tether that is hosted on Tron."
-msgstr "Tether como um token TRC20 (tUSDT) é uma versão do Tether hospedada no Tron."
+msgstr "O Tether como token TRC20 (tUSDT) é uma versão do Tether hospedada no Tron."
 
 msgid "Tether as an ERC20 token (eUSDT) is a version of Tether that is hosted on Ethereum."
 msgstr "Tether como um token ERC20 (eUSDT) é uma versão do Tether hospedada na Ethereum."
@@ -11057,13 +11057,13 @@ msgid "Thank you for your interest in partnering with us. We've made it easy for
 msgstr "Agradecemos o seu interesse em fazer parceria conosco. Facilitamos sua inscrição online. Basta preencher o formulário de inscrição online %1o%2 com todos os dados necessários. Se você já está registrado como afiliado %3 , envie um e-mail para %4. Entraremos em contato diretamente caso a sua inscrição tenha sido validada."
 
 msgid "That contravenes any laws, regulations, instruments, ordinances, or rules that govern the operation of any exchange, financial market, or financial regulatory environment"
-msgstr "Que viole quaisquer leis, regulamentos, instrumentos, ordenanças ou regras que regem a operação de qualquer mercado de câmbio, financeiro ou ambiente regulatório financeiro"
+msgstr "Isso viola quaisquer leis, regulamentos, instrumentos, portarias ou regras que regem a operação de qualquer bolsa, mercado financeiro ou ambiente regulatório financeiro"
 
 msgid "That the parties agree in writing that both parties will be exempt from the provisions of this clause"
 msgstr "Que as partes concordam por escrito que ambas as partes estarão isentas das disposições desta cláusula"
 
 msgid "That the recipient is obliged by Law to disclose such information, provided that the recipient promptly advises the other party of the legal obligation to disclose such information"
-msgstr "Que o destinatário é obrigado pela Lei a divulgar essas informações, desde que o destinatário informe imediatamente a outra parte da obrigação legal de divulgar tais informações"
+msgstr "Que o destinatário é obrigado por lei a divulgar tais informações, desde que o destinatário avise prontamente a outra parte sobre a obrigação legal de divulgar tais informações"
 
 msgid "The %1 API has usage limits enforced to prevent abuse and/or repurposing of the %1 API. These usage limits may be changed in the future without notice. If the Programmer consistently exceeds the usage limit or otherwise abuse the service, the Company may block the Programmer's access to the %1 API."
 msgstr "A API %1 tem limites de uso impostos para evitar abuso e/ou redirecionamento da API %1. Esses limites de uso podem ser alterados no futuro sem aviso prévio. Se o Programador exceder consistentemente o limite de uso ou abusar do serviço, a Empresa pode bloquear o acesso do Programador à API %1."
@@ -11087,19 +11087,19 @@ msgid "The %1 website's static content (CSS, Javascript) is available as the %2b
 msgstr "O conteúdo estático do site %1 (CSS, Javascript) está disponível como <a target='_blank' href='%1'>binary-static</a>, um projeto de código aberto no github. Gostaria de recriar o site %1 ou melhorar a compatibilidade com navegadores, aumentar a velocidade do site ou o desempenho do Javascript? Então, crie uma cópia do projeto e envie um pedido com as suas sugestões de mudança de código."
 
 msgid "The %1close%2 is the latest tick at or before the %1end time%2. If you selected a specific %1end time,%2 the %1end time%2 is the selected time."
-msgstr "O %1fechamento%2 é o último tique-taque em ou antes da %1hora de término%2. Caso você tenha selecionado uma \"%1hora de término%2 específica, a %1hora de término%2 é a hora selecionada."
+msgstr "O fechamento é o último tick antes ou na hora de término. Caso você tenha selecionado uma hora de término específico, a hora de término é a hora selecionada."
 
 msgid "The %1contract period%2 is the period between the %1first tick%2 (after start time) and the %1end time%2."
-msgstr "O %1período do contrato%2 é o período entre o %1primeiro tique-taque%2 (depois da hora de início) e a \"%1hora de término%2."
+msgstr "O %1período do contrato%2 é o período entre o %1primeiro tick%2 (depois da hora de início) e a \"%1hora de término%2."
 
 msgid "The %1end time%2 is the selected number of minutes/hours after the %1start time%2."
 msgstr "A %1hora de término%2 é o número de minutos/horas selecionado depois da %1hora de início%2."
 
 msgid "The %1entry spot%2 is the next tick after the %1start time%2."
-msgstr "O %1Preço de Entrada%2 é o próximo tique-taque após a %1hora de início%2."
+msgstr "O %1Preço de Entrada%2 é o próximo tick após a %1hora de início%2."
 
 msgid "The %1exit spot%2 is the last tick when the contract ends. Contract ends when all ticks rise or fall successively, or when a single tick breaks the predicted pattern."
-msgstr "O %1preço de saída%2 é o último tique-taque quando o contrato termina. O contrato termina quando todos os tique-taques sobem ou descem sucessivamente, ou quando um único tique-taque quebra o padrão previsto."
+msgstr "O %1preço de saída%2 é o último tick quando o contrato termina. O contrato termina quando todos os ticks sobem ou descem sucessivamente, ou quando um único tick quebra o padrão previsto."
 
 msgid "The %1high%2 is the highest point ever reached by the market during the contract period."
 msgstr "A %1alta%2 é o ponto mais alto alcançado pelo mercado durante o período do contrato."
