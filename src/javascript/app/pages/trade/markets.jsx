@@ -191,7 +191,10 @@ class Markets extends React.Component {
     };
 
     toggleAccordion = () => {
-        this.setState({ open_accordion: !this.state.open_accordion });
+        this.setState((prevState) => ({
+            ...prevState,
+            open_accordion: !prevState.open_accordion,
+        }));
     }
 
     getCurrentUnderlying = () => {
@@ -228,7 +231,6 @@ class Markets extends React.Component {
                 } else {
                     this.setState({
                         subgroup_active: false,
-                        open_accordion : false,
                     });
                 }
             }
@@ -523,11 +525,16 @@ class Markets extends React.Component {
                                             <div>
                                                 {group_markets[item].markets.map((m) => (
                                                     <div
-                                                        className={`market ${active_market === m.key ? 'active' : ''}`}
+                                                        className={classNames('market', {
+                                                            'active': active_market === m.key,
+                                                        })}
                                                         key={m.key}
                                                         onClick={scrollToMarket.bind(null, `${m.key}`)}
                                                     >
-                                                        <span className={`icon ${m.key} ${active_market === m.key ? 'active' : ''}`} />
+                                                        <span className={classNames(`icon ${m.key}`, {
+                                                            'active': active_market === m.key,
+                                                        })}
+                                                        />
                                                         <span>{m.name}</span>
                                                     </div>))}
                                             </div>
@@ -538,18 +545,30 @@ class Markets extends React.Component {
                                             >
                                                 <div
                                                     className={classNames('market', {
+                                                        'active'         : subgroup_active,
+                                                        'accordion-label': !!open_accordion,
+                                                    })}
+                                                    onClick={toggleAccordion}
+                                                >
+                                                    <span className={classNames('icon synthetic_index', {
                                                         'active': subgroup_active,
                                                     })}
-                                                    onClick={toggleAccordion || (subgroup_active ? toggleAccordion : '')}
-                                                >
-                                                    <span className={`icon synthetic_index ${open_accordion ? 'active' : ''}`} />
+                                                    />
                                                     <span>{group_markets[item].markets[0].subgroup_name}</span>
-                                                    <span className={`accordion-icon icon ${open_accordion ? 'active' : ''}`} />
+                                                    <span className={classNames('accordion-icon icon', {
+                                                        'active': open_accordion,
+                                                    })}
+                                                    />
                                                 </div>
-                                                <div className={`${open_accordion ? 'accordion-content--active' : 'accordion-content'}`}>
+                                                <div className={classNames('accordion-content', {
+                                                    'accordion-content--active': open_accordion,
+                                                })}
+                                                >
                                                     {group_markets[item].markets.map((m) => (
                                                         <div
-                                                            className={`subgroup market ${active_market === m.key ? 'subgroup-active' : ''}`}
+                                                            className={classNames('subgroup market', {
+                                                                'subgroup-active': active_market === m.key,
+                                                            })}
                                                             key={m.key}
                                                             onClick={scrollToMarket.bind(null, `${m.key}`)}
                                                         >
@@ -576,9 +595,14 @@ class Markets extends React.Component {
                                                                 onClick = {scrollToMarket.bind(null, m.key)}
                                                                 key = {m.key}
                                                                 data-market = {m.key}
-                                                                className={active_market === m.key ? 'active' : ''}
+                                                                className={classNames('', {
+                                                                    'active': active_market === m.key,
+                                                                })}
                                                             >
-                                                                <span className={`icon ${m.key} ${active_market === m.key ? 'active' : ''}`} />
+                                                                <span className={classNames(`icon ${m.key}`, {
+                                                                    'active': active_market === m.key,
+                                                                })}
+                                                                />
                                                             </li>
                                                         ))}
                                                     </React.Fragment>
@@ -591,7 +615,10 @@ class Markets extends React.Component {
                                                             'active': (active_market === derived_category || subgroup_active),
                                                         })}
                                                     >
-                                                        <span className={`icon synthetic_index ${(active_market === derived_category || subgroup_active) ? 'active' : ''}`} />
+                                                        <span className={classNames('icon synthetic_index', {
+                                                            'active': active_market === derived_category || subgroup_active,
+                                                        })}
+                                                        />
                                                     </li>
                                                 )
                                             );
