@@ -1307,7 +1307,9 @@ const Authenticate = (() => {
                     $('#idv_document_failed_try_again_btn').setVisibility(0);
                     $('#idv_document_failed_text').setVisibility(1);
                     $('#idv_document_failed_upload_btn').setVisibility(1);
-                    $('#idv_document_failed_upload_btn').on('click', () => {
+                    $('#idv_document_failed_upload_btn').on('click', (e) => {
+                        e.preventDefault();
+                        e.stopPropagation();
                         $('#idv_document_failed').setVisibility(0);
                         if (Number(onfido_submissions_left) > 0) {
                             handleCountrySelector();
