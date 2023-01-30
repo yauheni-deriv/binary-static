@@ -1378,7 +1378,7 @@ const Authenticate = (() => {
             case 'suspected':
             case 'rejected':
                 if (Number(submissions_left) < 1) {
-                    $('#limited_poi').setVisibility(1);
+                    handleManual();
                 } else {
                     const maximum_reasons = rejected_reasons.slice(0, 3);
                     const has_minimum_reasons = rejected_reasons.length > 3;
@@ -1440,13 +1440,32 @@ const Authenticate = (() => {
         }
     };
 
-    const handleManual = () => {
-        $('#idv-container').setVisibility(0);
+    const handleManual = async () => {
+        account_status = await getAccountStatus();
+        const { manual } = account_status.authentication.identity.services;
+        const { status } = manual;
         $('#authentication_tab').setVisibility(1);
-        $('#msg_personal_details').setVisibility(1);
         TabSelector.updateTabDisplay();
-        $('#not_authenticated_uns').setVisibility(1);
-        initUnsupported();
+
+        switch (status){
+            case 'none':
+                $('#idv-container').setVisibility(0);
+                $('#msg_personal_details').setVisibility(1);
+                $('#not_authenticated_uns').setVisibility(1);
+                initUnsupported();
+                break;
+            case 'pending':
+                $('#idv-container').setVisibility(0);
+                $('#upload_complete').setVisibility(1);
+                break;
+            case 'rejected':
+            case 'suspected':
+                $('#idv-container').setVisibility(0);
+                $('#limited_poi').setVisibility(1);
+                break;
+            default:
+                break;
+        }
     };
 
     const initAuthentication = async () => {
