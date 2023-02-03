@@ -22,6 +22,7 @@ body #topbar {
         color: $COLOR_WHITE;
         white-space: nowrap;
         text-decoration: none;
+        cursor: pointer;
     }
     #select_language {
         top: -3px;

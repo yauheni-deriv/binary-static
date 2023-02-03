@@ -1,4 +1,3 @@
-const moment             = require('moment');
 const setIsForNewAccount = require('./account/settings/personal_details').setIsForNewAccount;
 const GetCurrency        = require('./get_currency');
 const BinaryPjax         = require('../../base/binary_pjax');
@@ -330,10 +329,9 @@ const SetCurrency = (() => {
         });
     };
 
-    const onConfirm = ($currency_list, $error, should_create_account, redirect_to, all_fiat, all_crypto) => {
+    const onConfirm = ($currency_list, $error, should_create_account, redirect_to) => {
         removeError($error);
         const $selected_currency = $currency_list.find('.selected');
-        const has_fiat_account    = Client.hasCurrencyType('fiat');
 
         if ($selected_currency.length) {
             const selected_currency = $selected_currency.attr('id');
@@ -341,21 +339,17 @@ const SetCurrency = (() => {
 
             if (popup_action === 'switch_account') {
                 if (selected_currency === 'NEW'){
-                    localStorage.setItem('popup_action', 'multi_account');
-                    if (!all_fiat && !all_crypto && has_fiat_account) {
-                        onLoad(null, false, false, true);
-                    } else {
-                        onLoad(null, false, all_fiat, all_crypto);
-                    }
+                    cleanupPopup();
+                    Header.showGoToDerivAlertPopup();
                 } else {
                     cleanupPopup();
                     Header.switchLoginid(getLoginid(selected_currency), redirect_to, true);
                 }
-
                 return;
             }
             if (should_create_account) {
-                request = populateReqMultiAccount(selected_currency);
+                cleanupPopup();
+                Header.showGoToDerivAlertPopup();
             } else {
                 request = { set_account_currency: selected_currency };
             }
@@ -476,39 +470,6 @@ const SetCurrency = (() => {
         if ($submit && is_btn_enabled) {
             $submit.removeClass('button-disabled');
         }
-    };
-
-    const populateReqMultiAccount = (selected_currency) => {
-        const get_settings = State.getResponse('get_settings');
-
-        const request = {
-            new_account_real      : 1,
-            currency              : selected_currency,
-            date_of_birth         : moment.utc(+get_settings.date_of_birth * 1000).format('YYYY-MM-DD'),
-            salutation            : get_settings.salutation,
-            first_name            : get_settings.first_name,
-            last_name             : get_settings.last_name,
-            address_line_1        : get_settings.address_line_1,
-            address_line_2        : get_settings.address_line_2,
-            address_city          : get_settings.address_city,
-            address_state         : get_settings.address_state,
-            address_postcode      : get_settings.address_postcode,
-            phone                 : get_settings.phone,
-            account_opening_reason: get_settings.account_opening_reason,
-            citizen               : get_settings.citizen,
-            place_of_birth        : get_settings.place_of_birth,
-            residence             : Client.get('residence'),
-            ...(get_settings.tax_identification_number && {
-                tax_identification_number: get_settings.tax_identification_number,
-            }),
-            ...(get_settings.tax_residence && {
-                tax_residence: get_settings.tax_residence,
-            }),
-        };
-        Object.keys(request).forEach(key => {
-            if (!request[key] || request[key] === '') delete request[key];
-        });
-        return request;
     };
 
     const cleanupPopup = () => {
