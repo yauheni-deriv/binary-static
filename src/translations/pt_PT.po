@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-02-03 14:27\n"
+"PO-Revision-Date: 2023-02-07 04:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "MIME-Version: 1.0\n"
@@ -5480,7 +5480,7 @@ msgid "Go to Deriv to add an MT5 account"
 msgstr "Siga para Deriv para adicionar uma conta MT5"
 
 msgid "Go to Deriv to add an account"
-msgstr ""
+msgstr "Siga para Deriv para adicionar uma conta"
 
 msgid "Go to MT5 download page"
 msgstr "Ir à página de download da MT5"
@@ -9872,7 +9872,7 @@ msgid "Review and analyse suspicious client activities"
 msgstr "Revisar e analisar as atividades suspeitas do cliente"
 
 msgid "Review and approve KYC documents"
-msgstr "Revisar e aprovar documentos KYC"
+msgstr "Analisar e aprovar documentos KYC"
 
 msgid "Review and maintain third-party services used by the company"
 msgstr "Revisar e manter serviços de terceiros usados ​​pela empresa"
@@ -9911,7 +9911,7 @@ msgid "Right to terminate"
 msgstr "Direito de rescindir"
 
 msgid "Rights on Default"
-msgstr "Direito de Terminar"
+msgstr "Direitos sobre Inadimplência"
 
 msgid "Ripple vs US dollar"
 msgstr "Ripple vs Dólar Americano"
@@ -10364,7 +10364,7 @@ msgid "Simply click on \"Create\" to generate your token; then copy and paste it
 msgstr "Basta clicar em \"Criar\" para gerar o seu token; depois copie-o e cole-o no aplicativo."
 
 msgid "Since DIEL exclusively deals on own account in Financial Products, this means that DIEL acts as the execution venue, and accordingly all transactions entered into with DIEL will be executed outside a regulated market (stock exchange) or multilateral trading facility."
-msgstr "Como a DIEL lida exclusivamente com conta própria em Produtos Financeiros, isso significa que DIEL atua como local de execução e, consequentemente, todas as transações firmadas com a DIEL serão executadas fora de um mercado regulado (bolsa de valores) ou de um sistema de negociação multilateral."
+msgstr "Como a DIEL lida exclusivamente com conta própria em Produtos Financeiros, isso significa que a DIEL atua como local de execução e, consequentemente, todas as transações firmadas com a DIEL serão executadas fora de um mercado regulado (bolsa de valores) ou de um sistema de negociação multilateral."
 
 msgid "Since DIEL is a member of the Malta Investor Compensation Scheme, the client is covered for the first €20,000 of any claim that the client may have in the unlikely event of DIEL suffering an investment default and not being able to meet its obligations. This protection is available only to retail clients. Neither professional clients nor eligible counterparties can benefit from this protection."
 msgstr "Visto que a DIEL é um membro do Malta Investor Compensation Scheme (Sistema de Compensação de Investidores de Malta), você estará coberto pelos primeiros 20.000€ de qualquer reivindicação que puder ter no caso improvável de a DIEL sofrer um incumprimento de investimento e não poder cumprir as suas obrigações. Esta proteção está apenas disponível a clientes particulares. Nem clientes profissionais nem contrapartes elegíveis podem beneficiar desta proteção."
