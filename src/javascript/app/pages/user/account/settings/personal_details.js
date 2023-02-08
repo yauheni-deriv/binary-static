@@ -355,7 +355,7 @@ const PersonalDetails = (() => {
 
     const setDetailsResponse = (response) => {
         // allow user to resubmit the form on error.
-        const is_error = response.set_settings !== 1;
+        const is_error = response.error;
         if (!is_error) {
             // to update tax information message for financial clients
             BinarySocket.send({ get_account_status: 1 }, { forced: true }).then(() => {
