@@ -124,7 +124,11 @@ class Markets extends React.Component {
         let market_symbol = Defaults.get('market');
         const market_list = Symbols.markets();
         this.markets = getAvailableUnderlyings(market_list);
-        delete this.markets.forex.submarkets.smart_fx;
+
+        if (this.markets.forex) {
+            delete this.markets.forex.submarkets.smart_fx;
+        }
+
         this.underlyings = Symbols.getAllSymbols() || {};
         let underlying_symbol = Defaults.get('underlying');
 
@@ -585,11 +589,11 @@ class Markets extends React.Component {
                             <div className='mobile'>
                                 <React.Fragment>
                                     <ul>
-                                        {Object.keys(group_markets).map((item) => {
+                                        {Object.keys(group_markets).map((item, idx) => {
                                             const derived_category = group_markets[item].markets[0].key;
                                             return (
                                                 item === 'none' ? (
-                                                    <React.Fragment>
+                                                    <React.Fragment key={`${item}_${idx}`}>
                                                         {group_markets[item].markets.map((m) => (
                                                             <li
                                                                 onClick = {scrollToMarket.bind(null, m.key)}
