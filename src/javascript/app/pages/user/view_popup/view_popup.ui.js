@@ -72,26 +72,31 @@ const ViewPopupUI = (() => {
         }
     };
 
+    const enableButton = (button) => {
+        button.removeAttr('disabled');
+        button.fadeTo(0, 1);
+    };
+
+    const enableContractViewButton = () => {
+        $('.open_contract_details[disabled]').each(function () {
+            enableButton($(this));
+        });
+    };
+
     const closeContainer = () => {
         if ($container) {
             $container.hide().remove();
             $('.popup_page_overlay').hide().remove();
             $container = null;
+            enableContractViewButton();
         }
         $('html').removeClass('no-scroll');
     };
 
     const disableButton = (button) => {
-        $('.open_contract_details[disabled]').each(function () {
-            enableButton($(this));
-        });
+        enableContractViewButton();
         button.attr('disabled', 'disabled');
         button.fadeTo(0, 0.5);
-    };
-
-    const enableButton = (button) => {
-        button.removeAttr('disabled');
-        button.fadeTo(0, 1);
     };
 
     const showInpagePopup = (data, containerClass, dragHandle) => {
