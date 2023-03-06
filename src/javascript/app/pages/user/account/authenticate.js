@@ -1125,6 +1125,11 @@ const Authenticate = (() => {
         const country_code = selected_country.value;
         const { has_visual_sample, documents_supported } = selected_country.identity.services.idv;
 
+        if (country_code === 'in') {
+            delete documents_supported.aadhaar;
+            delete documents_supported.passport;
+        }
+        
         let document_type,
             document_number;
         
